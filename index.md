@@ -3,9 +3,10 @@ layout: cv
 title: CV Arce-Valdés en Español
 ---
 # Luis Rodrigo Arce Valdés
-_Estudiante de doctorado trabajando en genómica de la especiación y asociaciones genotipo-fenotipo empleando datos de secuenciación de nueva generación. Formación en genética de poblaciones y de la conservación._
+**Estudiante de doctorado trabajando en genómica de la especiación y asociaciones genotipo-fenotipo empleando datos de secuenciación de nueva generación. Formación en genética de poblaciones y de la conservación.**
 
-Choosing the proper genetic technique for each biological question is critical to achieve research objectives. From the experimental design, sampling and wet lab processing to the informatics data analysis, each step must be carefully developed to reach the desired knowledge, always assuring quality, reproducibility and efficient resources management.
+*Choosing the proper genetic technique for each biological question is critical to achieve research objectives. From the experimental design, sampling and wet lab processing to the informatics data analysis, each step must be carefully developed to reach the desired knowledge, always assuring quality, reproducibility and efficient resources management.*
+
 
 <div id="webaddress">
 <a href="bio.l.rodrigo.arce@gmail.com">bio.l.rodrigo.arce@gmail.com</a> |
@@ -45,12 +46,12 @@ Análisis bioinformáticos de datos genómicos: construcción de mapas cromosóm
 `Sep2019 -`
 Doctorado en Ciencias, **Instituto de Ecología A.C**.
 
-Genetic and evolutionary bases of the _Ischnura_ damselflies female coloration using next generation sequencing approaches.
+Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
 
 `Sep2016 - Oct2018`
 Maestría en Ciencias, **Centro de Investigación Científica y de Educación Superior de Ensenada**.
 
-Estado de conservación e historia demográfica de _Cynoscion othonopterus_ a través de la estimación de su tamaño efectivo poblacional.
+Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.
 
 `Ago2011 - Dic2015`
 Licenciatura en Biología, **Universidad Autónoma del Estado de México**.
@@ -88,10 +89,10 @@ XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias
 ### Presentaciones
 
 `Ago2018`
-Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. Genetic Diversity and Effective Population Size of the Gulf Corvina (_Cynoscion othonopterus_) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
+Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
 
 `Ago2014`
-Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. Flujo génico entre manchones poblacionales de _Dichromanthus aurantiacus_ en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
+Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
 
 ### Pósters
 
@@ -108,19 +109,19 @@ Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [*Monitoreo de la diversid
 ### Estancias de Investigación
 
 `Nov2018 - Feb2019`
-Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (_Totoaba macdonaldi_). **UCSC - NOAA Southwest Fisheries Science Center**.
+Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **UCSC - NOAA Southwest Fisheries Science Center**.
 
 `Jun2015 - Ago2015`
-Trazabilidad genética de la totoaba (_Totoaba macdonaldi_) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
+Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
 
 `Jun2014 - Ago2014`
-Flujo génico entre manchones poblacionales de _Dichromanthus aurantiacus_ en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
+Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
 
 
 ### Proyectos de Investigación
 
 `Nov2018 - Feb2019`
-Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (_Totoaba macdonaldi_). **SAGARPA/CONACyT**.
+Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **SAGARPA/CONACyT**.
 
 ### Docencia
 
