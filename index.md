@@ -134,7 +134,7 @@ Genética. XXV Olimpiada Nacional de Biología. **Universidad Autónoma del Esta
 Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
 
 
-### Otros
+## Otros
 
 `2011` 3° Lugar Nacional en México en el Worldwide Competition on Microsoft Office, San Diego 2011 en Microsoft Office Excel 2007.
 
