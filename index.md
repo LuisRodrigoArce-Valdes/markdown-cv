@@ -1,91 +1,154 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Arce-Valdés en Español
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Luis Rodrigo Arce Valdés
+Estudiante de doctorado trabajando en genómica de la especiación y asociaciones genotipo-fenotipo empleando datos de secuenciación de nueva generación. Formación en genética de poblaciones y de la conservación.
+
+*Choosing the proper genetic technique for each biological question is critical to achieve research objectives. From the experimental desing, sampling and wet lab processing to the informatic data analysis, each step must be carefully developed to reach the desired knowledge, always assuring quality, reproducibility and efficient resources management*
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bio.l.rodrigo.arce@gmail.com">bio.l.rodrigo.arce@gmail.com</a>
+
+<a href="luis.arce@posgrado.ecologia.edu.mx">luis.arce@posgrado.ecologia.edu.mx</a>
+
+<a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a>
+
+<a href="https://orcid.org/0000-0001-6445-7534">ORCID</a>
+
+<a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a>
 </div>
 
+CVU: 768144
 
-## Currently
+Fecha de Nacimiento: 22 de Julio de 1993
 
-Standing on the shoulders of giants
+## Habilidades y Experiencia
 
-### Specialized in
+### Especializado en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Estandarización de PCR y genotipificación de muestras mediante marcadores moléculares tipo microsatélite y secuencias de haplotipos mitocondriales.
 
+Análisis genéticos poblacionales, inferencia demográfica histórica, pruebas de parentesco, análisis de paternidad, códigos de barras de ADN, reconstrucciones filogéneticas y genética forense de vida silvestre.
 
-### Research interests
+Construcción de librerías de ADN para secuenciación de nueva generación: genomas de representación reducida (RADseq y GTseq), secuenciación y resecuenciación de genomas completos. Genotipificación mediante marcadores moleculares tipo SNPs y microhaplotipos.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Programación en Bash y R. Uso de herramientas de la investigación bioinformática reproducible. Diseño de gráficos en ggplot2.
 
+### En desarrollo
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Análisis bioinformáticos de datos genómicos: construcción de mapas cromosómicos, reconstrucciones filogenómicas, asociaciones genótipo-fenótipo, cuantificación de introgresión genética en taxa divergentes e identificación de islas genómicas de especación.
 
 
+## Educación
 
-## Awards
+### Formación Académica
 
-`2012`
-President, *Royal Society*, London, UK
+`Septiembre 2019 -`
+**Doctorado en Ciencias, Instituto de Ecología A.C.**
+Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches
 
-Associate, *French Academy of Science*, Paris, France
+`Septiembre 2016 - Octubre 2018`
+**Maestría en Ciencias, Centro de Investigación Científica y de Educación Superior de Ensenada**
+Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional
 
+`Agosto 2011 - Diciembre 2015`
+**Licenciatura en Biología, Universidad Autónoma del Estado de México**
+Titulación por Aprovechamiento Académico
 
+### Cursos y Talleres
 
-## Publications
+`Mayo 2019`
+Gestión Integral de Residuos Sólidos Urbanos. **Universidad del Medio Ambiente**.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Agosto 2018`
+A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences. **American Fisheries Society**.
 
 
-## Occupation
+## Becas y Financiamientos
 
-`1600`
-__Royal Mint__, London
+### Becas
 
-- Warden
-- Minted coins
+`Septiembre 2019 - `
+Beca para estudios de posgrado nacionales CONACyT. Beca de Doctorado. **CONACyT**.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Septiembre 2016 - Agosto 2018`
+Beca para estudios de posgrado nacionales CONACyT. Beca de Maestría. **CONACyT**.
+
+`Junio 2015 - Agosto 2015`
+XXV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
+
+`Junio 2014 - Agosto 2014`
+XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
+
+
+## Publicaciones
+
+### Presentaciones
+
+`Agosto 2018`
+Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
+
+`Agosto 2014`
+Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
+
+### Pósters
+
+`Noviembre 2019`
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management. **100th Annual Western Society of Naturalists Meeting**.
+
+### Artículos de Divulgación
+
+`2019`
+Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [*Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina*](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf).**Espíritu Científico en Acción**. 15 (29): 3-13.
+
+## Experiencias Profesionales
+
+### Estancias de Investigación
+
+`Noviembre 2018 - Febrero 2019`
+Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **UCSC - NOAA Southwest Fisheries Science Center**
+
+`Junio 2015 - Agosto 2015`
+Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
+
+`Junio 2014 - Agosto 2014`
+Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
+
+
+### Proyectos de Investigación
+
+`Noviembre 2018 - Febrero 2019`
+Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **SAGARPA/CONACyT**
+
+### Docencia
+
+`Diciembre 2018 - Octubre 2018`
+Genética Acuícola. *Licenciatura en Biotecnología en Acuacultura*. **Universidad Autónoma de Baja California**.
+
+`Diciembre 2015 - Enero 2016`
+Genética. *XXV Olimpiada Nacional de Biología*. **Universidad Autónoma del Estado de México**.
+
+`Diciembre 2014 - Enero 2015`
+Virus y Bacterias. *XXIV Olimpiada Nacional de Biología*. **Universidad Autónoma del Estado de México**.
+
+
+### Otros
+
+*2011* - 3° Lugar Nacional en México en el *Worldwide Competition on Microsoft Office*, San Diego 2011 en Microsoft Office Excel 2007.
+
+*2011* - 1° Lugar Regional en el Estado de México en el *Worldwide Competition on Microsoft Office*, San Diego 2011 en Microsoft Office Excel 2007.
+
+*2010* - 2° Lugar Regional en el Estado de México en el *Worldwide Competition on Microsoft Office*, Utah 2010 en Microsoft Office Word 2007.
+
+*2010* - 1° Lugar Nacional en el Premio Contacto Banxico.
+
+*2010* - Mención Honorífica en el 6° Concurso Nacional de Ensayo Filosófico Preuniversitario *Dilemas éticos contemporáneos* por la Universidad Iberoamericana.
+
+*2010* - 2° Lugar en la XX Olimpiada Estatal del Estado de México de Biología.
+
+*2009* - 1° Lugar en la XIX Olimpiada Estatal del Estado de México de Biología.
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Última actualización: Enero 2020
