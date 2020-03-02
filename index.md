@@ -53,10 +53,14 @@ Maestría en Ciencias, **Centro de Investigación Científica y de Educación Su
 
 Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.
 
+Cédula Profesional: 11938995
+
 `Ago2011 - Dic2015`
 Licenciatura en Biología, **Universidad Autónoma del Estado de México**.
 
 Titulación por Aprovechamiento Académico.
+
+Cédula Profesional: 10691429
 
 ### Cursos y Talleres
 
@@ -154,4 +158,4 @@ Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma
 
 <!-- ### Footer
 
-Última actualización: Enero 2020 -->
+Última actualización: Marzo 2020 -->
