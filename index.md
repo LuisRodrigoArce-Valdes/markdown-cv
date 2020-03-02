@@ -20,7 +20,7 @@ title: CV Arce-Valdés en Español
 <a>CVU:768144</a>
 </div>
 
-Fecha de Nacimiento: 22 de Julio de 1993
+Fecha de Nacimiento: 22 de Julio de 1993.
 
 ## Habilidades y Experiencia
 
