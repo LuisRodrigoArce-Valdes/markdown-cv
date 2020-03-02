@@ -9,7 +9,7 @@ title: CV Arce-Valdés en Español
 
 
 <div id="webaddress">
-<a>bio.l.rodrigo.arce@gmail.com</a> |
+<a href="mailto:bio.l.rodrigo.arce@gmail.com" title="clic to email">bio.l.rodrigo.arce@gmail.com</a> |
 
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
 
@@ -17,10 +17,10 @@ title: CV Arce-Valdés en Español
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> |
 
-<a>CVU:768144</a>
+<a href="https://www.conacyt.gob.mx/images/pdfs_conacyt/servicios_enlinea/2017cvu/Manual_CVU_2018-1.pdf">CVU:768144</a>
 </div>
 
-Fecha de Nacimiento: 22 de Julio de 1993.
+Fecha de Nacimiento: 22 de Julio de 1993
 
 ## Habilidades y Experiencia
 
