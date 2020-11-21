@@ -64,6 +64,9 @@ Cédula Profesional: 10691429
 
 ### Cursos y Talleres
 
+`Sep2020`
+Adaptation Genomics. **Physalia-courses & the Free University of Berlin**.
+
 `May2019`
 Gestión Integral de Residuos Sólidos Urbanos. **Universidad del Medio Ambiente**.
 
@@ -93,20 +96,26 @@ XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias
 ### Presentaciones
 
 `Ago2018`
-Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
+Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
 
 `Ago2014`
-Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
+Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
 
 ### Pósters
 
-`Nov2019`
-Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management. **100th Annual Western Society of Naturalists Meeting**.
+`Sep2020`
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
 
-### Artículos de Divulgación
+`Nov2019`
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
+
+### Divulgación Científica
+
+`2020`
+Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q&t=592s). **El Instituto de Ecología , INECOL**.
 
 `2019`
-Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [*Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina*](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
+Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
 
 ## Experiencias Profesionales
 
@@ -128,6 +137,9 @@ Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el
 Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **SAGARPA/CONACyT**.
 
 ### Docencia
+
+`Ago2020 - Dic2020`
+Investigación Dirigida: Herramientas bioinformáticas para análisis poblacionales de haplotipos mitocondriales. Maestría en Oceanografía Costera. **Universidad Autónoma de Baja California**.
 
 `Dic2018 - Oct2018`
 Genética Acuícola. Licenciatura en Biotecnología en Acuacultura. **Universidad Autónoma de Baja California**.
@@ -158,4 +170,4 @@ Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma
 
 <!-- ### Footer
 
-Última actualización: Marzo 2020 -->
+Última actualización: Noviembre 2020 -->
