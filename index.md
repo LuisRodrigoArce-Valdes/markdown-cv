@@ -51,7 +51,7 @@ Genetic and evolutionary bases of the *Ischnura* damselflies female coloration u
 `Sep2016 - Oct2018`
 Maestría en Ciencias, **Centro de Investigación Científica y de Educación Superior de Ensenada**.
 
-Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.
+[Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://www.repositorionacionalcti.mx/recurso/oai:cicese.repositorioinstitucional.mx:1007/2509)
 
 Cédula Profesional: 11938995
 
