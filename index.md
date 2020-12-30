@@ -114,6 +114,9 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [L
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q&t=592s). **El Instituto de Ecología , INECOL**.
 
+`Jun2019 - Dic2020`
+[Blog Popurrí](https://popurri.com.mx/author/luis-rodrigo/)
+
 `2019`
 Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
 
@@ -170,4 +173,4 @@ Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma
 
 <!-- ### Footer
 
-Última actualización: Noviembre 2020 -->
+Última actualización: Diciembre 2020 -->
