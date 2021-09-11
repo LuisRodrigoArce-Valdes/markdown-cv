@@ -5,13 +5,15 @@ title: CV Arce-Valdés
 # Luis Rodrigo Arce Valdés
 
 <div id="webaddress">
-<a href="mailto:bio.l.rodrigo.arce@gmail.com" title="clic to email">bio.l.rodrigo.arce@gmail.com</a> |
+<a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
   
 <a href="biolrodrigoarce.wordpress.com">biolrodrigoarce.wordpress.com</a> |
 
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> |
+
+<a>+527225456950</a>
 
 </div>
 
@@ -21,7 +23,7 @@ title: CV Arce-Valdés
 ### Academic Trajectory
 
 `Sep2019 -`
-PhD Student, **Instituto de Ecología A.C**.
+PhD Student, **Instituto de Ecología A.C.**
 
 Thesis:
 Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
@@ -56,28 +58,33 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 
 ## Experience
 
+### Research Assistance
+
+`Aug2020 - Dec2020`
+Isolation and characterization of microsatellite loci for *Canthon cyanellus*. **Instituto de Ecología A. C.**
+  - Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+  - PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+
+
 ### Visits
 
 `Nov2018 - Feb2019`
-Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*). **UCSC - NOAA Southwest Fisheries Science Center**.
+Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*). **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**.
   - Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
   - Standardization of totoaba microhaplotype genotyping using GTseq.
 
-`Jun2015 - Ago2015`
+`Jun2015 - Aug2015`
 Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
+  - Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
 
-`Jun2014 - Ago2014`
+`Jun2014 - Aug2014`
 Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
+  - Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
 
 
-### Proyectos de Investigación
+### Teaching
 
-`Nov2018 - Feb2019`
-Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **SAGARPA/CONACyT**.
-
-### Docencia
-
-`Ago2020 - Dic2020`
+`Aug2020 - Dec2020`
 Investigación Dirigida: Herramientas bioinformáticas para análisis poblacionales de haplotipos mitocondriales. Maestría en Oceanografía Costera. **Universidad Autónoma de Baja California**.
 
 `Dic2018 - Oct2018`
