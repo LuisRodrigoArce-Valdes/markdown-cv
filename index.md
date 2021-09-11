@@ -1,26 +1,96 @@
 ---
 layout: cv
-title: CV Arce-Valdés en Español
+title: CV Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
-**Estudiante de doctorado trabajando en genómica de la especiación y asociaciones genotipo-fenotipo empleando datos de secuenciación de nueva generación. Formación en genética de poblaciones y de la conservación.**
-
-*Choosing the proper genetic technique for each biological question is critical to achieve research objectives. From the experimental design, sampling and wet lab processing to the informatics data analysis, each step must be carefully developed to reach the desired knowledge, always assuring quality, reproducibility and efficient resources management.*
-
 
 <div id="webaddress">
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="clic to email">bio.l.rodrigo.arce@gmail.com</a> |
+  
+<a href="biolrodrigoarce.wordpress.com">biolrodrigoarce.wordpress.com</a> |
 
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
 
-<a href="https://orcid.org/0000-0001-6445-7534">ORCID</a> |
-
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> |
 
-<a href="https://www.conacyt.gob.mx/images/pdfs_conacyt/servicios_enlinea/2017cvu/Manual_CVU_2018-1.pdf">CVU:768144</a>
 </div>
 
-Fecha de Nacimiento: 22 de Julio de 1993
+
+## Education
+
+### Academic Trajectory
+
+`Sep2019 -`
+PhD Student, **Instituto de Ecología A.C**.
+
+Thesis:
+Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
+
+
+`Sep2016 - Oct2018`
+M. S. Environmental Biology, **Centro de Investigación Científica y de Educación Superior de Ensenada**.
+
+Thesis:
+[Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://www.repositorionacionalcti.mx/recurso/oai:cicese.repositorioinstitucional.mx:1007/2509)
+
+
+`Aug2011 - Dec2015`
+B. S. Biology, **Universidad Autónoma del Estado de México**.
+
+
+### Courses & Workshops
+
+`Aug2021`
+Ensamble y Anotación de Genomas y Metagenomas. **Nodo Nacional de Bioinformática & Comunidad de Desarrolladores de Software en Bioinformática**.
+
+`Sep2020`
+Adaptation Genomics. **Physalia-courses & the Free University of Berlin**.
+
+`May2019`
+Gestión Integral de Residuos Sólidos Urbanos. **Universidad del Medio Ambiente**.
+
+`Aug2018`
+A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences. **American Fisheries Society**.
+
+
+
+## Experience
+
+### Visits
+
+`Nov2018 - Feb2019`
+Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*). **UCSC - NOAA Southwest Fisheries Science Center**.
+  - Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
+  - Standardization of totoaba microhaplotype genotyping using GTseq.
+
+`Jun2015 - Ago2015`
+Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
+
+`Jun2014 - Ago2014`
+Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
+
+
+### Proyectos de Investigación
+
+`Nov2018 - Feb2019`
+Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **SAGARPA/CONACyT**.
+
+### Docencia
+
+`Ago2020 - Dic2020`
+Investigación Dirigida: Herramientas bioinformáticas para análisis poblacionales de haplotipos mitocondriales. Maestría en Oceanografía Costera. **Universidad Autónoma de Baja California**.
+
+`Dic2018 - Oct2018`
+Genética Acuícola. Licenciatura en Biotecnología en Acuacultura. **Universidad Autónoma de Baja California**.
+
+`Dic2015 - Ene2016`
+Genética. XXV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
+
+`Dic2014 - Ene2015`
+Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
+
+
+
 
 ## Habilidades y Experiencia
 
@@ -37,41 +107,6 @@ Programación en Bash y R. Uso de herramientas de la investigación bioinformát
 ### En desarrollo
 
 Análisis bioinformáticos de datos genómicos: construcción de mapas cromosómicos, reconstrucciones filogenómicas, asociaciones genótipo-fenótipo, cuantificación de introgresión genética en taxa divergentes e identificación de islas genómicas de especación.
-
-
-## Educación
-
-### Formación Académica
-
-`Sep2019 -`
-Doctorado en Ciencias, **Instituto de Ecología A.C**.
-
-Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
-
-`Sep2016 - Oct2018`
-Maestría en Ciencias, **Centro de Investigación Científica y de Educación Superior de Ensenada**.
-
-[Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://www.repositorionacionalcti.mx/recurso/oai:cicese.repositorioinstitucional.mx:1007/2509)
-
-Cédula Profesional: 11938995
-
-`Ago2011 - Dic2015`
-Licenciatura en Biología, **Universidad Autónoma del Estado de México**.
-
-Titulación por Aprovechamiento Académico.
-
-Cédula Profesional: 10691429
-
-### Cursos y Talleres
-
-`Sep2020`
-Adaptation Genomics. **Physalia-courses & the Free University of Berlin**.
-
-`May2019`
-Gestión Integral de Residuos Sólidos Urbanos. **Universidad del Medio Ambiente**.
-
-`Ago2018`
-A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences. **American Fisheries Society**.
 
 
 ## Becas y Financiamientos
@@ -119,40 +154,6 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 `2019`
 Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
-
-## Experiencias Profesionales
-
-### Estancias de Investigación
-
-`Nov2018 - Feb2019`
-Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **UCSC - NOAA Southwest Fisheries Science Center**.
-
-`Jun2015 - Ago2015`
-Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
-
-`Jun2014 - Ago2014`
-Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
-
-
-### Proyectos de Investigación
-
-`Nov2018 - Feb2019`
-Innovaciones tecnológicas para la conservación y reproducción de peces marinos con énfasis en Totoaba (*Totoaba macdonaldi*). **SAGARPA/CONACyT**.
-
-### Docencia
-
-`Ago2020 - Dic2020`
-Investigación Dirigida: Herramientas bioinformáticas para análisis poblacionales de haplotipos mitocondriales. Maestría en Oceanografía Costera. **Universidad Autónoma de Baja California**.
-
-`Dic2018 - Oct2018`
-Genética Acuícola. Licenciatura en Biotecnología en Acuacultura. **Universidad Autónoma de Baja California**.
-
-`Dic2015 - Ene2016`
-Genética. XXV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
-
-`Dic2014 - Ene2015`
-Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
-
 
 ## Otros
 
