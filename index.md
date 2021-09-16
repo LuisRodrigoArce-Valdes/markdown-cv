@@ -62,24 +62,24 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 
 `2020`
 Isolation and characterization of microsatellite loci for *Canthon cyanellus*. **Instituto de Ecología A. C.**
-  + Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-  + PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+  * Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+  * PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 
 ### Visits
 
 `2018`
 Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*). **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**.
-  + Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
-  + Standardization of totoaba microhaplotype genotyping using GTseq.
+  * Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
+  * Standardization of totoaba microhaplotype genotyping using GTseq.
 
 `2015`
 Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
-  + Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
+  * Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
 
 `2014`
 Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
-  + Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
+  * Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
  
 
 ## Scientific Publications
