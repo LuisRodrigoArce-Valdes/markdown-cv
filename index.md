@@ -22,36 +22,36 @@ title: CV Arce-Valdés
 
 ### Academic Trajectory
 
-`Sep2019 -`
+`2019 -`
 PhD Student, **Instituto de Ecología A.C.**
 
 Thesis:
 Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
 
 
-`Sep2016 - Oct2018`
+`2016 - 2018`
 M. S. Environmental Biology, **Centro de Investigación Científica y de Educación Superior de Ensenada**.
 
 Thesis:
-[Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://www.repositorionacionalcti.mx/recurso/oai:cicese.repositorioinstitucional.mx:1007/2509)
+[Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 
-`Aug2011 - Dec2015`
+`2011 - 2015`
 B. S. Biology, **Universidad Autónoma del Estado de México**.
 
 
 ### Courses & Workshops
 
-`Aug2021`
+`2021`
 Ensamble y Anotación de Genomas y Metagenomas. **Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**.
 
-`Sep2020`
+`2020`
 Adaptation Genomics. **Physalia-courses & the Free University of Berlin**.
 
-`May2019`
+`2019`
 Gestión Integral de Residuos Sólidos Urbanos. **Universidad del Medio Ambiente**.
 
-`Aug2018`
+`2018`
 A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences. **American Fisheries Society**.
 
 
@@ -60,26 +60,26 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 
 ### Research Assistance
 
-`Aug2020 - Dec2020`
+`2020`
 Isolation and characterization of microsatellite loci for *Canthon cyanellus*. **Instituto de Ecología A. C.**
-  - Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-  - PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+  + Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+  + PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 
 ### Visits
 
-`Nov2018 - Feb2019`
+`2018`
 Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*). **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**.
-  - Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
-  - Standardization of totoaba microhaplotype genotyping using GTseq.
+  + Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
+  + Standardization of totoaba microhaplotype genotyping using GTseq.
 
-`Jun2015 - Aug2015`
+`2015`
 Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre. **Universidad Autónoma de Baja California**.
-  - Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
+  + Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
 
-`Jun2014 - Aug2014`
+`2014`
 Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
-  - Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
+  + Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
  
 
 ## Scientific Publications
@@ -117,13 +117,6 @@ Directed Research: Bioinformatic tools for population analyses using mitochondri
 `Oct2018 - Dec2018`
 Aquaculture Genetics. B. S. Biotechnology in aquaculture. **Universidad Autónoma de Baja California**.
 
-### High School courses
-
-`Dec2015 - Jan2016`
-Genetics. XXV Mexican National Biology Olympiad. **Universidad Autónoma del Estado de México**.
-
-`Dec2014 - Jan2015`
-Virus and Bacteria. XXIV Mexican National Biology Olympiad. **Universidad Autónoma del Estado de México**.
 
 
 
@@ -144,25 +137,7 @@ XXV Verano de la Investigación Científica de la Academia Mexicana de Ciencias 
 XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
 
 
-## Habilidades y Experiencia
-
-### Especializado en
-
-Estandarización de PCR y genotipificación de muestras mediante marcadores moléculares tipo microsatélite y secuencias de haplotipos mitocondriales.
-
-Análisis genéticos poblacionales, inferencia demográfica histórica, pruebas de parentesco, análisis de paternidad, códigos de barras de ADN, reconstrucciones filogéneticas y genética forense de vida silvestre.
-
-Construcción de librerías de ADN para secuenciación de nueva generación: genomas de representación reducida (RADseq y GTseq), secuenciación y resecuenciación de genomas completos. Genotipificación mediante marcadores moleculares tipo SNPs y microhaplotipos.
-
-Programación en Bash y R. Uso de herramientas de la investigación bioinformática reproducible. Diseño de gráficos en ggplot2.
-
-### En desarrollo
-
-Análisis bioinformáticos de datos genómicos: construcción de mapas cromosómicos, reconstrucciones filogenómicas, asociaciones genótipo-fenótipo, cuantificación de introgresión genética en taxa divergentes e identificación de islas genómicas de especación.
-
-
-
-### Divulgación Científica
+## Divulgación Científica
 
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q&t=592s). **El Instituto de Ecología , INECOL**.
