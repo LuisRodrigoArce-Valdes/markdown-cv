@@ -43,7 +43,7 @@ B. S. Biology, **Universidad Autónoma del Estado de México**.
 ### Courses & Workshops
 
 `Aug2021`
-Ensamble y Anotación de Genomas y Metagenomas. **Nodo Nacional de Bioinformática & Comunidad de Desarrolladores de Software en Bioinformática**.
+Ensamble y Anotación de Genomas y Metagenomas. **Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**.
 
 `Sep2020`
 Adaptation Genomics. **Physalia-courses & the Free University of Berlin**.
@@ -80,23 +80,68 @@ Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en l
 `Jun2014 - Aug2014`
 Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Universidad Autónoma del Estado de Hidalgo**.
   - Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
+ 
+
+## Scientific Publications
+
+### Articles
 
 
-### Teaching
+### Presentations
+
+`Aug2018`
+Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
+
+`Aug2014`
+Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
+
+### Posters
+
+`Sep2020`
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
+
+`Nov2019`
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
+
+
+
+## Teaching
+
+### Graduate courses
 
 `Aug2020 - Dec2020`
-Investigación Dirigida: Herramientas bioinformáticas para análisis poblacionales de haplotipos mitocondriales. Maestría en Oceanografía Costera. **Universidad Autónoma de Baja California**.
+Directed Research: Bioinformatic tools for population analyses using mitochondrial haplotypes. M. S. Coastal Ocenography. **Universidad Autónoma de Baja California**.
 
-`Dic2018 - Oct2018`
-Genética Acuícola. Licenciatura en Biotecnología en Acuacultura. **Universidad Autónoma de Baja California**.
+### Undergraduate courses
 
-`Dic2015 - Ene2016`
-Genética. XXV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
+`Oct2018 - Dec2018`
+Aquaculture Genetics. B. S. Biotechnology in aquaculture. **Universidad Autónoma de Baja California**.
 
-`Dic2014 - Ene2015`
-Virus y Bacterias. XXIV Olimpiada Nacional de Biología. **Universidad Autónoma del Estado de México**.
+### High School courses
+
+`Dec2015 - Jan2016`
+Genetics. XXV Mexican National Biology Olympiad. **Universidad Autónoma del Estado de México**.
+
+`Dec2014 - Jan2015`
+Virus and Bacteria. XXIV Mexican National Biology Olympiad. **Universidad Autónoma del Estado de México**.
 
 
+
+## Scholarships and Funding
+
+### Scholarships
+
+`Sep2019 - `
+Beca para estudios de posgrado nacionales CONACyT. Beca de Doctorado. **CONACyT**.
+
+`Sep2016 - Aug2018`
+Beca para estudios de posgrado nacionales CONACyT. Beca de Maestría. **CONACyT**.
+
+`Jun2015 - Aug2015`
+XXV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
+
+`Jun2014 - Aug2014`
+XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
 
 
 ## Habilidades y Experiencia
@@ -116,40 +161,6 @@ Programación en Bash y R. Uso de herramientas de la investigación bioinformát
 Análisis bioinformáticos de datos genómicos: construcción de mapas cromosómicos, reconstrucciones filogenómicas, asociaciones genótipo-fenótipo, cuantificación de introgresión genética en taxa divergentes e identificación de islas genómicas de especación.
 
 
-## Becas y Financiamientos
-
-### Becas
-
-`Sep2019 - `
-Beca para estudios de posgrado nacionales CONACyT. Beca de Doctorado. **CONACyT**.
-
-`Sep2016 - Ago2018`
-Beca para estudios de posgrado nacionales CONACyT. Beca de Maestría. **CONACyT**.
-
-`Jun2015 - Ago2015`
-XXV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
-
-`Jun2014 - Ago2014`
-XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
-
-
-## Publicaciones
-
-### Presentaciones
-
-`Ago2018`
-Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
-
-`Ago2014`
-Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
-
-### Pósters
-
-`Sep2020`
-Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
-
-`Nov2019`
-Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
 ### Divulgación Científica
 
