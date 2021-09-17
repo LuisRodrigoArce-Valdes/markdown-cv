@@ -51,25 +51,29 @@ title: Arce-Valdés
 
 `2020`
 **Instituto de Ecología A. C.** Isolation and characterization of microsatellite loci for *Canthon cyanellus*.
+
 >'>   Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+
 >'>   PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 ### Visits
 
 `2018`
 **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
-> Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
-> Standardization of totoaba microhaplotype genotyping using GTseq.
+
+>'> Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
+
+>'> Standardization of totoaba microhaplotype genotyping using GTseq.
 
 `2015`
-**Universidad Autónoma de Baja California**
-Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre.
-> Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
+**Universidad Autónoma de Baja California**. Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre.
+
+>'> Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
 
 `2014`
-**Universidad Autónoma del Estado de Hidalgo**
-Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo.
-> Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses. 
+**Universidad Autónoma del Estado de Hidalgo**. Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo.
+
+>'> Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses. 
 
 ## Scientific Publications
 
