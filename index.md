@@ -31,7 +31,7 @@ Thesis:
 
 Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
 
-### 
+` `
 
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**
@@ -42,7 +42,7 @@ Thesis:
 
 [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
-###
+` `
 
 `2011 - 2015`
 **Universidad Autónoma del Estado de México**
@@ -57,21 +57,21 @@ B. S. Biology
 
 Ensamble y Anotación de Genomas y Metagenomas.
 
-###
+` `
 
 `2020`
 **Physalia-courses & the Free University of Berlin**
 
 Adaptation Genomics.
 
-###
+` `
 
 `2019`
 **Universidad del Medio Ambiente**
 
 Gestión Integral de Residuos Sólidos Urbanos.
 
-###
+` `
 
 `2018`
 **American Fisheries Society**
@@ -89,9 +89,9 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 
 Isolation and characterization of microsatellite loci for *Canthon cyanellus*
 
-> Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+` ` > Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
 
-> PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+` ` > PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 ### Visits
 
