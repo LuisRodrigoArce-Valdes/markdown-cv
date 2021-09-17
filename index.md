@@ -126,30 +126,29 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [L
 ### Scholarships
 
 `2019 - `
-Beca para estudios de posgrado nacionales CONACyT. Beca de Doctorado. **CONACyT**.
+**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. PhD scholarship.
 
 `2016 - 2018`
-Beca para estudios de posgrado nacionales CONACyT. Beca de Maestría. **CONACyT**.
+**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship.
+
+### Grants
 
 `2015`
-XXV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
+**Academia Mexicana de Ciencias**. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
 
 `2014`
-XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
+**Academia Mexicana de Ciencias**. 24th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
 
 
-## Divulgación Científica
+## Science Communication
 
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q&t=592s). **El Instituto de Ecología , INECOL**.
 
-`Jun2019 - Dic2020`
-[Blog Popurrí](https://popurri.com.mx/author/luis-rodrigo/)
-
 `2019`
 Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
 
-## Otros
+## Awards
 
 `2011` 3° Lugar Nacional en México en el Worldwide Competition on Microsoft Office, San Diego 2011 en Microsoft Office Excel 2007.
 
