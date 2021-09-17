@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV Arce-Valdés
+title: Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
 
@@ -23,36 +23,52 @@ title: CV Arce-Valdés
 ### Academic Trajectory
 
 `2019 -`
-PhD Student, **Instituto de Ecología A.C.**
+**Instituto de Ecología A.C.**
+
+PhD Student
 
 Thesis:
+
 Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
 
 
 `2016 - 2018`
-M. S. Environmental Biology, **Centro de Investigación Científica y de Educación Superior de Ensenada**.
+**Centro de Investigación Científica y de Educación Superior de Ensenada**
+
+M. S. Environmental Biology
 
 Thesis:
+
 [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 
 `2011 - 2015`
-B. S. Biology, **Universidad Autónoma del Estado de México**.
+**Universidad Autónoma del Estado de México**
+
+B. S. Biology
 
 
 ### Courses & Workshops
 
 `2021`
-Ensamble y Anotación de Genomas y Metagenomas. **Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**.
+**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**
+
+Ensamble y Anotación de Genomas y Metagenomas.
 
 `2020`
-Adaptation Genomics. **Physalia-courses & the Free University of Berlin**.
+**Physalia-courses & the Free University of Berlin**
+
+Adaptation Genomics.
 
 `2019`
-Gestión Integral de Residuos Sólidos Urbanos. **Universidad del Medio Ambiente**.
+**Universidad del Medio Ambiente**
+
+Gestión Integral de Residuos Sólidos Urbanos.
 
 `2018`
-A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences. **American Fisheries Society**.
+**American Fisheries Society**
+
+A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences.
 
 
 
@@ -61,9 +77,12 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 ### Research Assistance
 
 `2020`
-Isolation and characterization of microsatellite loci for *Canthon cyanellus*. **Instituto de Ecología A. C.**
-  * Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-  * PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+**Instituto de Ecología A. C.**
+
+Isolation and characterization of microsatellite loci for *Canthon cyanellus*
+
+  + Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+  + PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 
 ### Visits
