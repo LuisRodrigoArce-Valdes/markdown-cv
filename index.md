@@ -51,8 +51,8 @@ title: Arce-Valdés
 
 `2020`
 **Instituto de Ecología A. C.** Isolation and characterization of microsatellite loci for *Canthon cyanellus*.
->   > Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
->   > PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+>'>   Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+>'>   PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 ### Visits
 
