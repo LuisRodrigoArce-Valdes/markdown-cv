@@ -24,51 +24,35 @@ title: Arce-Valdés
 
 `2019 -`
 **Instituto de Ecología A.C.**
-
 PhD Student
-
-Thesis:
-
-Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches. \\
+Thesis: Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
 
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**
-
 M. S. Environmental Biology
-
-Thesis:
-
-[Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf) //
+Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2015`
 **Universidad Autónoma del Estado de México**
-
 B. S. Biology
-
 
 ### Courses & Workshops
 
 `2021`
 **Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**
-
-Ensamble y Anotación de Genomas y Metagenomas. \\
+Ensamble y Anotación de Genomas y Metagenomas.
 
 `2020`
 **Physalia-courses & the Free University of Berlin**
-
-Adaptation Genomics. //
+Adaptation Genomics.
 
 `2019`
 **Universidad del Medio Ambiente**
-
 Gestión Integral de Residuos Sólidos Urbanos.  
 
 `2018`
 **American Fisheries Society**
-
 A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences.
-
-
 
 ## Experience
 
@@ -76,38 +60,27 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 
 `2020`
 **Instituto de Ecología A. C.**
-
 Isolation and characterization of microsatellite loci for *Canthon cyanellus*
-
-  > Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-
-  > PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+> Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+> PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 ### Visits
 
 `2018`
 **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**
-
 Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
-
-  > Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
-   
-  > Standardization of totoaba microhaplotype genotyping using GTseq.
+> Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
+> Standardization of totoaba microhaplotype genotyping using GTseq.
 
 `2015`
 **Universidad Autónoma de Baja California**
-
 Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre.
-
-  > Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
+> Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
 
 `2014`
 **Universidad Autónoma del Estado de Hidalgo**
-
 Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo.
-
-  > Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses.
- 
+> Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses. 
 
 ## Scientific Publications
 
