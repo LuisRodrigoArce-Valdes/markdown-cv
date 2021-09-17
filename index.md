@@ -80,8 +80,8 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 **Instituto de Ecología A. C.**
 
 Isolation and characterization of microsatellite loci for *Canthon cyanellus*
-: Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-: PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+`Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.`
+`PCR amplification standardization of *Canthon cyanellus* microsatellite loci.`
 
 
 ### Visits
