@@ -79,11 +79,10 @@ A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Us
 `2020`
 **Instituto de Ecología A. C.**
 
----
 Isolation and characterization of microsatellite loci for *Canthon cyanellus*
-Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
----
+
+    Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+    PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 ### Visits
 
@@ -91,8 +90,8 @@ PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**
 
 Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
-<a> Search and development of microhaplotype genetic markers for totoaba using ddRADseq. </a>
-<a> Standardization of totoaba microhaplotype genotyping using GTseq. </a>
+Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
+Standardization of totoaba microhaplotype genotyping using GTseq.
 
 `2015`
 **Universidad Autónoma de Baja California**
