@@ -55,9 +55,9 @@ title: Arce-Valdés
 `2020`
 **Instituto de Ecología A. C.** Isolation and characterization of microsatellite loci for *Canthon cyanellus*.
 
->'>   Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
+Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
 
->'>   PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
 
 ### Visits
 
@@ -91,18 +91,18 @@ Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico 
 
 ### Presentations
 
-`Aug2018`
+`2018`
 Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
 
-`Aug2014`
+`2014`
 Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
 
 ### Posters
 
-`Sep2020`
+`2020`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
 
-`Nov2019`
+`2019`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
 
@@ -111,14 +111,13 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [L
 
 ### Graduate courses
 
-`Aug2020 - Dec2020`
-Directed Research: Bioinformatic tools for population analyses using mitochondrial haplotypes. M. S. Coastal Ocenography. **Universidad Autónoma de Baja California**.
+`2020`
+**Universidad Autónoma de Baja California**. M. S. Coastal Ocenography. Directed Research: Bioinformatic tools for population analyses using mitochondrial haplotypes.
 
 ### Undergraduate courses
 
-`Oct2018 - Dec2018`
-Aquaculture Genetics. B. S. Biotechnology in aquaculture. **Universidad Autónoma de Baja California**.
-
+`2018`
+**Universidad Autónoma de Baja California**. B. S. Biotechnology in aquaculture. Aquaculture Genetics.
 
 
 
@@ -126,16 +125,16 @@ Aquaculture Genetics. B. S. Biotechnology in aquaculture. **Universidad Autónom
 
 ### Scholarships
 
-`Sep2019 - `
+`2019 - `
 Beca para estudios de posgrado nacionales CONACyT. Beca de Doctorado. **CONACyT**.
 
-`Sep2016 - Aug2018`
+`2016 - 2018`
 Beca para estudios de posgrado nacionales CONACyT. Beca de Maestría. **CONACyT**.
 
-`Jun2015 - Aug2015`
+`2015`
 XXV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
 
-`Jun2014 - Aug2014`
+`2014`
 XXIV Verano de la Investigación Científica de la Academia Mexicana de Ciencias A.C. **Academia Mexicana de Ciencias**.
 
 
