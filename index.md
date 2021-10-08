@@ -24,10 +24,10 @@ title: Arce-Valdés
 ### Academic Trajectory
 
 `2019 -`
-**Instituto de Ecología A.C.** PhD Student. Thesis: Genetic and evolutionary bases of the _Ischnura_ damselflies female coloration using next generation sequencing approaches.
+**Instituto de Ecología A.C.** PhD Student. Thesis: Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
 
 `2016 - 2018`
-**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Thesis: [Estado de conservación e historia demográfica de _Cynoscion othonopterus_ a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
+**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2015`
 **Universidad Autónoma del Estado de México**. B. S. Biology
@@ -35,13 +35,10 @@ title: Arce-Valdés
 ### Courses & Workshops
 
 `2021`
-**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Ensamble y Anotación de Genomas y Metagenomas.
+**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Genomes and Metagenomes Assembly and Annotation.
 
 `2020`
-**Physalia-courses & the Free University of Berlin**. Adaptation Genomics.
-
-`2019`
-**Universidad del Medio Ambiente**. Gestión Integral de Residuos Sólidos Urbanos.  
+**Physalia-courses & the Free University of Berlin**. Adaptation Genomics. 
 
 `2018`
 **American Fisheries Society**. A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences.
@@ -71,14 +68,14 @@ Standardization of totoaba microhaplotype genotyping using GTseq.
 ### '
 
 `2015`
-**Universidad Autónoma de Baja California**. Trazabilidad genética de la totoaba (*Totoaba macdonaldi*) en cautiverio y en la población silvestre.
+**Universidad Autónoma de Baja California**. Totoaba (*Totoaba macdonaldi*) genetic traceability in captivity and in the wild population.
 
 Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
 
 ### '
 
 `2014`
-**Universidad Autónoma del Estado de Hidalgo**. Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo.
+**Universidad Autónoma del Estado de Hidalgo**. Genetic flow between *Dichromanthus aurantiacus* patches in El Chico national park, Hidalgo.
 
 Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses. 
 
@@ -98,6 +95,9 @@ Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Pared
 Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
 
 ### Posters
+
+`2021`
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). Testing the consistency of hybridization outcomes between two damselflies in Spain. **Student Conference on Conservation Science**. Center for Biodiversity and Conservation, American Museum of Natural History.
 
 `2020`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
@@ -149,21 +149,25 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
 
 ## Awards
+`2021`
+**American Museum of Natural History**. Student Conference on Conservation Science. Best Poster Award for outstanding use of quantiative methods.
 
-`2011` 3° Lugar Nacional en México en el Worldwide Competition on Microsoft Office, San Diego 2011 en Microsoft Office Excel 2007.
+`2011` 
+**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 3rd place in Mexico's national competition.
 
-`2011` 1° Lugar Regional en el Estado de México en el Worldwide Competition on Microsoft Office, San Diego 2011 en Microsoft Office Excel 2007.
+**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 1st place in the State of Mexico state competition.
+ 
+`2010`
+**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2nd place in the State of Mexico state competition.
 
-`2010` 2° Lugar Regional en el Estado de México en el Worldwide Competition on Microsoft Office, Utah 2010 en Microsoft Office Word 2007.
+**Banco de México**. Premio Contacto Banxico. 1st National Place.
 
-`2010` 1° Lugar Nacional en el Premio Contacto Banxico.
+**Universidad Iberoamericana**. 6° Concurso Nacional de Ensayo Filosófico Preuniversitario: Dilemas éticos contemporáneos. Honorific mention.
 
-`2010` Mención Honorífica en el 6° Concurso Nacional de Ensayo Filosófico Preuniversitario Dilemas éticos contemporáneos por la Universidad Iberoamericana.
+**Universidad Autónoma del Estado de México**. XX Olimpiada Estatal del Estado de México de Biología. 2nd place.
 
-`2010` 2° Lugar en la XX Olimpiada Estatal del Estado de México de Biología.
-
-`2009` 1° Lugar en la XIX Olimpiada Estatal del Estado de México de Biología.
-
+`2009` 
+**Universidad Autónoma del Estado de México**. XIX Olimpiada Estatal del Estado de México de Biología. 1st place.
 
 <!-- ### Footer
 
