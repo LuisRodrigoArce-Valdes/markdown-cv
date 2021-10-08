@@ -35,7 +35,7 @@ title: Arce-Valdés
 ### Courses & Workshops
 
 `2021`
-**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Genomes and Metagenomes Assembly and Annotation.
+**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Assembly and Annotation of Genomes and Metagenomes .
 
 `2020`
 **Physalia-courses & the Free University of Berlin**. Adaptation Genomics. 
@@ -142,11 +142,19 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [L
 
 ## Science Communication
 
-`2020`
-Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q&t=592s). **El Instituto de Ecología , INECOL**.
+### Articles
 
 `2019`
 Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
+
+### Other
+
+`2020`
+Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q&t=592s). **Instituto de Ecología, A. C.**.
+
+`2019 - 2020`
+[Popurrí Science Communication Web Blog](https://popurri.com.mx/author/luis-rodrigo/). **Popurrí**.
+
 
 ## Awards
 `2021`
