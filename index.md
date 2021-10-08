@@ -119,6 +119,13 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [L
 `2018`
 **Universidad Autónoma de Baja California**. B. S. Biotechnology in aquaculture. Aquaculture Genetics.
 
+### High school courses
+
+`2016`
+**Academia Mexicana de Ciencias**. XXV Olimpiada Nacional de Biología. Genetics.
+
+`2015`
+**Academia Mexicana de Ciencias**. XXIV Olimpiada Nacional de Biología. Virus and Bacteria.
 
 
 ## Scholarships and Funding
