@@ -49,8 +49,8 @@ title: Arce-Valdés
 
 ### Research Assistance
 
-`2020`
-**Instituto de Ecología A. C.** Isolation and characterization of microsatellite loci for *Canthon cyanellus*.
+`2020 - `
+**Instituto de Ecología A. C.**. Molecular systematics of *Canthon cyanellus* using microsatellites.
 
 Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
 
@@ -84,7 +84,8 @@ Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico 
 ## Scientific Publications
 
 ### Articles
-
+`2021`
+Arce-Valdés, L.R., Sánchez-Guillén, R.A., Nolasco-Soto, J. & Favila, M. E. (2021) [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of Canthon cyanellus (Coleoptera: Scarabaeidae)](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8). **Molecular Biology Reports**. https://doi.org/10.1007/s11033-021-06761-8
 
 ### Presentations
 
@@ -97,7 +98,7 @@ Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo gé
 ### Posters
 
 `2021`
-Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). Testing the consistency of hybridization outcomes between two damselflies in Spain. **Student Conference on Conservation Science**. Center for Biodiversity and Conservation, American Museum of Natural History.
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). [Testing the consistency of hybridization outcomes between two damselflies in Spain](https://www.researchgate.net/publication/355335502_Testing_the_consistency_of_hybridization_outcomes_between_two_damselflies_in_Spain). **Student Conference on Conservation Science**. Center for Biodiversity and Conservation, American Museum of Natural History.
 
 `2020`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
