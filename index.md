@@ -89,6 +89,9 @@ Arce-Valdés, L.R., Sánchez-Guillén, R.A., Nolasco-Soto, J. & Favila, M. E. (2
 
 ### Presentations
 
+`2020`
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California. **Virtual Annual Meeting of the American Fisheries Society 2020**.
+
 `2018`
 Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
 
@@ -99,9 +102,6 @@ Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo gé
 
 `2021`
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). [Testing the consistency of hybridization outcomes between two damselflies in Spain](https://www.researchgate.net/publication/355335502_Testing_the_consistency_of_hybridization_outcomes_between_two_damselflies_in_Spain). **Student Conference on Conservation Science**. Center for Biodiversity and Conservation, American Museum of Natural History.
-
-`2020`
-Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California). **Virtual Annual Meeting of the American Fisheries Society 2020**.
 
 `2019`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
