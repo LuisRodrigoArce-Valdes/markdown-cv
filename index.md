@@ -50,7 +50,7 @@ title: Arce-Valdés
 ### Research Assistance
 
 `2020 - `
-**Instituto de Ecología A. C.**. Molecular systematics of *Canthon cyanellus* using microsatellites.
+**Instituto de Ecología A. C.** Molecular systematics of *Canthon cyanellus* using microsatellites.
 
 Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
 
@@ -166,7 +166,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 ## Awards
 `2021`
-**American Museum of Natural History**. Student Conference on Conservation Science. Best Poster Award for outstanding use of quantiative methods.
+**American Museum of Natural History**. Student Conference on Conservation Science. Best Poster: Best Use of Quantitative Methods in Conservation Research: Testing the consistency of hybridization outcomes between two damselflies in Spain.
 
 `2011` 
 **Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 3rd place in Mexico's national competition.
@@ -187,4 +187,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 <!-- ### Footer
 
-Última actualización: Diciembre 2020 -->
+Last Update: October 2021 -->
