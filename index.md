@@ -85,7 +85,7 @@ Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico 
 
 ### Articles
 `2021`
-Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://link.springer.com/article/10.1007/s11033-021-06761-8). Molecular Biology Reports, 48(11), 7433–7441. https://doi.org/10.1007/s11033-021-06761-8
+Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). Molecular Biology Reports, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
 
 ### Presentations
 
