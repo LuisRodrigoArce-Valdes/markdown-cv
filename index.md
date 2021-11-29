@@ -7,11 +7,13 @@ title: Arce-Valdés
 <div id="webaddress">
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
   
-<a href="biolrodrigoarce.wordpress.com">biolrodrigoarce.wordpress.com</a> |
-
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> |
+  
+<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a> |
+
+<a href="biolrodrigoarce.wordpress.com">biolrodrigoarce.wordpress.com</a> |
 
 <a>+527225456950</a>
 
@@ -168,6 +170,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 
 ## Awards
+
 `2021`
 **American Museum of Natural History**. Student Conference on Conservation Science. Best Poster: Best Use of Quantitative Methods in Conservation Research: Testing the consistency of hybridization outcomes between two damselflies in Spain.
 
@@ -188,6 +191,14 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 `2009` 
 **Universidad Autónoma del Estado de México**. XIX Olimpiada Estatal del Estado de México de Biología. 1st place.
 
+## Memberships
+
+`2021`
+**Fauna & Flora International - Oryx**. 5759530.
+
+**Red Mexicana de Bioinformática**.  ARVL000590.
+
+
 <!-- ### Footer
 
-Last Update: October 2021 -->
+Last Update: December 2021 -->
