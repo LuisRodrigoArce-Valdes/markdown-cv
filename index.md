@@ -103,6 +103,8 @@ Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo gé
 ### Posters
 
 `2021`
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Sánchez-Guillén, R. A. (2021). [Reforzamiento rápido del aislamiento reproductivo precigótico en una región híbrida de caballitos del diablo](https://www.researchgate.net/publication/356760169_Reforzamiento_rapido_del_aislamiento_reproductivo_precigotico_en_una_region_hibrida_de_caballitos_del_diablo). **1er Congreso Latinoamericano de Evolución. CLEVOL**
+
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). [Testing the consistency of hybridization outcomes between two damselflies in Spain](https://www.researchgate.net/publication/355335502_Testing_the_consistency_of_hybridization_outcomes_between_two_damselflies_in_Spain). **Student Conference on Conservation Science**. Center for Biodiversity and Conservation, American Museum of Natural History.
 
 `2019`
