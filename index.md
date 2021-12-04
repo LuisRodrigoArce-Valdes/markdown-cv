@@ -87,7 +87,7 @@ Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico 
 
 ### Articles
 `2021`
-Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). Molecular Biology Reports, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
+Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). **Molecular Biology Reports**, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
 
 ### Presentations
 
@@ -103,7 +103,7 @@ Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo gé
 ### Posters
 
 `2021`
-Arce-Valdés, L. R., Ballén-Guapacha, A. V., Sánchez-Guillén, R. A. (2021). [Reforzamiento rápido del aislamiento reproductivo precigótico en una región híbrida de caballitos del diablo](https://www.researchgate.net/publication/356760169_Reforzamiento_rapido_del_aislamiento_reproductivo_precigotico_en_una_region_hibrida_de_caballitos_del_diablo). **1er Congreso Latinoamericano de Evolución. CLEVOL**
+Arce-Valdés, L. R., Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2021). [Reforzamiento rápido del aislamiento reproductivo precigótico en una región híbrida de caballitos del diablo](https://www.researchgate.net/publication/356760169_Reforzamiento_rapido_del_aislamiento_reproductivo_precigotico_en_una_region_hibrida_de_caballitos_del_diablo). **1er Congreso Latinoamericano de Evolución. CLEVOL**
 
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). [Testing the consistency of hybridization outcomes between two damselflies in Spain](https://www.researchgate.net/publication/355335502_Testing_the_consistency_of_hybridization_outcomes_between_two_damselflies_in_Spain). **Student Conference on Conservation Science**. Center for Biodiversity and Conservation, American Museum of Natural History.
 
