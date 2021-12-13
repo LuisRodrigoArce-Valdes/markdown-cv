@@ -114,6 +114,11 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [L
 
 ## Teaching
 
+### Supervised thesis
+
+`2021`
+Soto-González, E. M. (2021). Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería. M. S. Coastal Oceanography Thesis. **Universidad Autónoma de Baja California**.
+
 ### Graduate courses
 
 `2020`
