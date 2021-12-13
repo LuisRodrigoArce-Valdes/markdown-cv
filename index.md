@@ -111,13 +111,15 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. &
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
 
+## Supervised thesis
 
-## Teaching
-
-### Supervised thesis
+### Master's thesis
 
 `2021`
-Soto-González, E. M. (2021). Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería. M. S. Coastal Oceanography Thesis. **Universidad Autónoma de Baja California**.
+Soto-González, E. M. (2021). Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería. M. S. Coastal Oceanography. **Universidad Autónoma de Baja California**.
+
+
+## Teaching
 
 ### Graduate courses
 
