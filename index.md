@@ -170,6 +170,9 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 
 ### Articles
 
+`2022`
+Stand-Pérez, M. A., Aguirre-Pérez, I. A., Arce-Valdés, L. R., Ayala-Sánchez, D., Ballén-Guapacha, A. V., Ordaz-Morales, J. E., Pulido-Ríos, L., Ríos-Olaya, K. J. & Sánchez-Guillén, R. A. (2022). [Hibridación: como estudiar la evolución a través de la reproducción](https://www.cronica.com.mx/academia/hibridacion-estudiar-evolucion-traves-reproduccion.html?fbclid=IwAR22iZrb8b0_4xBO_sRG-TJPZ-iXQm7RcGZGDUP8EYIKPw2Op9cEA9nj9qs). **CRÓNICA**.
+
 `2021`
 Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Microsatélites: secretos evolutivos del ADN](https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/). **Portal. Comunicación Veracruzana**.
 
@@ -179,7 +182,7 @@ Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversida
 ### Other
 
 `2020`
-Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E & Stand-Pérez, M. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q). **Instituto de Ecología, A. C.**.
+Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q). **Instituto de Ecología, A. C.**.
 
 `2019 - 2020`
 [Popurrí Science Communication Web Blog](https://popurri.com.mx/author/luis-rodrigo/). **Popurrí**.
