@@ -6,18 +6,18 @@ title: Arce-Valdés
 
 <div id="webaddress">
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
-
-<a href="biolrodrigoarce.wordpress.com">biolrodrigoarce.wordpress.com</a> |
   
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
+
+<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a> |
+
+<a href="https://scholar.google.com/citations?user==Td0GFt0AAAAJ&hl=en&scioq=luis+rodrigo+arce-vald%C3%A9s&user=Td0GFt0AAAAJ">Google Scholar</a> |
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> |
 
 <a href="https://osf.io/kec9h">OSF</a> |
 
-<a href="https://scholar.google.com/citations?user==Td0GFt0AAAAJ&hl=en&scioq=luis+rodrigo+arce-vald%C3%A9s&user=Td0GFt0AAAAJ">Google Scholar</a> |
-  
-<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a> |
+<a href="https://twitter.com/BioLRodrigo">@BioLRodrigo</a> |
 
 <a>+527225456950</a>
 
