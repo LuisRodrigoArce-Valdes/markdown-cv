@@ -23,7 +23,7 @@ title: Arce-Valdés
 
 </div>
 
-<img src="./photo/Lab.jpg" alt="" width="360" height="270" id="me"/>
+<img src="./photo/Lab.jpg" alt="" style="float:left" width="360" height="270" id="me"/>
 
 ## Education
 
