@@ -6,21 +6,17 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
-<img src="./photo/Lab.jpg" alt="" style="float:left;margin:0px 5px" width="240" height="180" id="me"/>
+<img src="./photo/Lab.jpg" alt="" style="float:left;margin:0px 5px" width="200" height="150" id="me"/>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
-  
-<a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a><br>
 
-<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a><br>
+<a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a><br>
 
 <a href="https://scholar.google.com/citations?user==Td0GFt0AAAAJ&hl=en&scioq=luis+rodrigo+arce-vald%C3%A9s&user=Td0GFt0AAAAJ">Google Scholar</a><br>
 
+<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a><br>
+
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a><br>
-
-<a href="https://osf.io/kec9h">OSF</a><br>
-
-<a href="https://twitter.com/BioLRodrigo">@BioLRodrigo</a><br>
 
 <a>+52 722-54-56-950</a>
 
@@ -32,13 +28,16 @@ title: Arce-Valdés
 ### Academic Trajectory
 
 `2019 -`
-**Instituto de Ecología A.C.** PhD Student. Thesis: Genetic and evolutionary bases of the *Ischnura* damselflies female coloration using next generation sequencing approaches.
+**Instituto de Ecología A.C.** México. PhD Candidate. Supervisor: Rosa Ana Sánchez Guillén. Thesis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.
 
 `2016 - 2018`
-**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
+**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2015`
-**Universidad Autónoma del Estado de México**. B. S. Biology
+**Universidad Autónoma del Estado de México**. B. S. Biology.
+
+`2008-2011`
+**The International Baccalaureate (IB)**. The IB Diploma.
 
 ### Courses & Workshops
 
@@ -58,44 +57,44 @@ title: Arce-Valdés
 ### Research Assistance
 
 `2020 - `
-**Instituto de Ecología A. C.** Molecular systematics of *Canthon cyanellus* using microsatellites.
-
-Isolation and characterization of microsatellite loci across *Canthon cyanellus* scarab genome using next generation sequencing data.
-
-PCR amplification standardization of *Canthon cyanellus* microsatellite loci.
+**Instituto de Ecología A. C.**. Host: Mario Enrique Favila Castillo. Molecular systematics of *Canthon cyanellus* using microsatellites.
 
 ### Visits
 
 `2018`
-**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
-
-Search and development of microhaplotype genetic markers for totoaba using ddRADseq.
-
-Standardization of totoaba microhaplotype genotyping using GTseq.
-
-### '
+**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Host: John Carlos Garza. Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
 
 `2015`
-**Universidad Autónoma de Baja California**. Totoaba (*Totoaba macdonaldi*) genetic traceability in captivity and in the wild population.
-
-Genotyping and parentage assignment of totoaba aquaculture samples using microsatellite markers.
-
-### '
+**Universidad Autónoma de Baja California**. Host: Luis Manuel Enríquez-Paredes. Totoaba (*Totoaba macdonaldi*) genetic traceability in captivity and in the wild population.
 
 `2014`
-**Universidad Autónoma del Estado de Hidalgo**. Genetic flow between *Dichromanthus aurantiacus* patches in El Chico national park, Hidalgo.
-
-Sampling and DNA extractions of *Dichromanthus aurantiacus* orchids in El Chico national park for genetic structure analyses. 
-
+**Universidad Autónoma del Estado de Hidalgo**. Host: Pablo Octavio Aguilar. Genetic flow between *Dichromanthus aurantiacus* patches in El Chico national park, Hidalgo.
 
 
 ## Scientific Publications
 
 ### Articles
+
+`Under Review`
+Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-González, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae). **Fisheries Research**.
+
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Rivas-Torres, A., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in an expanding hybrid zone of damselflies](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627). **Molecular Ecology**. [10.22541/au.164628976.68855627/v1](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627)
+
+Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. First evidence of multiple paternity in the blue shark(*Prionace glauca*). **Journal of Fish Biology**.
+
+
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Asymmetrical reinforcement of mechanical reproductive isolation in a mosaic hybrid zone. **PNAS**.
+
+`2022`
+Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insect populations](https://www.sciencedirect.com/science/article/abs/pii/S2214574522001018). **Current Opinion in Insect Science**. [https://doi.org/10.1016/j.cois.2022.100966](https://doi.org/10.1016/j.cois.2022.100966)
+
 `2021`
 Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). **Molecular Biology Reports**, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
 
 ### Presentations
+
+`2022`
+Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions. **Climate change genomics: vulnerabilities, adaptations and applications**. British Ecological Society.
 
 `2020`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California. **Virtual Annual Meeting of the American Fisheries Society 2020**.
@@ -104,7 +103,7 @@ Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). Ge
 Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
 
 `2014`
-Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguiñar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
+Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguilar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
 
 ### Posters
 
@@ -143,10 +142,10 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ### High school courses
 
 `2016`
-**Academia Mexicana de Ciencias**. XXV Olimpiada Nacional de Biología. Genetics.
+**Academia Mexicana de Ciencias**. XXV National Biology Olympics. Genetics.
 
 `2015`
-**Academia Mexicana de Ciencias**. XXIV Olimpiada Nacional de Biología. Virus and Bacteria.
+**Academia Mexicana de Ciencias**. XXIV National Biology Olympics. Virus and Bacteria.
 
 
 ## Scholarships and Funding
@@ -203,18 +202,19 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 `2010`
 **Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2nd place in the State of Mexico state competition.
 
-**Banco de México**. Premio Contacto Banxico. 1st National Place.
+**Banco de México**.Prize Contact Banxico. 1st National Place.
 
-**Universidad Iberoamericana**. 6° Concurso Nacional de Ensayo Filosófico Preuniversitario: Dilemas éticos contemporáneos. Honorific mention.
+**Universidad Iberoamericana**. 6° National Contest on pre-university assay: Contemporary ethical dilemmas. Honorific mention.
 
-**Universidad Autónoma del Estado de México**. XX Olimpiada Estatal del Estado de México de Biología. 2nd place.
+**Universidad Autónoma del Estado de México**. XX Biology Olympics of the State of Mexico. 2nd place.
 
 `2009` 
-**Universidad Autónoma del Estado de México**. XIX Olimpiada Estatal del Estado de México de Biología. 1st place.
+**Universidad Autónoma del Estado de México**. XIX Biology Olympics of the State of Mexico. 1st place.
 
 ## Memberships
 
-`2021`
+**Red Mexicana de Biología Evolutiva**.
+
 **Fauna & Flora International - Oryx**. 5759530.
 
 **Red Mexicana de Bioinformática**.  ARVL000590.
@@ -222,4 +222,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 <!-- ### Footer
 
-Last Update: May 2022 -->
+Last Update: September 2022 -->
