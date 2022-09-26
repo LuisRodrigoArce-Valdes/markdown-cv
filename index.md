@@ -57,7 +57,7 @@ title: Arce-Valdés
 ### Research Assistance
 
 `2020 - `
-**Instituto de Ecología A. C.**. Host: Mario Enrique Favila Castillo. Molecular systematics of *Canthon cyanellus* using microsatellites.
+**Instituto de Ecología A. C.** Host: Mario Enrique Favila Castillo. Molecular systematics of *Canthon cyanellus* using microsatellites.
 
 ### Visits
 
@@ -73,14 +73,14 @@ title: Arce-Valdés
 
 ## Scientific Publications
 
-### Articles
+### Peer Reviewed Articles
 
 `Under Review`
 Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-González, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae). **Fisheries Research**.
 
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Rivas-Torres, A., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in an expanding hybrid zone of damselflies](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627). **Molecular Ecology**. [10.22541/au.164628976.68855627/v1](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627)
 
-Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. First evidence of multiple paternity in the blue shark(*Prionace glauca*). **Journal of Fish Biology**.
+Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. First evidence of multiple paternity in the blue shark (*Prionace glauca*). **Journal of Fish Biology**.
 
 
 Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Asymmetrical reinforcement of mechanical reproductive isolation in a mosaic hybrid zone. **PNAS**.
@@ -116,9 +116,9 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. &
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
 
-## Supervised thesis
+## Supervised theses
 
-### Master's thesis
+### Master's theses
 
 `2021`
 Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería](https://drive.google.com/file/d/1WXPKwFcyXmlbx5USYxDVatAzw6a_wHb3/view). M. S. Coastal Oceanography. **Universidad Autónoma de Baja California**.
@@ -129,7 +129,7 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ### Graduate courses
 
 `2022`
-**Instituto de Ecología A. C.**. M.S. & PhD. Speciation and Evolutionary Consequences of the Hybridization.
+**Instituto de Ecología A. C.** M.S. & PhD. Speciation and Evolutionary Consequences of the Hybridization.
 
 `2020`
 **Universidad Autónoma de Baja California**. M. S. Coastal Ocenography. Directed Research: Bioinformatic tools for population analyses using mitochondrial haplotypes.
@@ -161,10 +161,10 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ### Grants
 
 `2015`
-**Academia Mexicana de Ciencias**. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
+**Academia Mexicana de Ciencias**. Travel grant. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
 
 `2014`
-**Academia Mexicana de Ciencias**. 24th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
+**Academia Mexicana de Ciencias**. Travel grant. 24th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
 
 
 ## Science Communication
