@@ -6,7 +6,7 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
-<img src="./photo/Lab.jpg" alt="" style="float:left" width="120" height="90" id="me"/>
+<img src="./photo/Lab.jpg" alt="" style="float:left" width="240" height="180" id="me"/>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> <br>
   
