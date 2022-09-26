@@ -6,21 +6,21 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
-<img src="./photo/Lab.jpg" alt="" style="float:left" width="120" height="90" id="me"/> |
+<img src="./photo/Lab.jpg" alt="" style="float:left" width="120" height="90" id="me"/>
 
-<a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
+<a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> <br>
   
-<a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
+<a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> <br>
 
-<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a> |
+<a href="https://orcid.org/0000-0001-6445-7534">ORCiD</a> <br>
 
-<a href="https://scholar.google.com/citations?user==Td0GFt0AAAAJ&hl=en&scioq=luis+rodrigo+arce-vald%C3%A9s&user=Td0GFt0AAAAJ">Google Scholar</a> |
+<a href="https://scholar.google.com/citations?user==Td0GFt0AAAAJ&hl=en&scioq=luis+rodrigo+arce-vald%C3%A9s&user=Td0GFt0AAAAJ">Google Scholar</a> <br>
 
-<a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> |
+<a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a> <br>
 
-<a href="https://osf.io/kec9h">OSF</a> |
+<a href="https://osf.io/kec9h">OSF</a> <br>
 
-<a href="https://twitter.com/BioLRodrigo">@BioLRodrigo</a> |
+<a href="https://twitter.com/BioLRodrigo">@BioLRodrigo</a> <br>
 
 <a>+527225456950</a>
 
