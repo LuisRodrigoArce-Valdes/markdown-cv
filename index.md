@@ -4,8 +4,6 @@ title: Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
 
-![Working in the laboratory](./Photo/lab.jpg "Teaching genetics at the UABC")
-
 <div id="webaddress">
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
   
@@ -25,7 +23,7 @@ title: Arce-Valdés
 
 </div>
 
-
+![Working in the laboratory](./photo/lab.jpg "Teaching genetics at the UABC")
 
 ## Education
 
