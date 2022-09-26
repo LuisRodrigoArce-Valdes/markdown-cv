@@ -4,6 +4,8 @@ title: Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
 
+<div style="text-align: left;"><img src="./photo/Lab.jpg" width="360" height="270"></div>
+
 <div id="webaddress">
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
   
@@ -22,8 +24,6 @@ title: Arce-Valdés
 <a>+527225456950</a>
 
 </div>
-
-<div style="text-align: right;"><img src="./photo/Lab.jpg" width="360" height="270"></div>
 
 ## Education
 
