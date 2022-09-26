@@ -5,6 +5,9 @@ title: Arce-Valdés
 # Luis Rodrigo Arce Valdés
 
 <div id="webaddress">
+
+<img src="./photo/Lab.jpg" alt="" style="float:left" width="120" height="90" id="me"/> |
+
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
   
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a> |
@@ -23,7 +26,6 @@ title: Arce-Valdés
 
 </div>
 
-<img src="./photo/Lab.jpg" alt="" style="float:left" width="360" height="270" id="me"/>
 
 ## Education
 
