@@ -23,7 +23,7 @@ title: Arce-Valdés
 
 </div>
 
-![Working in the laboratory](./photo/Lab.jpg "Teaching genetics at the UABC")
+<div style="text-align: right;"><img src="./photo/Lab.jpg" width="360" height="270"></div>
 
 ## Education
 
