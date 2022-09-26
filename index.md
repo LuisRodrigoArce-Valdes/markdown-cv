@@ -4,7 +4,12 @@ title: Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
 
-<div style="text-align: left;"><img src="./photo/Lab.jpg" width="360" height="270"></div>
+<img src="./photo/Lab.jpg" alt="" width="360" height="270" id="me"/>
+
+#me  {
+float: left;    
+ margin: 0 15px 0 0;
+}
 
 <div id="webaddress">
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a> |
