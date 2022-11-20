@@ -80,7 +80,7 @@ Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-González, 
 
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Rivas-Torres, A., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in an expanding hybrid zone of damselflies](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627). **Molecular Ecology**. [10.22541/au.164628976.68855627/v1](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627)
 
-Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Asymmetrical reinforcement of mechanical reproductive isolation in a mosaic hybrid zone. **PNAS**.
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **PNAS**.
 
 `2022`
 Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2022). [First evidence of multiple paternity in the blue shark (*Prionace glauca*)](https://doi.org/10.1111/jfb.15272). **Journal of Fish Biology**. [https://doi.org/10.1111/jfb.15272](https://doi.org/10.1111/jfb.15272)
