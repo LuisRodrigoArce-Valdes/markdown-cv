@@ -83,7 +83,7 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Cháve
 Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Asymmetrical reinforcement of mechanical reproductive isolation in a mosaic hybrid zone. **PNAS**.
 
 `2022`
-Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. [First evidence of multiple paternity in the blue shark (*Prionace glauca*)](https://doi.org/10.1111/jfb.15272). **Journal of Fish Biology**. [https://doi.org/10.1111/jfb.15272](https://doi.org/10.1111/jfb.15272)
+Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2022). [First evidence of multiple paternity in the blue shark (*Prionace glauca*)](https://doi.org/10.1111/jfb.15272). **Journal of Fish Biology**. [https://doi.org/10.1111/jfb.15272](https://doi.org/10.1111/jfb.15272)
 
 
 Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insect populations](https://www.researchgate.net/publication/363407075_The_evolutionary_outcomes_of_climate_change-induced_hybridization_in_insect_populations). **Current Opinion in Insect Science**, 54, 100966. [https://doi.org/10.1016/j.cois.2022.100966](https://doi.org/10.1016/j.cois.2022.100966)
