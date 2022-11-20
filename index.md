@@ -185,10 +185,6 @@ Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversida
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q). **Instituto de Ecología, A. C.**.
 
-`2019 - 2020`
-[Popurrí Science Communication Web Blog](https://popurri.com.mx/author/luis-rodrigo/). **Popurrí**.
-
-
 ## Awards
 
 `2021`
