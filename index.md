@@ -80,13 +80,13 @@ Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-González, 
 
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Rivas-Torres, A., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in an expanding hybrid zone of damselflies](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627). **Molecular Ecology**. [10.22541/au.164628976.68855627/v1](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627)
 
-Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. First evidence of multiple paternity in the blue shark (*Prionace glauca*). **Journal of Fish Biology**.
-
-
 Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Asymmetrical reinforcement of mechanical reproductive isolation in a mosaic hybrid zone. **PNAS**.
 
 `2022`
-Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insect populations](https://www.researchgate.net/publication/363407075_The_evolutionary_outcomes_of_climate_change-induced_hybridization_in_insect_populations). **Current Opinion in Insect Science**, 54, 100966. [https://doi.org/10.1016/j.cois.2022.100966](https://authors.elsevier.com/c/1fqDP7tYJFjcPw)
+Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. [First evidence of multiple paternity in the blue shark (*Prionace glauca*)](https://doi.org/10.1111/jfb.15272). **Journal of Fish Biology**. [https://doi.org/10.1111/jfb.15272](https://doi.org/10.1111/jfb.15272)
+
+
+Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insect populations](https://www.researchgate.net/publication/363407075_The_evolutionary_outcomes_of_climate_change-induced_hybridization_in_insect_populations). **Current Opinion in Insect Science**, 54, 100966. [https://doi.org/10.1016/j.cois.2022.100966](https://doi.org/10.1016/j.cois.2022.100966)
 
 `2021`
 Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). **Molecular Biology Reports**, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
@@ -218,4 +218,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 <!-- ### Footer
 
-Last Update: September 2022 -->
+Last Update: November 2022 -->
