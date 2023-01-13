@@ -182,6 +182,9 @@ Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversida
 
 ### Other
 
+`2022-`
+Memeber of the scientific communication committee of the [**Red Mexicana de Biología Evolutiva**](https://twitter.com/mex_evo).
+
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdés, L. R., Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q). **Instituto de Ecología, A. C.**.
 
@@ -209,11 +212,13 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 ## Memberships
 
-**Red Mexicana de Biología Evolutiva**.
+**Red Mexicana de Biología Evolutiva**. Science communication committee.
 
 **Fauna & Flora International - Oryx**. 5759530.
 
 **Red Mexicana de Bioinformática**.  ARVL000590.
+
+**Society for the Study of Evolution**. 
 
 
 <!-- ### Footer
