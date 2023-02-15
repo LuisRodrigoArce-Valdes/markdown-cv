@@ -70,6 +70,11 @@ title: Arce-Valdés
 `2014`
 **Universidad Autónoma del Estado de Hidalgo**. Host: Pablo Octavio Aguilar. Genetic flow between *Dichromanthus aurantiacus* patches in El Chico national park, Hidalgo.
 
+### Peer reviewing
+
+`2023`
+[**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista)
+
 
 ## Scientific Publications
 
@@ -114,7 +119,6 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Wellenreuther, M. &
 
 `2019`
 Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
-
 
 ## Supervised theses
 
@@ -223,4 +227,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 <!-- ### Footer
 
-Last Update: January 2023 -->
+Last Update: February 2023 -->
