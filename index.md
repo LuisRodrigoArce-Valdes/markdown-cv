@@ -31,7 +31,7 @@ title: Arce-Valdés
 **Instituto de Ecología A.C.** México. PhD Candidate. Supervisor: Rosa Ana Sánchez Guillén. Thesis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.
 
 `2016 - 2018`
-**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
+**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2015`
 **Universidad Autónoma del Estado de México**. B. S. Biology.
@@ -65,7 +65,7 @@ title: Arce-Valdés
 **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Host: John Carlos Garza. Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
 
 `2015`
-**Universidad Autónoma de Baja California**. Host: Luis Manuel Enríquez-Paredes. Totoaba (*Totoaba macdonaldi*) genetic traceability in captivity and in the wild population.
+**Universidad Autónoma de Baja California**. Host: Luis Manuel Enríquez Paredes. Totoaba (*Totoaba macdonaldi*) genetic traceability in captivity and in the wild population.
 
 `2014`
 **Universidad Autónoma del Estado de Hidalgo**. Host: Pablo Octavio Aguilar. Genetic flow between *Dichromanthus aurantiacus* patches in El Chico national park, Hidalgo.
