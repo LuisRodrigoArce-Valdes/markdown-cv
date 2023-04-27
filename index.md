@@ -83,10 +83,7 @@ title: Arce-Valdés
 `Under Review`
 Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **Evolution**.
 
-Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Rivas-Torres, A., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in an expanding hybrid zone of damselflies](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627). **Molecular Ecology**. [10.22541/au.164628976.68855627/v1](https://www.authorea.com/doi/full/10.22541/au.164628976.68855627)
-
-`In Press`
-Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2023). Interspecific hybridization in insects in times of climate change. Accepted book chapter in: Effects of climate change on insects, **Oxford University Press**.
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Molecular Ecology**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
 `2023`
 Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). [No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae)](https://www.researchgate.net/publication/367117217_No_effects_of_fishery_collapse_on_the_genetic_diversity_of_the_Gulf_of_California_Corvina_Cynoscion_othonopterus_Perciformes_Sciaenidae). **Fisheries Research**, 261, 106608. [https://doi.org/10.1016/j.fishres.2023.106608](https://doi.org/10.1016/j.fishres.2023.106608)
@@ -98,6 +95,11 @@ Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). [The evolutionary outcome
 
 `2021`
 Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). **Molecular Biology Reports**, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
+
+### Book chapters
+
+`In Press`
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2023). Interspecific hybridization in insects in times of climate change. Accepted book chapter in: Effects of climate change on insects, **Oxford University Press**.
 
 ### Presentations
 
