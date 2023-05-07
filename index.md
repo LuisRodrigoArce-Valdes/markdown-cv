@@ -103,6 +103,9 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Mo
 
 ### Presentations
 
+`2023`
+Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2023). The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone. **1er Coloquio de Biología y Ecología Computacional**. Instituto de Ecología A.C.
+
 `2022`
 Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions. **Climate change genomics: vulnerabilities, adaptations and applications**. British Ecological Society.
 
