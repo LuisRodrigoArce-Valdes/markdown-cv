@@ -101,6 +101,9 @@ Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E.
 
 ### Presentations
 
+`2023`
+Arce-Valdés, L. R. Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo. **EVOLUTION 2023 | VIRTUAL**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
+
 `2022`
 Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions. **Climate change genomics: vulnerabilities, adaptations and applications**. British Ecological Society.
 
@@ -230,4 +233,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 <!-- ### Footer
 
-Last Update: February 2023 -->
+Last Update: June 2023 -->
