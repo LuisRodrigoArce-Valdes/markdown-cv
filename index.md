@@ -27,7 +27,7 @@ title: Arce-Valdés
 
 ### Academic Trajectory
 
-`2019 -`
+`2019 - 2023`
 **Instituto de Ecología A.C.** México. PhD Candidate. Supervisor: Rosa Ana Sánchez Guillén. Thesis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.
 
 `2016 - 2018`
@@ -56,7 +56,7 @@ title: Arce-Valdés
 
 ### Research Assistance
 
-`2020 - `
+`2020 -`
 **Instituto de Ecología A. C.** Host: Mario Enrique Favila Castillo. Molecular systematics of *Canthon cyanellus* using microsatellites.
 
 ### Visits
@@ -83,7 +83,7 @@ title: Arce-Valdés
 `Under Review`
 Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **Evolution**.
 
-Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Molecular Ecology**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Ecology and Evolution**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
 `2023`
 Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). [No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae)](https://www.researchgate.net/publication/367117217_No_effects_of_fishery_collapse_on_the_genetic_diversity_of_the_Gulf_of_California_Corvina_Cynoscion_othonopterus_Perciformes_Sciaenidae). **Fisheries Research**, 261, 106608. [https://doi.org/10.1016/j.fishres.2023.106608](https://doi.org/10.1016/j.fishres.2023.106608)
@@ -104,6 +104,8 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Mo
 ### Presentations
 
 `2023`
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
+
 Arce-Valdés, L. R. Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo. **EVOLUTION 2023 | VIRTUAL**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
 
 Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2023). The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone. **1er Coloquio de Biología y Ecología Computacional**. Instituto de Ecología A.C.
@@ -166,11 +168,11 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 
 ### Scholarships
 
-`2019 - `
-**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. PhD scholarship.
+`2019 - 2023`
+**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. PhD scholarship. MXN 806,412.
 
 `2016 - 2018`
-**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship.
+**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship. MXN 250,000.
 
 ### Grants
 
