@@ -18,7 +18,7 @@ title: Arce-Valdés
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a><br>
 
-<a>+52 722-54-56-950</a>
+<a>+52 722-54-56-950</a><br>
 
 <a>Toluca, México</a>
 
