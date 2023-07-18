@@ -104,7 +104,7 @@ Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E.
 ### Book chapters
 
 `In Press`
-Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2023). Interspecific hybridization in insects in times of climate change. Accepted book chapter in: Effects of climate change on insects, **Oxford University Press**.
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2023). [Interspecific hybridization in insects in times of climate change](https://global.oup.com/academic/product/effects-of-climate-change-on-insects-9780192864161?lang=3n&cc=al#). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.
 
 ### Presentations
 
