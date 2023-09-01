@@ -25,15 +25,15 @@ title: Arce-Valdés
 </div>
 
 ## Current Activity
-`2019 - 2023`
-(ABD) PhD Candidate. Instituto de Ecología A.C.
+`2023 - 2025`
+Postdoctoral Researcher. **Concordia University**. Supervisor: Rassim Khelifa. Project: Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
 
 ## Education
 
 ### Academic Trajectory
 
 `2019 - 2023`
-**Instituto de Ecología A.C.** México. (ABD) PhD Candidate. Supervisor: Rosa Ana Sánchez Guillén. Thesis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.
+**Instituto de Ecología A.C.** PhD. Supervisor: Rosa Ana Sánchez Guillén. Thesis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.
 
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
@@ -61,7 +61,7 @@ title: Arce-Valdés
 
 ### Research Assistance
 
-`2020 -`
+`2020 - 2023`
 **Instituto de Ecología A. C.** Host: Mario Enrique Favila Castillo. Molecular systematics of *Canthon cyanellus* using microsatellites.
 
 ### Visits
