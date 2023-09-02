@@ -18,9 +18,11 @@ title: Arce-Valdés
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a><br>
 
-<a>+52 722-54-56-950</a><br>
+<a>+52 722-545-6950</a><br>
 
-<a>Toluca, México</a>
+<a>+1 438-365-9420</a><br>
+
+<a>Montreal, QC, Canada</a>
 
 </div>
 
@@ -55,9 +57,12 @@ Postdoctoral Researcher. **Concordia University**. Supervisor: Rassim Khelifa. P
 `2018`
 **American Fisheries Society**. A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences.
 
-
-
 ## Experience
+
+### Postdoctoral Fellowships
+
+`2023-2025`
+**Concordia University**. Supervisor: Rassim Khelifa. Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
 
 ### Research Assistance
 
@@ -80,15 +85,14 @@ Postdoctoral Researcher. **Concordia University**. Supervisor: Rassim Khelifa. P
 `2023`
 [**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista)
 
-
 ## Scientific Publications
 
 ### Peer Reviewed Articles
 
 `Under Review`
-Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **Evolution**.
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **Heredity**.
 
-Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Ecology and Evolution**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
+Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Heredity**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
 `2023`
 Arce-Valdés, L. R., Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). [No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae)](https://www.researchgate.net/publication/367117217_No_effects_of_fishery_collapse_on_the_genetic_diversity_of_the_Gulf_of_California_Corvina_Cynoscion_othonopterus_Perciformes_Sciaenidae). **Fisheries Research**, 261, 106608. [https://doi.org/10.1016/j.fishres.2023.106608](https://doi.org/10.1016/j.fishres.2023.106608)
@@ -109,20 +113,20 @@ Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Mo
 ### Presentations
 
 `2023`
-Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone.](https://www.youtube.com/watch?v=E6b5oFFfZRA&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=43) **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
 
-Arce-Valdés, L. R. Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo. **EVOLUTION 2023 - VIRTUAL**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
+Arce-Valdés, L. R. Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo.](https://www.youtube.com/watch?v=2uh771xcwss&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=16) **EVOLUTION 2023 - VIRTUAL**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
 
 Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2023). The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone. **1er Coloquio de Biología y Ecología Computacional**. Instituto de Ecología A.C.
 
 `2022`
-Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions. **Climate change genomics: vulnerabilities, adaptations and applications**. British Ecological Society.
+Arce-Valdés, L. R. & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions.](https://www.researchgate.net/publication/366204970_The_evolutionary_outcomes_of_climate_change-induced_hybridization_in_insects_testing_predictions) **Climate change genomics: vulnerabilities, adaptations and applications**. British Ecological Society.
 
 `2020`
-Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California. **Virtual Annual Meeting of the American Fisheries Society 2020**.
+Soto-González, M. E., Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2020). [Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California.](https://www.researchgate.net/publication/345973858_Genetic_assessment_on_the_conservation_status_of_the_Gulf_Corvina_in_the_face_of_the_US_embargo_to_all_gill-net_fisheries_in_the_Upper_Gulf_of_California) **Virtual Annual Meeting of the American Fisheries Society 2020**.
 
 `2018`
-Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. **148th Annual Meeting of the American Fisheries Society**.
+Arce-Valdés, L. R., Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). [Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status.](https://www.researchgate.net/publication/337655899_Genetic_diversity_and_historic_demography_of_Gulf_Corvina_Cynoscion_othonopterus) **148th Annual Meeting of the American Fisheries Society**.
 
 `2014`
 Arce-Valdés, L. R., Islas-Tello, L. A. & Octavio-Aguilar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
