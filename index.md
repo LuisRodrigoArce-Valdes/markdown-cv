@@ -90,7 +90,7 @@ Postdoctoral Researcher. **Concordia University**. Supervisor: Rassim Khelifa. P
 ### Peer Reviewed Articles
 
 `Under Review`
-Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. **Heredity**.
+Arce-Valdés, L. R., Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone](https://www.biorxiv.org/content/10.1101/2023.09.20.537982v1). **Journal of Evolutionary Biology**. [https://doi.org/10.1101/2023.09.20.537982](https://doi.org/10.1101/2023.09.20.537982)
 
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Heredity**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
@@ -196,11 +196,15 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 
 ### Articles
 
+`2023`
+Arce-Valdés, L. R., Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2023). [La teoría del reforzamiento: ¿Pueden originarse nuevas especies habitando juntas?](https://www.flipsnack.com/deblith/hd-volumen-4-n-mero-3-oto-o-2023/full-view.html). **Eco-Lógico**. 4 (3): 60-67.
+
+
 `2022`
 Stand-Pérez, M. A., Aguirre-Pérez, I. A., Arce-Valdés, L. R., Ayala-Sánchez, D., Ballén-Guapacha, A. V., Ordaz-Morales, J. E., Pulido-Ríos, L., Ríos-Olaya, K. J. & Sánchez-Guillén, R. A. (2022). [Hibridación: como estudiar la evolución a través de la reproducción](https://www.cronica.com.mx/academia/hibridacion-estudiar-evolucion-traves-reproduccion.html?fbclid=IwAR22iZrb8b0_4xBO_sRG-TJPZ-iXQm7RcGZGDUP8EYIKPw2Op9cEA9nj9qs). **CRÓNICA**.
 
 `2021`
-Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Microsatélites: secretos evolutivos del ADN](https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/). **Portal. Comunicación Veracruzana**.
+Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J. & Favila, M. E. (2021). [Microsatélites: secretos evolutivos del ADN](https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/). **Portal. Comunicación Veracruzana**.
 
 `2019`
 Arce-Valdés, L. R. & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
@@ -248,4 +252,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 <!-- ### Footer
 
-Last Update: June 2023 -->
+Last Update: September 2023 -->
