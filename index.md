@@ -245,11 +245,9 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., Arce-Valdé
 
 **Fauna & Flora International - Oryx**. 5759530.
 
-**Red Mexicana de Bioinformática**.  ARVL000590.
-
 **Society for the Study of Evolution**. 
 
 
 <!-- ### Footer
 
-Last Update: September 2023 -->
+Last Update: November 2023 -->
