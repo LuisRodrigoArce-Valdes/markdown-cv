@@ -28,7 +28,7 @@ title: Arce-Valdés
 
 ## Current Activity
 `2023 - 2025`
-Postdoctoral Researcher. **Concordia University**. Supervisor: Rassim Khelifa. Project: Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
+Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelifa. Project: Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
 
 ## Education
 
@@ -62,7 +62,7 @@ Postdoctoral Researcher. **Concordia University**. Supervisor: Rassim Khelifa. P
 ### Postdoctoral Fellowships
 
 `2023-2025`
-**Concordia University**. Supervisor: Rassim Khelifa. Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
+**Concordia University**. Supervisor: Rassim Khelifa. Horizon Postdoctoral Fellowship. Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
 
 ### Research Assistance
 
@@ -108,6 +108,10 @@ Arce-Valdés, L. R., Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E.
 ### Book chapters
 
 `In Press`
+Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., Arce-Valdés, L. R., Burnham-Curtis, M. & Garza, J. C. (2023). Estado Actual de Conservación del Recurso Genético *T. macdonaldi*. In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
+
+Enríquez-Paredes, L. M., Abadía-Cardoso, A., Arce-Valdés, L. R., Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). Protocolos Para la Caracterización Genética en *T. macdonaldi*. In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
+
 Sánchez-Guillén, R. A., Arce-Valdés, L. R., Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2023). [Interspecific hybridization in insects in times of climate change](https://global.oup.com/academic/product/effects-of-climate-change-on-insects-9780192864161?lang=3n&cc=al#). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.
 
 ### Presentations
@@ -175,21 +179,25 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 
 ## Scholarships and Funding
 
+### Fellowships
+`2023 - 2025`
+**Concordia University**. Horizon Postdoctoral Fellowships. Postdoc Fellowship. CAD 100,000.
+
 ### Scholarships
 
 `2019 - 2023`
 **Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. PhD scholarship. MXN 806,412.
 
 `2016 - 2018`
-**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship. MXN 250,000.
+**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship. MXN 249,241.
 
 ### Grants
 
 `2015`
-**Academia Mexicana de Ciencias**. Travel grant. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
+**Academia Mexicana de Ciencias**. Travel grant. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C.  MXN 9,000.
 
 `2014`
-**Academia Mexicana de Ciencias**. Travel grant. 24th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. 
+**Academia Mexicana de Ciencias**. Travel grant. 24th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. MXN 7,000.
 
 
 ## Science Communication
