@@ -18,9 +18,7 @@ title: Arce-Valdés
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a><br>
 
-<a>+52 722-545-6950</a><br>
-
-<a>+1 438-365-9420</a><br>
+<a>+1 438-365-7133</a><br>
 
 <a>Montreal, QC, Canada</a>
 
