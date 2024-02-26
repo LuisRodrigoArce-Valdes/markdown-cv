@@ -106,9 +106,9 @@ Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., **Arce-Valdés, L. R
 ### Book chapters
 
 `In Press`
-Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). Estado Actual de Conservación del Recurso Genético *T. macdonaldi*. In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
+Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). [Estado Actual de Conservación del Recurso Genético *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
-Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). Protocolos Para la Caracterización Genética en *T. macdonaldi*. In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
+Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
 Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2023). [Interspecific hybridization in insects in times of climate change](https://global.oup.com/academic/product/effects-of-climate-change-on-insects-9780192864161?lang=3n&cc=al#). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.
 
@@ -190,6 +190,9 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 **Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship. MXN 249,241.
 
 ### Grants
+
+`2023`
+**Instituto de Ecología A. C.** . INECOL 2023-1 supplement for student mobility. MXN 20,000.
 
 `2015`
 **Academia Mexicana de Ciencias**. Travel grant. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C.  MXN 9,000.
