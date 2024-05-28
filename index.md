@@ -33,7 +33,7 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Academic Trajectory
 
 `2019 - 2023`
-**Instituto de Ecología A.C.** PhD. Supervisor: Rosa Ana Sánchez Guillén. Thesis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.
+**Instituto de Ecología A.C.** PhD. Supervisor: Rosa Ana Sánchez Guillén. Thesis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone)
 
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
@@ -223,9 +223,6 @@ Stand-Pérez, M. A., Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Ayala-Sánc
 
 ### Other
 
-`2022-`
-Memeber of the scientific communication committee of the [**Red Mexicana de Biología Evolutiva**](https://mexevol.com/).
-
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q). **Instituto de Ecología, A. C.**.
 
@@ -253,8 +250,6 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 ## Memberships
 
-**Red Mexicana de Biología Evolutiva**. Science communication committee.
-
 **Fauna & Flora International - Oryx**. 5759530.
 
 **Society for the Study of Evolution**. 
@@ -262,4 +257,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: November 2023 -->
+Last Update: May 2024 -->
