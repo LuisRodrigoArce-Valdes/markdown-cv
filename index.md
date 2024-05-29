@@ -6,8 +6,6 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
-<img src="./photo/INECOL.jpeg" alt="" style="float:left;margin:0px 5px" width="200" height="150" id="me"/>
-
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
 
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a><br>
