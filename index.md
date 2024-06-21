@@ -78,6 +78,9 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 
 ### Peer reviewing
 
+`2024`
+[**Journal of Insect Conservation**](https://link.springer.com/journal/10841)
+
 `2023`
 [**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista)
 
@@ -191,6 +194,9 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 **Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship. MXN 249,241.
 
 ### Grants
+
+`2024`
+**Concordia University**. Conference and exposition allowance. CAD 500.
 
 `2023`
 **Instituto de Ecología A. C.** . INECOL 2023-1 supplement for student mobility. MXN 20,000.
