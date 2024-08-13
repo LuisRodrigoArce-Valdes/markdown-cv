@@ -89,6 +89,10 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Peer Reviewed Articles
 
 `Under Review`
+**Arce-Valdés, L. R.**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. Testing an insect-plant circular system based on black soldier fly and duckweed. **Journal of Insects as Food and Feed**.
+
+Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. Black soldier fly as feed for aquatic insects. **Scientific Reports**.
+
 **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone](https://www.biorxiv.org/content/10.1101/2023.09.20.537982v1). **Journal of Evolutionary Biology**. [https://doi.org/10.1101/2023.09.20.537982](https://doi.org/10.1101/2023.09.20.537982)
 
 Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Heredity**. [10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
@@ -118,12 +122,15 @@ Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Orda
 
 ### Presentations
 
+`2024`
+**Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. (2024). [Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.](https://www.researchgate.net/publication/383058745_Divergent_genomic_patterns_of_introgression_across_regions_in_a_complex_mottled_hybrid_zone_of_damselflies). **3rd Joint Congress on Evolutionary Biology**. American Society of Naturalists - European Society for Evolutionary Biology - Society of Systematic Biologists - Society for the Study of Evolution. [Video](https://youtu.be/8poagAbYSts?list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&t=2446).
+
 `2023`
-**Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone.](https://www.youtube.com/watch?v=E6b5oFFfZRA&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=43) **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
+**Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone.](https://www.researchgate.net/publication/383058393_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mosaic_hybrid_zone) **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists. [Video](https://www.youtube.com/watch?v=E6b5oFFfZRA&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=43).
 
-**Arce-Valdés, L. R.** Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo.](https://www.youtube.com/watch?v=2uh771xcwss&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=16) **EVOLUTION 2023 - VIRTUAL**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists.
+**Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo.](https://www.researchgate.net/publication/383058384_Patrones_genomicos_variables_en_dos_zonas_hibridas_independientes_de_caballitos_del_diablo) **EVOLUTION 2023 - VIRTUAL**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists. [Video](https://www.youtube.com/watch?v=2uh771xcwss&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=16).
 
-**Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2023). The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone. **1er Coloquio de Biología y Ecología Computacional**. Instituto de Ecología A.C.
+**Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2023). [Patrones genómicos variables en dos zonas híbridas independientes de caballitos del diablo.](https://www.researchgate.net/publication/383058285_Patrones_genomicos_variables_en_dos_zonas_hibridas_independientes_de_caballitos_del_diablo) **1er Coloquio de Biología y Ecología Computacional**. Instituto de Ecología A.C. [Video](https://www.facebook.com/inecolxalapa/videos/primer-coloquio-de-biolog%C3%ADa-y-ecolog%C3%ADa-computacional-la-computaci%C3%B3n-de-alto-rend/6146702552033755).
 
 `2022`
 **Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions.](https://www.researchgate.net/publication/366204970_The_evolutionary_outcomes_of_climate_change-induced_hybridization_in_insects_testing_predictions) **Climate change genomics: vulnerabilities, adaptations and applications**. British Ecological Society.
@@ -148,6 +155,11 @@ Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Wellenreuther, 
 Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
 ## Supervised theses
+
+### PhD theses
+
+`Under supervision`
+Pulido-Rios, L. El papel de la hibridación en la especiación del género *Ischnura* (Odonata: Coenagrionidae). PhD. **Instituto de Ecología A. C.**
 
 ### Master's theses
 
@@ -261,4 +273,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: May 2024 -->
+Last Update: August 2024 -->
