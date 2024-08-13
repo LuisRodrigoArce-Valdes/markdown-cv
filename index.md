@@ -36,8 +36,8 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
-`2011 - 2015`
-**Universidad Autónoma del Estado de México**. B. S. Biology.
+`2011 - 2016`
+**Universidad Autónoma del Estado de México**. B. S. Biology. Degree earned by academic performance. Highest grade average of the generation 2011-2016.
 
 `2008-2011`
 **The International Baccalaureate (IB)**. The IB Diploma.
