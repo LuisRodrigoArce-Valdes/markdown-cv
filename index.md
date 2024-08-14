@@ -255,7 +255,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 `2010`
 **Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2nd place in the State of Mexico state competition.
 
-**Banco de México**.Prize Contact Banxico. 1st National Place. MXN 100,000.
+**Banco de México**.Prize Contact Banxico. 1st National Place. MXN 100,000. [Video](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)
 
 **Universidad Iberoamericana**. 6° National Contest on pre-university assay: Contemporary ethical dilemmas. Honorific mention.
 
