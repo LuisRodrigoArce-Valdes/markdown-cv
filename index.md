@@ -79,10 +79,10 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Peer reviewing
 
 `2024`
-[**Journal of Insect Conservation**](https://link.springer.com/journal/10841)
+[**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 2.
 
 `2023`
-[**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista)
+[**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista) - 1.
 
 ## Scientific Publications
 
@@ -124,6 +124,8 @@ Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Orda
 
 `2024`
 **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. (2024). [Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.](https://www.researchgate.net/publication/383058745_Divergent_genomic_patterns_of_introgression_across_regions_in_a_complex_mottled_hybrid_zone_of_damselflies). **3rd Joint Congress on Evolutionary Biology**. American Society of Naturalists - European Society for Evolutionary Biology - Society of Systematic Biologists - Society for the Study of Evolution. [Video](https://youtu.be/8poagAbYSts?list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&t=2446).
+
+**Arce-Valdés, L. R.** (2024). The evolution of reproductive isolation in sympatric insect populations. **Biosiences seminar series**. Concordia University - Department of Biology.
 
 `2023`
 **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone.](https://www.researchgate.net/publication/383058393_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mosaic_hybrid_zone) **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists. [Video](https://www.youtube.com/watch?v=E6b5oFFfZRA&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=43).
@@ -194,6 +196,7 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ## Scholarships and Funding
 
 ### Fellowships
+
 `2023 - 2025`
 **Concordia University**. Horizon Postdoctoral Fellowships. Postdoc Fellowship. CAD 100,000.
 
