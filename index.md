@@ -125,7 +125,7 @@ Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Orda
 `2024`
 **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. (2024). [Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.](https://www.researchgate.net/publication/383058745_Divergent_genomic_patterns_of_introgression_across_regions_in_a_complex_mottled_hybrid_zone_of_damselflies). **3rd Joint Congress on Evolutionary Biology**. American Society of Naturalists - European Society for Evolutionary Biology - Society of Systematic Biologists - Society for the Study of Evolution. [Video](https://youtu.be/8poagAbYSts?list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&t=2446).
 
-**Arce-Valdés, L. R.** (2024). The evolution of reproductive isolation in sympatric insect populations. **Biosiences seminar series**. Concordia University - Department of Biology.
+**Arce-Valdés, L. R.** (2024). [The evolution of reproductive isolation in sympatric insect populations.](https://www.researchgate.net/publication/383231736_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations) **Biosciences seminar series**. Concordia University - Department of Biology.
 
 `2023`
 **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone.](https://www.researchgate.net/publication/383058393_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mosaic_hybrid_zone) **EVOLUTION 2023**. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists. [Video](https://www.youtube.com/watch?v=E6b5oFFfZRA&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=43).
@@ -235,7 +235,7 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 Stand-Pérez, M. A., Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Ayala-Sánchez, D., Ballén-Guapacha, A. V., Ordaz-Morales, J. E., Pulido-Ríos, L., Ríos-Olaya, K. J. & Sánchez-Guillén, R. A. (2022). [Hibridación: como estudiar la evolución a través de la reproducción](https://www.cronica.com.mx/academia/hibridacion-estudiar-evolucion-traves-reproduccion.html?fbclid=IwAR22iZrb8b0_4xBO_sRG-TJPZ-iXQm7RcGZGDUP8EYIKPw2Op9cEA9nj9qs). **CRÓNICA**.
 
 `2021`
-**Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J. & Favila, M. E. (2021). [Microsatélites: secretos evolutivos del ADN](https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/). **Portal. Comunicación Veracruzana**.
+**Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J. & Favila, M. E. (2021). [Microsatélites: secretos evolutivos del ADN](https://web.archive.org/web/20221001172855/https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/). **Portal. Comunicación Veracruzana**.
 
 `2019`
 **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
