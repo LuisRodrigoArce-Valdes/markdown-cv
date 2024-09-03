@@ -16,6 +16,8 @@ title: Arce-Valdés
 
 <a href="https://github.com/LuisRodrigoArce-Valdes">GitHub</a><br>
 
+<a href="https://osf.io/kec9h/">OSF</a><br>
+
 <a>+1 438-365-7133</a><br>
 
 <a>Montreal, QC, Canada</a>
