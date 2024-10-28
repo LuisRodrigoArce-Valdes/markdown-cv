@@ -126,6 +126,8 @@ Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Orda
 ### Presentations
 
 `2024`
+Ordaz-Morales, J. E., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Sanmartin, I., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2024). Cambios en la frecuencia de los morfotipos de color femenino a partir de un proceso de hibridación. **IX Congreso Mexicano de Ecología**. El Colegio de la Frontera Sur - Sociedad Científica Mexicana de Ecología-
+
 **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. (2024). [Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.](https://www.researchgate.net/publication/383058745_Divergent_genomic_patterns_of_introgression_across_regions_in_a_complex_mottled_hybrid_zone_of_damselflies). **3rd Joint Congress on Evolutionary Biology**. American Society of Naturalists - European Society for Evolutionary Biology - Society of Systematic Biologists - Society for the Study of Evolution. [Video](https://youtu.be/8poagAbYSts?list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&t=2446).
 
 **Arce-Valdés, L. R.** (2024). [The evolution of reproductive isolation in sympatric insect populations.](https://www.researchgate.net/publication/383231736_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations) **Biosciences seminar series**. Concordia University - Department of Biology.
@@ -279,4 +281,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: August 2024 -->
+Last Update: October 2024 -->
