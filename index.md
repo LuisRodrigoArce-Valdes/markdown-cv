@@ -24,6 +24,8 @@ title: Arce-Valdés
 
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cdfa8bd-0761-42c6-86a0-4039aaf2fc25" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Current Activity
 `2023 - 2025`
 Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelifa. Project: Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
