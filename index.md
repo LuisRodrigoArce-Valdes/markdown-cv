@@ -6,8 +6,6 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
-<data-share-badge-id="1cdfa8bd-0761-42c6-86a0-4039aaf2fc25" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
 
 <a href="https://www.researchgate.net/profile/Luis_Rodrigo_Arce-Valdes">ResearchGate</a><br>
@@ -23,6 +21,8 @@ title: Arce-Valdés
 <a>+1 438-365-7133</a><br>
 
 <a>Montreal, QC, Canada</a>
+
+<a> Languages: Español, English, Français </a>
 
 </div>
 
@@ -278,7 +278,9 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 **Fauna & Flora International - Oryx**. 5759530.
 
-**Society for the Study of Evolution**. 
+**Society for the Study of Evolution**.
+
+<div data-iframe-width="0" data-iframe-height="0" data-share-badge-id="1cdfa8bd-0761-42c6-86a0-4039aaf2fc25" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
 
 
 <!-- ### Footer
