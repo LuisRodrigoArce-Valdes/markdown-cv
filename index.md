@@ -218,6 +218,8 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ### Grants
 
 `2024`
+**Centre de la Science de la Biodiversité du Québec**. Prix d'excellence - Training in the field or lab. CAD 2,000.
+
 **Concordia University**. Conference and exposition allowance. CAD 500.
 
 `2023`
@@ -276,6 +278,8 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 ## Memberships
 
+**Centre de la Science de la Biodiversité du Québec**
+
 **Fauna & Flora International - Oryx**. 5759530.
 
 **Society for the Study of Evolution**.
@@ -287,4 +291,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: October 2024 -->
+Last Update: December 2024 -->
