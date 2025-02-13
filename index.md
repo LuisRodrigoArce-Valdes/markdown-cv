@@ -180,7 +180,7 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 
 ### Graduate courses
 
-`2022`
+`2022 - 2025`
 **Instituto de Ecología A. C.** M.S. & PhD. Speciation and Evolutionary Consequences of the Hybridization.
 
 `2020`
