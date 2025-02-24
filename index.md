@@ -93,14 +93,15 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Peer Reviewed Articles
 
 `Under Review`
-**Arce-Valdés, L. R.**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. Testing an insect-plant circular system based on black soldier fly and duckweed. **Journal of Insects as Food and Feed**.
-
-Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. Black soldier fly as feed for aquatic insects. **Scientific Reports**.
+Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. Black soldier fly as feed for aquatic insects. **Journal of Insects as Food and Feed**.
 
 Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
+`2025`
+**Arce-Valdés, L. R.**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://drive.google.com/file/d/16rjI8BIixs6b4OtOTUO8CBvL3G17EO_4/view?usp=sharing). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
+
 `2024`
-**Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone.](https://www.researchgate.net/publication/384366467_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mottled_hybrid_zone) **Journal of Evolutionary Biology**. [https://doi.org/10.1093/jeb/voae124](https://doi.org/10.1093/jeb/voae124)
+**Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone.](https://www.researchgate.net/publication/384366467_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mottled_hybrid_zone) **Journal of Evolutionary Biology**, 38(1), 10-27. [https://doi.org/10.1093/jeb/voae124](https://doi.org/10.1093/jeb/voae124)
 
 `2023`
 **Arce-Valdés, L. R.**, Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). [No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae)](https://www.researchgate.net/publication/367117217_No_effects_of_fishery_collapse_on_the_genetic_diversity_of_the_Gulf_of_California_Corvina_Cynoscion_othonopterus_Perciformes_Sciaenidae). **Fisheries Research**, 261, 106608. [https://doi.org/10.1016/j.fishres.2023.106608](https://doi.org/10.1016/j.fishres.2023.106608)
@@ -187,6 +188,9 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 **Universidad Autónoma de Baja California**. M. S. Coastal Ocenography. Directed Research: Bioinformatic tools for population analyses using mitochondrial haplotypes.
 
 ### Undergraduate courses
+
+`2025`
+**Concordia University**. BSc in Biology. BIOL 498: Introduction to Scientific Communication. Literature search and citation.
 
 `2018`
 **Universidad Autónoma de Baja California**. B. S. Biotechnology in aquaculture. Aquaculture Genetics.
