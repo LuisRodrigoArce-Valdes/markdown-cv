@@ -156,6 +156,9 @@ Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2020)
 
 ### Posters
 
+`2025`
+**Arce-Valdés, L. R.**, Booker, T. R, Irwin, D., Sánchez-Guillén, R. A. & Khelifa, R. [Changements aux directions d'hybridation à cause du renforcement par incompatibilités Bateson-Dobzhansky-Müller (BDM) unidirectionnellement héritées](https://www.researchgate.net/publication/389501146_Changements_aux_directions_d'hybridation_a_cause_du_renforcement_par_incompatibilites_Bateson-Dobzhansky-Muller_BDM_unidirectionnellement_heritees). **Colloque 2025 du Centre de la Science de la Biodiversité du Québec**.
+
 `2021`
 **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2021). [Reforzamiento rápido del aislamiento reproductivo precigótico en una región híbrida de caballitos del diablo](https://www.researchgate.net/publication/356760169_Reforzamiento_rapido_del_aislamiento_reproductivo_precigotico_en_una_region_hibrida_de_caballitos_del_diablo). **1er Congreso Latinoamericano de Evolución. CLEVOL**
 
