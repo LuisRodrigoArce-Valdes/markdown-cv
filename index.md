@@ -22,7 +22,7 @@ title: Arce-Valdés
 
 <a>Montreal, QC, Canada</a><br>
 
-<a> Languages: Español, English, Français </a>
+<a> Languages: Español (L1), English (C1), Français (B1)</a>
 
 </div>
 
@@ -71,6 +71,9 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 
 ### Visits
 
+`2025`
+**University of British Columbia - Forest Sciences Center**. Host: Thomas Booker. Shifts in hybridization directions due to reinforcement by unidirectionally inherited Bateson-Dobzhansky-Müller incompatibilities: testing conditions and consistency using computational simulations.
+
 `2018`
 **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Host: John Carlos Garza. Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
 
@@ -93,6 +96,13 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Peer Reviewed Articles
 
 `Under Review`
+Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a
+damselfly hybrid system: A phylogenetic comparative analysis. **Evolution**.
+
+Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species. **Evolution**.
+
+Hafezi, N., **Arce-Valdés, L. R.**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Journal of Environmental Management**. 
+
 Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. Black soldier fly as feed for aquatic insects. **Journal of Insects as Food and Feed**.
 
 Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
@@ -122,11 +132,13 @@ Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Vald
 Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
 `2024`
-
 Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). [Interspecific hybridization in insects in times of climate change](https://www.researchgate.net/publication/379160920_Interspecific_hybridization_in_insects_in_times_of_climate_change). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.[https://doi.org/10.1093/oso/9780192864161.003.0008
 ](https://doi.org/10.1093/oso/9780192864161.003.0008)
 
 ### Presentations
+
+`2025`
+Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. Reforzamiento en especies polimórficas de caballitos de diablo (Zygoptera: Coenagrionidae): *Ischnura elegans* e *I. graellsii*. **IV Congreso de la Asociación Mexicana de Sistemática de Artrópodos**.
 
 `2024`
 Ordaz-Morales, J. E., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Sanmartin, I., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2024). Cambios en la frecuencia de los morfotipos de color femenino a partir de un proceso de hibridación. **IX Congreso Mexicano de Ecología**. El Colegio de la Frontera Sur - Sociedad Científica Mexicana de Ecología-
@@ -298,4 +310,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: December 2024 -->
+Last Update: April 2025 -->
