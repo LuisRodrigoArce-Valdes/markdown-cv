@@ -266,7 +266,7 @@ Stand-Pérez, M. A., Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Ayala-Sánc
 **Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J. & Favila, M. E. (2021). [Microsatélites: secretos evolutivos del ADN](https://web.archive.org/web/20221001172855/https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/). **Portal. Comunicación Veracruzana**.
 
 `2019`
-**Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
+**Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](https://web.archive.org/web/20220217221426/http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
 
 ### Other
 
