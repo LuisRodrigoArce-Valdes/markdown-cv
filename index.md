@@ -22,13 +22,13 @@ title: Arce-Valdés
 
 <a>Montreal, QC, Canada</a><br>
 
-<a> Languages: Español (L1), English (C1), Français (B1)</a>
+<a> Languages: Español (L1), English (C1~C2), Français (B2~C1)</a>
 
 </div>
 
 ## Current Activity
 `2023 - 2025`
-Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelifa. Project: Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
+Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelifa. Projects: Uncovering patterns in odonate trophic ecology and insect monitoring using eDNA metabarcoding / Towards the development of sustainable solutions of waste management and food security using the Black Soldier Fly.
 
 ## Education
 
@@ -62,7 +62,7 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Postdoctoral Fellowships
 
 `2023-2025`
-**Concordia University**. Supervisor: Rassim Khelifa. Horizon Postdoctoral Fellowship. Sustainable solutions for aquatic insects conservation: Uncovering biodiversity processes that promote ecosystem resilience against multiple stressors.
+**Concordia University**. Supervisor: Rassim Khelifa. Horizon Postdoctoral Fellowship. Uncovering patterns in odonate trophic ecology and insect monitoring using eDNA metabarcoding / Towards the development of sustainable solutions of waste management and food security using the Black Soldier Fly.
 
 ### Research Assistance
 
@@ -94,6 +94,15 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ## Scientific Publications
 
 ### Peer Reviewed Articles
+
+`In preparation`
+Vilanova, J., **Arce-Valdés, L. R.**, Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
+
+**Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
+
+López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. From waste to resources: Converting Canada geese feces into protein and plant fertilizer using the black soldier fly (*Hermetia illucens*).
+
+**Arce-Valdés, L. R.**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly.
 
 `Under Review`
 Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a
