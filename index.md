@@ -4,6 +4,8 @@ title: Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
 
+<a>22/07/1993</a><br>
+
 <div id="webaddress">
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
@@ -22,7 +24,9 @@ title: Arce-Valdés
 
 <a>Montreal, QC, Canada</a><br>
 
-<a> Languages: Español (L1), English (C1~C2), Français (B2~C1)</a>
+<a> Languages: Español (L1), English (C1~C2), Français (B2~C1)</a><br>
+
+<a>*Underlined texts are hyperlinks to the referenced documents.*</a>
 
 </div>
 
