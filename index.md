@@ -4,9 +4,9 @@ title: Arce-Valdés
 ---
 # Luis Rodrigo Arce Valdés
 
-<a>22/07/1993</a><br>
-
 <div id="webaddress">
+
+<a>22/07/1993</a><br>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
 
