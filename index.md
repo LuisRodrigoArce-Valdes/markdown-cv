@@ -26,7 +26,7 @@ title: Arce-Valdés
 
 <a> Languages: Español (L1), English (C1~C2), Français (B2~C1)</a><br>
 
-<a>*Underlined texts are hyperlinks to the referenced documents.*</a>
+<a>*Most titles are hyperlinks to the referenced documents.*</a>
 
 </div>
 
