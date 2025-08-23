@@ -56,7 +56,10 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 **Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Assembly and Annotation of Genomes and Metagenomes .
 
 `2020`
-**Physalia-courses & the Free University of Berlin**. Adaptation Genomics. 
+**Physalia-courses & the Free University of Berlin**. Adaptation Genomics.
+
+`2019`
+**Universidad del Medio Ambiente**. Integrated Urban Solid Waste Management. 
 
 `2018`
 **American Fisheries Society**. A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences.
