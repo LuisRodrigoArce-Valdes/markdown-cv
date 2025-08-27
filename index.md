@@ -39,7 +39,7 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Academic Trajectory
 
 `2019 - 2023`
-**Instituto de Ecología A.C.** PhD. Supervisor: Rosa Ana Sánchez Guillén. Thesis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone)
+**Instituto de Ecología A.C.** PhD. Supervisor: Rosa Ana Sánchez Guillén. Thesis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone.](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone).[World Education Services (WES) evaluated](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca).
 
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
@@ -321,9 +321,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 **Red Mexicana de Biología Evolutiva**.
 
-<div data-iframe-width="1250" data-iframe-height="270" data-share-badge-id="1cdfa8bd-0761-42c6-86a0-4039aaf2fc25" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
-
 
 <!-- ### Footer
 
-Last Update: April 2025 -->
+Last Update: August 2025 -->
