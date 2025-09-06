@@ -223,7 +223,7 @@ Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019)
 **DNA Extraction and Purification**: Proficiency in extracting high quality genomic DNA both from animal tissues and environmental samples.
 
 `-`
-**DNA quality and quantity assesments**: Experience in genomic DNA quality evaluation using gel electrophoresis, bioanalyzer fragment analysis and quantification using spectrophotometry (Nanodrop) and fluorometry (Qubit).
+**DNA quality and quantity assessments**: Experience in genomic DNA quality evaluation using gel electrophoresis, bioanalyzer fragment analysis and quantification using spectrophotometry (Nanodrop) and fluorometry (Qubit).
 
 `-`
 **PCR (Polymerase Chain Reaction)**: Experience in standardization of PCR protocols for DNA amplification.
@@ -250,7 +250,7 @@ Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019)
 **RADseq**: Alignment and SNP variant calling, quality filtering and analysis for population genomics.
 
 `-`
-**Metabarcoding**: Quality filtering, denoising and taxonomic assignment for biodiversity assesments.
+**Metabarcoding**: Quality filtering, denoising and taxonomic assignment for biodiversity assessments.
 
 `-`
 **Whole genome sequencing**: De novo and reference-based assembly and annotation. Variant calling and analysis for population genomics.
@@ -289,7 +289,7 @@ R and Rstudio
 Tidyverse
 
 `-`
-Bash
+UNIX-Bash
 
 `-`
 Python
@@ -306,7 +306,7 @@ QGIS
 ### Soft Skills
 
 `-`
-Efficient management of econimcal resources in the laboratory.
+Efficient management of economical resources in the laboratory.
 
 `-`
 Motivation.
@@ -321,7 +321,7 @@ Self-discipline.
 Team work.
 
 `-`
-Stress resistence.
+Stress resistance.
 
 `-`
 Ability to communicate.
