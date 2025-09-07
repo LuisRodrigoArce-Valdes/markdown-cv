@@ -156,15 +156,15 @@ Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., **Arce-Valdés, L. R
 
 ### Book chapters
 
-`In Press`
+`2024`
+Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). [Interspecific hybridization in insects in times of climate change](https://www.researchgate.net/publication/379160920_Interspecific_hybridization_in_insects_in_times_of_climate_change). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.[https://doi.org/10.1093/oso/9780192864161.003.0008
+](https://doi.org/10.1093/oso/9780192864161.003.0008)
+
+`2023`
 Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). [Estado Actual de Conservación del Recurso Genético *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
 `-`
 Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
-
-`2024`
-Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). [Interspecific hybridization in insects in times of climate change](https://www.researchgate.net/publication/379160920_Interspecific_hybridization_in_insects_in_times_of_climate_change). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.[https://doi.org/10.1093/oso/9780192864161.003.0008
-](https://doi.org/10.1093/oso/9780192864161.003.0008)
 
 ### Presentations
 
