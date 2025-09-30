@@ -37,7 +37,7 @@ I am interested in the application of genetic and genomic analyses for the study
 
 ## Current Activity
 
-`2023 - 2025`
+`2023 - 2026`
 Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelifa. Projects: Uncovering patterns in odonate trophic ecology and insect monitoring using eDNA metabarcoding / Towards the development of sustainable solutions of waste management and food security using the Black Soldier Fly.
 
 ## Education
@@ -110,6 +110,9 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 $ = Corresponding author.
 
 `In preparation`
+**Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H. & Khelifa, R. Metabarcoding suggests no significant differences in diet composition between female-limited color polymorphisms in two odonate species.
+
+`-`
 Vilanova, J., **Arce-Valdés, L. R.**, Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
 
 `-`
@@ -125,16 +128,16 @@ López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. From was
 Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Evolution**.
 
 `-`
-Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species. **Evolution**.
+Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://www.researchgate.net/publication/391525161_Alternative_reproductive_strategies_explain_asymmetric_reinforcement_of_reproductive_isolation_in_two_Ischnura_damselfly_species). **Evolution**. [https://doi.org/10.1101/2025.05.04.652146](https://doi.org/10.1101/2025.05.04.652146)
 
 `-`
-Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Journal of Environmental Management**. 
+Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
 
 `-`
 Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. Black soldier fly as feed for aquatic insects. **Journal of Insects as Food and Feed**.
 
 `-`
-Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
+Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.researchgate.net/publication/370352488_Variable_genomic_patterns_of_hybridization_in_two_independent_hybrid_zones_of_damselflies). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
 `2025`
 **Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://drive.google.com/file/d/16rjI8BIixs6b4OtOTUO8CBvL3G17EO_4/view?usp=sharing). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
@@ -370,8 +373,8 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 
 ### Fellowships
 
-`2023 - 2025`
-**Concordia University**. Horizon Postdoctoral Fellowships. Postdoc Fellowship. CAD 100,000.
+`2023 - 2026`
+**Concordia University**. Horizon Postdoctoral Fellowships. Postdoc Fellowship. CAD 150,000.
 
 ### Scholarships
 
@@ -464,4 +467,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: August 2025 -->
+Last Update: September 2025 -->
