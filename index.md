@@ -98,7 +98,7 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 
 ### Peer reviewing
 
-[**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 1.
+[**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 2.
 
 [**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 2.
 
@@ -134,13 +134,13 @@ Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés,
 Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
 
 `-`
-Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. Black soldier fly as feed for aquatic insects. **Journal of Insects as Food and Feed**.
-
-`-`
 Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.researchgate.net/publication/370352488_Variable_genomic_patterns_of_hybridization_in_two_independent_hybrid_zones_of_damselflies). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
 `2025`
-**Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://drive.google.com/file/d/16rjI8BIixs6b4OtOTUO8CBvL3G17EO_4/view?usp=sharing). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
+Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. [Black soldier fly as feed for aquatic insects](https://www.researchgate.net/publication/396894428_Black_soldier_fly_as_feed_for_aquatic_insects). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-bja10313](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-bja10313/article-10.1163-23524588-bja10313.xml?ebody=Abstract%2FExcerpt)
+
+`-`
+**Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://www.researchgate.net/publication/389207072_Testing_an_insect-plant_circular_system_based_on_black_soldier_fly_and_duckweed). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
 
 `2024`
 **Arce-Valdés, L. R.$** Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone.](https://www.researchgate.net/publication/384366467_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mottled_hybrid_zone) **Journal of Evolutionary Biology**, 38(1), 10-27. [https://doi.org/10.1093/jeb/voae124](https://doi.org/10.1093/jeb/voae124)
