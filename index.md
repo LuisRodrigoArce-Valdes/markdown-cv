@@ -119,12 +119,12 @@ Vilanova, J., **Arce-Valdés, L. R.**, Xianming, Z., Mahdjoub, H. & Khelifa, R. 
 **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
 
 `-`
-López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. From waste to resources: Converting Canada geese feces into protein and plant fertilizer using the black soldier fly (*Hermetia illucens*).
-
-`-`
 **Arce-Valdés, L. R.**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly.
 
 `Under Review`
+López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. Using insects for sustainable waste management of superabundant animals. **Urban Sustainability**.
+
+`-`
 Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Evolution**.
 
 `-`
