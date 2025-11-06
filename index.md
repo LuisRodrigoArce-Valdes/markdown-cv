@@ -306,7 +306,9 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ### Undergraduate courses
 
 `2025`
-**Concordia University**. BSc in Biology. BIOL 498: Introduction to Scientific Communication. Literature search and citation.
+**Concordia University**. BSc in Biology. BIOL 225: Form and Function of Organisms. Animal Behavior.
+
+**Concordia University**. BSc in Biology. BIOL 498: Introduction to Scientific Communication. Literature Search and Citation.
 
 `2018`
 **Universidad Autónoma de Baja California**. B. S. Biotechnology in aquaculture. Aquaculture Genetics.
