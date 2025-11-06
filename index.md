@@ -122,7 +122,7 @@ Vilanova, J., **Arce-Valdés, L. R.**, Xianming, Z., Mahdjoub, H. & Khelifa, R. 
 **Arce-Valdés, L. R.**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly.
 
 `Under Review`
-López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. Using insects for sustainable waste management of superabundant animals. **Urban Sustainability**.
+López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using insects for sustainable waste management of superabundant animals](https://doi.org/10.1101/2025.11.03.686388). **Urban Sustainability**. [https://doi.org/10.1101/2025.11.03.686388](https://doi.org/10.1101/2025.11.03.686388)
 
 `-`
 Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Evolution**.
