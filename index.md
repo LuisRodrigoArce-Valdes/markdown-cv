@@ -117,22 +117,22 @@ $ = Corresponding author.
 **14.** **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
 
 `Under Review`
-**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly. **Evolutionary Ecology**.
+**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly. **The Science of Nature**.
 
 **12.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using insects for sustainable waste management of superabundant animals](https://doi.org/10.1101/2025.11.03.686388). **Urban Sustainability**. [https://doi.org/10.1101/2025.11.03.686388](https://doi.org/10.1101/2025.11.03.686388)
 
-**11.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Evolution**.
+**11.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Journal of Evolutionary Biology**.
 
-**10.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://www.researchgate.net/publication/391525161_Alternative_reproductive_strategies_explain_asymmetric_reinforcement_of_reproductive_isolation_in_two_Ischnura_damselfly_species). **Evolution**. [https://doi.org/10.1101/2025.05.04.652146](https://doi.org/10.1101/2025.05.04.652146)
+**10.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://www.researchgate.net/publication/391525161_Alternative_reproductive_strategies_explain_asymmetric_reinforcement_of_reproductive_isolation_in_two_Ischnura_damselfly_species). **Heredity**. [https://doi.org/10.1101/2025.05.04.652146](https://doi.org/10.1101/2025.05.04.652146)
 
 **9.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
 
 **8.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.researchgate.net/publication/370352488_Variable_genomic_patterns_of_hybridization_in_two_independent_hybrid_zones_of_damselflies). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
 
 `2025`
-**7.** Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. [Black soldier fly as feed for aquatic insects](https://www.researchgate.net/publication/396894428_Black_soldier_fly_as_feed_for_aquatic_insects). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-bja10313](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-bja10313/article-10.1163-23524588-bja10313.xml?ebody=Abstract%2FExcerpt)
+**7.** Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. (2025). [Black soldier fly as feed for aquatic insects](https://www.researchgate.net/publication/396894428_Black_soldier_fly_as_feed_for_aquatic_insects). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-bja10313](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-bja10313/article-10.1163-23524588-bja10313.xml?ebody=Abstract%2FExcerpt)
 
-**6.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://www.researchgate.net/publication/389207072_Testing_an_insect-plant_circular_system_based_on_black_soldier_fly_and_duckweed). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
+**6.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. (2025). [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://www.researchgate.net/publication/389207072_Testing_an_insect-plant_circular_system_based_on_black_soldier_fly_and_duckweed). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
 
 `2024`
 **5.** **Arce-Valdés, L. R.$** Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone.](https://www.researchgate.net/publication/384366467_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mottled_hybrid_zone) **Journal of Evolutionary Biology**, 38(1), 10-27. [https://doi.org/10.1093/jeb/voae124](https://doi.org/10.1093/jeb/voae124)
@@ -162,7 +162,7 @@ $ = Corresponding author.
 ### Presentations
 
 `2025`
-**11.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. Reforzamiento en especies polimórficas de caballitos de diablo (Zygoptera: Coenagrionidae): *Ischnura elegans* e *I. graellsii*. **IV Congreso de la Asociación Mexicana de Sistemática de Artrópodos**.
+**11.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2025). Reforzamiento en especies polimórficas de caballitos de diablo (Zygoptera: Coenagrionidae): *Ischnura elegans* e *I. graellsii*. **IV Congreso de la Asociación Mexicana de Sistemática de Artrópodos**.
 
 `2024`
 **10.** Ordaz-Morales, J. E., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Sanmartin, I., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2024). Cambios en la frecuencia de los morfotipos de color femenino a partir de un proceso de hibridación. **IX Congreso Mexicano de Ecología**. El Colegio de la Frontera Sur - Sociedad Científica Mexicana de Ecología-
@@ -193,7 +193,7 @@ $ = Corresponding author.
 ### Posters
 
 `2025`
-**4.** **Arce-Valdés, L. R.**, Booker, T. R, Irwin, D., Sánchez-Guillén, R. A. & Khelifa, R. [Changements aux directions d'hybridation à cause du renforcement par incompatibilités Bateson-Dobzhansky-Müller (BDM) unidirectionnellement héritées](https://www.researchgate.net/publication/389501146_Changements_aux_directions_d'hybridation_a_cause_du_renforcement_par_incompatibilites_Bateson-Dobzhansky-Muller_BDM_unidirectionnellement_heritees). **Colloque 2025 du Centre de la Science de la Biodiversité du Québec**.
+**4.** **Arce-Valdés, L. R.**, Booker, T. R, Irwin, D., Sánchez-Guillén, R. A. & Khelifa, R. (2025). [Changements aux directions d'hybridation à cause du renforcement par incompatibilités Bateson-Dobzhansky-Müller (BDM) unidirectionnellement héritées](https://www.researchgate.net/publication/389501146_Changements_aux_directions_d'hybridation_a_cause_du_renforcement_par_incompatibilites_Bateson-Dobzhansky-Muller_BDM_unidirectionnellement_heritees). **Colloque 2025 du Centre de la Science de la Biodiversité du Québec**.
 
 `2021`
 **3.** **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2021). [Reforzamiento rápido del aislamiento reproductivo precigótico en una región híbrida de caballitos del diablo](https://www.researchgate.net/publication/356760169_Reforzamiento_rapido_del_aislamiento_reproductivo_precigotico_en_una_region_hibrida_de_caballitos_del_diablo). **1er Congreso Latinoamericano de Evolución. CLEVOL**
