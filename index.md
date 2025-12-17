@@ -117,7 +117,7 @@ $ = Corresponding author.
 **14.** **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
 
 `Under Review`
-**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly. **The Science of Nature**.
+**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. [Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly](https://doi.org/10.21203/rs.3.rs-8253644/v1). **The Science of Nature**. [https://doi.org/10.21203/rs.3.rs-8253644/v1](https://doi.org/10.21203/rs.3.rs-8253644/v1)
 
 **12.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using insects for sustainable waste management of superabundant animals](https://doi.org/10.1101/2025.11.03.686388). **Urban Sustainability**. [https://doi.org/10.1101/2025.11.03.686388](https://doi.org/10.1101/2025.11.03.686388)
 
