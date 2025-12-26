@@ -110,7 +110,7 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 $ = Corresponding author.
 
 `In preparation`
-**16.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H. & Khelifa, R. Metabarcoding suggests contrasting patterns in the diets of female-limited color polymorphisms between two odonate species.
+**16.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Kremen, C., Mlynarek, J. J. & Khelifa, R. Do andromorph females eat like males? An evaluation employing two polymorphic odonate species.
 
 **15.** Vilanova, J., **Arce-Valdés, L. R.**, Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
 
@@ -127,7 +127,7 @@ $ = Corresponding author.
 
 **9.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
 
-**8.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Rios, J. R., Wellenreuther, M. & Hansson, B. [Variable genomic patterns of hybridization in two independent hybrid zones of damselflies](https://www.researchgate.net/publication/370352488_Variable_genomic_patterns_of_hybridization_in_two_independent_hybrid_zones_of_damselflies). **Heredity**. [https://doi.org/10.22541/au.168259144.47256890/v1](https://www.authorea.com/users/463293/articles/640173-variable-genomic-patterns-of-hybridization-in-two-independent-hybrid-zones-of-damselflies?commit=296afd3640976c6b113f7c7e632f1f20698af0bc)
+**8.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones](https://doi.org/10.64898/2025.12.23.696213). **Heredity**. [https://doi.org/10.64898/2025.12.23.696213](https://doi.org/10.64898/2025.12.23.696213)
 
 `2025`
 **7.** Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. (2025). [Black soldier fly as feed for aquatic insects](https://www.researchgate.net/publication/396894428_Black_soldier_fly_as_feed_for_aquatic_insects). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-bja10313](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-bja10313/article-10.1163-23524588-bja10313.xml?ebody=Abstract%2FExcerpt)
