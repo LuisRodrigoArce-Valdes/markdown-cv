@@ -33,7 +33,7 @@ title: Arce-Valdés
 
 ## Presentation
 
-I am interested in the application of genetic and genomic analyses for the study of evolution, ecology and conservation. During my studies and my postdoc I have been developing my main lines of research mainly focusing in conservation, speciation and sustainability. I think that research objectives and budget should guide experimental design implemented methods. The optimum use of budget should be achieved without risking the quality of results. Choosing between genetic and genomic tools helps to achieve this. By having developed a deep knowledge in both genetic and genomics tools I am well able to design, implement and report results based on research questions and objectives. 
+I am interested in the application of genetic and genomic analyses for the study of evolution, ecology and conservation. During my studies and my postdoc I have been developing my main lines of research mainly focusing in conservation, speciation and sustainability. I think that research objectives and budget should guide experimental design implemented methods. The optimum use of budget should be achieved without risking the quality of results. Choosing between genetic and genomic tools helps to achieve this. By having developed a deep knowledge in both genetic and genomics tools I am well able to design, implement and report results based on research questions and objectives. I employ insects as my main study model.
 
 ## Current Activity
 
