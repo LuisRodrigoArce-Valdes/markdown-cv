@@ -8,7 +8,7 @@ title: Arce-Valdés
 
 <a>22/07/1993</a><br>
 
-<a href="https://luisarcevaldes.weebly.com/research.html">Personal webpage</a><br>
+<a href="https://luisarcevaldes.weebly.com">Personal webpage</a><br>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
 
