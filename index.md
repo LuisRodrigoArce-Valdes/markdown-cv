@@ -100,6 +100,8 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 
 ### Peer reviewing
 
+[**Applied Entomology and Zooology**](https://link.springer.com/journal/13355) - 1.
+
 [**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 2.
 
 [**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 2.
