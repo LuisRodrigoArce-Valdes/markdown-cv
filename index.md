@@ -361,6 +361,8 @@ Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina g
 ## Science Communication
 
 ### Articles
+`2026`
+**5.** **Arce-Valdés, L. R.** (2026). [Réflexions académiques et personnelles grâce aux libellules Ischnura] (https://lebeagle.qcbs.ca/blog/reflexions-academiques-et-personnelles-grace-aux-libellules-ischnura/). **Centre de la science de la biodiversité du Québec. Le Beagle**
 
 `2023`
 **4.** **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2023). [La teoría del reforzamiento: ¿Pueden originarse nuevas especies habitando juntas?](https://www.flipsnack.com/deblith/hd-volumen-4-n-mero-3-oto-o-2023/full-view.html). **Eco-Lógico**. 4 (3): 60-67.
