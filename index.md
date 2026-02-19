@@ -53,12 +53,19 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 **Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2016`
-**Universidad Autónoma del Estado de México**. B. S. Biology. Degree earned by academic performance. Highest grade average of the generation 2011-2016.
+**Universidad Autónoma del Estado de México**. B. Sc. Biology. Degree earned by academic performance. Highest grade average of the generation 2011-2016.
 
 `2008-2011`
 **The International Baccalaureate (IB)**. The IB Diploma.
 
 ### Courses & Workshops
+
+`2026`
+**Concordia University - Environmental Health and Safety**. Hazardous Waste Disposal at Concordia.
+
+**Concordia University - Environmental Health and Safety**. Hazardous Waste Disposal for Laboratory Personnel.
+
+**Concordia University - Environmental Health and Safety**. WHMIS for Laboratory Personnel.
 
 `2021`
 **Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Assembly and Annotation of Genomes and Metagenomes .
@@ -100,7 +107,7 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 
 ### Peer reviewing
 
-[**Applied Entomology and Zooology**](https://link.springer.com/journal/13355) - 1.
+[**Applied Entomology and Zoology**](https://link.springer.com/journal/13355) - 1.
 
 [**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 2.
 
@@ -114,24 +121,26 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 $ = Corresponding author.
 
 `In preparation`
-**16.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Kremen, C., Mlynarek, J. J. & Khelifa, R. Do andromorph females eat like males? An evaluation employing two polymorphic odonate species.
+**16.** **Arce-Valdés, L. R.**, Vilanova, J., Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
 
-**15.** Vilanova, J., **Arce-Valdés, L. R.**, Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
-
-**14.** **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
+**15.** **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
 
 `Under Review`
+**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females eat like males?. **Molecular Ecology**.
+
 **13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. [Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly](https://doi.org/10.21203/rs.3.rs-8253644/v1). **The Science of Nature**. [https://doi.org/10.21203/rs.3.rs-8253644/v1](https://doi.org/10.21203/rs.3.rs-8253644/v1)
 
-**12.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using insects for sustainable waste management of superabundant animals](https://doi.org/10.1101/2025.11.03.686388). **Urban Sustainability**. [https://doi.org/10.1101/2025.11.03.686388](https://doi.org/10.1101/2025.11.03.686388)
+**12.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Journal of Evolutionary Biology**.
 
-**11.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Journal of Evolutionary Biology**.
+**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
 
-**10.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://www.researchgate.net/publication/391525161_Alternative_reproductive_strategies_explain_asymmetric_reinforcement_of_reproductive_isolation_in_two_Ischnura_damselfly_species). **Heredity**. [https://doi.org/10.1101/2025.05.04.652146](https://doi.org/10.1101/2025.05.04.652146)
+**10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones](https://doi.org/10.64898/2025.12.23.696213). **Heredity**. [https://doi.org/10.64898/2025.12.23.696213](https://doi.org/10.64898/2025.12.23.696213)
 
-**9.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
+`In Press`
+**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://www.researchgate.net/publication/391525161_Alternative_reproductive_strategies_explain_asymmetric_reinforcement_of_reproductive_isolation_in_two_Ischnura_damselfly_species). **Heredity**. [https://doi.org/10.1101/2025.05.04.652146](https://doi.org/10.1101/2025.05.04.652146)
 
-**8.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones](https://doi.org/10.64898/2025.12.23.696213). **Heredity**. [https://doi.org/10.64898/2025.12.23.696213](https://doi.org/10.64898/2025.12.23.696213)
+`2026`
+**8.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using an insect for sustainable waste management of a superabundant bird](https://doi.org/10.1016/j.jenvman.2026.128919). **Journal of Environmental Management**. [https://doi.org/10.1016/j.jenvman.2026.128919](https://doi.org/10.1016/j.jenvman.2026.128919)
 
 `2025`
 **7.** Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. (2025). [Black soldier fly as feed for aquatic insects](https://www.researchgate.net/publication/396894428_Black_soldier_fly_as_feed_for_aquatic_insects). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-bja10313](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-bja10313/article-10.1163-23524588-bja10313.xml?ebody=Abstract%2FExcerpt)
@@ -292,10 +301,18 @@ Ability to communicate.
 `Under supervision`
 Pulido-Rios, L. El papel de la hibridación en la especiación del género *Ischnura* (Odonata: Coenagrionidae). PhD. **Instituto de Ecología A. C.**
 
+Henderson, M. Dragonfly services and disservices in agroecosystems. B. Sc. Biology. **Concordia University**.
+
 ### Master's theses
 
 `2021`
 Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería](https://drive.google.com/file/d/1WXPKwFcyXmlbx5USYxDVatAzw6a_wHb3/view). M. S. Coastal Oceanography. **Universidad Autónoma de Baja California**.
+
+### Dissertation jury member
+
+`2026`
+Juárez-Jiménez, A. L. (2026). Dinámica temporal y efectos indirectos del reforzamiento del aislamiento reproductivo en dos
+especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Universidad Autónoma de Puebla**.
 
 ## Teaching
 
@@ -416,4 +433,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: September 2025 -->
+Last Update: February 2026 -->
