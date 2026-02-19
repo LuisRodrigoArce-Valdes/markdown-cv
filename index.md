@@ -123,7 +123,7 @@ $ = Corresponding author.
 `In preparation`
 **16.** **Arce-Valdés, L. R.**, Vilanova, J., Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
 
-**15.** **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies.
+**15.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones.
 
 `Under Review`
 **14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females eat like males?. **Molecular Ecology**.
