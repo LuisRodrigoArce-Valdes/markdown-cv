@@ -128,7 +128,7 @@ $ = Corresponding author.
 `Under Review`
 **14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females eat like males?. **Molecular Ecology**.
 
-**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. [Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly](https://doi.org/10.21203/rs.3.rs-8253644/v1). **The Science of Nature**. [https://doi.org/10.21203/rs.3.rs-8253644/v1](https://doi.org/10.21203/rs.3.rs-8253644/v1)
+**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. [Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly](https://doi.org/10.21203/rs.3.rs-8253644/v1). **Entomologia experimentalis et applicata**. [https://doi.org/10.21203/rs.3.rs-8253644/v1](https://doi.org/10.21203/rs.3.rs-8253644/v1)
 
 **12.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Journal of Evolutionary Biology**.
 
