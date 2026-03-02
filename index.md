@@ -173,6 +173,8 @@ $ = Corresponding author.
 **1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
 ### Presentations
+`2026`
+**12.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. **Colloque 2026 du Centre de la Science de la Biodiversité du Québec**.
 
 `2025`
 **11.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2025). Reforzamiento en especies polimórficas de caballitos de diablo (Zygoptera: Coenagrionidae): *Ischnura elegans* e *I. graellsii*. **IV Congreso de la Asociación Mexicana de Sistemática de Artrópodos**.
