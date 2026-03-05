@@ -174,7 +174,7 @@ $ = Corresponding author.
 
 ### Presentations
 `2026`
-**12.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. **Colloque 2026 du Centre de la Science de la Biodiversité du Québec**.
+**12.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. **Colloque 2026 du Centre de la Science de la Biodiversité du Québec**. *Volunteer as abstract reviewer and poster evaluator.*
 
 `2025`
 **11.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2025). Reforzamiento en especies polimórficas de caballitos de diablo (Zygoptera: Coenagrionidae): *Ischnura elegans* e *I. graellsii*. **IV Congreso de la Asociación Mexicana de Sistemática de Artrópodos**.
