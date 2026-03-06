@@ -301,15 +301,18 @@ Ability to communicate.
 
 ### PhD theses
 
-`Under supervision`
+`In progress`
 Pulido-Rios, L. El papel de la hibridación en la especiación del género *Ischnura* (Odonata: Coenagrionidae). PhD. **Instituto de Ecología A. C.**
-
-Henderson, M. Dragonfly services and disservices in agroecosystems. B. Sc. Biology. **Concordia University**.
 
 ### Master's theses
 
 `2021`
 Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería](https://drive.google.com/file/d/1WXPKwFcyXmlbx5USYxDVatAzw6a_wHb3/view). M. S. Coastal Oceanography. **Universidad Autónoma de Baja California**.
+
+### Bachelor's theses
+
+`In progress`
+Henderson, M. Dragonfly services and disservices in agroecosystems. B. Sc. Biology. **Concordia University**.
 
 ### Dissertation jury member
 
@@ -372,7 +375,7 @@ especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Univ
 **Concordia University**. Conference and exposition allowance. CAD 500.
 
 `2023`
-**Instituto de Ecología A. C.** . INECOL 2023-1 supplement for student mobility. MXN 20,000.
+**Instituto de Ecología A. C**. INECOL 2023-1 supplement for student mobility. MXN 20,000.
 
 `2015`
 **Academia Mexicana de Ciencias**. Travel grant. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C.  MXN 9,000.
