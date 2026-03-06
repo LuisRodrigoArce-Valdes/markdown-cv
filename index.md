@@ -173,6 +173,7 @@ $ = Corresponding author.
 **1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
 ### Presentations
+
 `2026`
 **12.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. **Colloque 2026 du Centre de la Science de la Biodiversité du Québec**. *Volunteer as abstract reviewer and poster evaluator.*
 
@@ -362,6 +363,9 @@ especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Univ
 
 ### Grants
 
+`2026`
+**Centre de la Science de la Biodiversité du Québec**. Prix d'excellence -  Attend conferences to give an oral presentation. CAD 1,500.
+
 `2024`
 **Centre de la Science de la Biodiversité du Québec**. Prix d'excellence - Training in the field or lab. CAD 2,000.
 
@@ -380,6 +384,7 @@ especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Univ
 ## Science Communication
 
 ### Articles
+
 `2026`
 **5.** **Arce-Valdés, L. R.** (2026). [Réflexions académiques et personnelles grâce aux libellules *Ischnura*](https://lebeagle.qcbs.ca/blog/reflexions-academiques-et-personnelles-grace-aux-libellules-ischnura/). **Centre de la science de la biodiversité du Québec. Le Beagle**
 
