@@ -389,6 +389,8 @@ especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Univ
 ### Articles
 
 `2026`
+**6.** Nolasco-Soto, J., **Arce-Valdés, L. R.**, Pulido-Rios, L. (2026). [Descifrando los secretos del ADN](https://www.cronica.com.mx/academia/2026/03/11/descifrando-los-secretos-del-adn/). **La crónica de Hoy**.
+
 **5.** **Arce-Valdés, L. R.** (2026). [Réflexions académiques et personnelles grâce aux libellules *Ischnura*](https://lebeagle.qcbs.ca/blog/reflexions-academiques-et-personnelles-grace-aux-libellules-ischnura/). **Centre de la science de la biodiversité du Québec. Le Beagle**
 
 `2023`
