@@ -120,13 +120,12 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 ### Peer Reviewed Articles
 $ = Corresponding author.
 
-`In preparation`
-**16.** **Arce-Valdés, L. R.**, Vilanova, J., Xianming, Z., Mahdjoub, H. & Khelifa, R. Usage of insects as a model system to understand airborne eDNA as a tool for their monitoring and conservation.
-
-**15.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones.
-
 `Under Review`
-**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females eat like males?. **Molecular Ecology**.
+**16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. **Proceedings of the Royal Society B**.
+
+**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. **Molecular Ecology**.
+
+**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females have a male-like diet?. **Evolution**.
 
 **13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. [Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly](https://doi.org/10.21203/rs.3.rs-8253644/v1). **Entomologia experimentalis et applicata**. [https://doi.org/10.21203/rs.3.rs-8253644/v1](https://doi.org/10.21203/rs.3.rs-8253644/v1)
 
@@ -136,10 +135,9 @@ $ = Corresponding author.
 
 **10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones](https://doi.org/10.64898/2025.12.23.696213). **Heredity**. [https://doi.org/10.64898/2025.12.23.696213](https://doi.org/10.64898/2025.12.23.696213)
 
-`In Press`
-**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://www.researchgate.net/publication/391525161_Alternative_reproductive_strategies_explain_asymmetric_reinforcement_of_reproductive_isolation_in_two_Ischnura_damselfly_species). **Heredity**. [https://doi.org/10.1101/2025.05.04.652146](https://doi.org/10.1101/2025.05.04.652146)
-
 `2026`
+**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://rdcu.be/fbKuE). **Heredity**. [https://doi.org/10.1038/s41437-026-00837-6](https://doi.org/10.1038/s41437-026-00837-6)
+
 **8.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using an insect for sustainable waste management of a superabundant bird](https://doi.org/10.1016/j.jenvman.2026.128919). **Journal of Environmental Management**. [https://doi.org/10.1016/j.jenvman.2026.128919](https://doi.org/10.1016/j.jenvman.2026.128919)
 
 `2025`
@@ -445,4 +443,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: February 2026 -->
+Last Update: April 2026 -->
