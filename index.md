@@ -6,8 +6,6 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
-<a>22/07/1993</a><br>
-
 <a href="https://luisarcevaldes.weebly.com">Sitio web personal</a><br>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
@@ -23,8 +21,6 @@ title: Arce-Valdés
 <a href="https://osf.io/kec9h/">OSF</a><br>
 
 <a>+1 438-365-7133</a><br>
-
-<a>Montreal, QC, Canada</a><br>
 
 <a> Idiomas: Español (L1), English (C1~C2), Français (B2~C1)</a><br>
 
