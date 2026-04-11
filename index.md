@@ -47,7 +47,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ### Trayectoría Académica
 
 `2019 - 2023`
-**Instituto de Ecología A.C.** Doctor en Ciencias. Supervisor: Rosa Ana Sánchez Guillén. Tésis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone).[World Education Services (WES) evaluated](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca).
+**Instituto de Ecología A.C.** Doctor en Ciencias. Supervisor: Rosa Ana Sánchez Guillén. Tésis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone).[Evaluado por el World Education Services (WES)](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca).
 
 `2016 - 2018`
 **Centro de Investigación Científica y de Educación Superior de Ensenada**. Maestría en Ciencias en Biología Ambiental. Cosupervisores: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Tésis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
@@ -56,7 +56,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 **Universidad Autónoma del Estado de México**. Licenciatura en Biología. Grado obtenido por desempeño académico. Promedio académico más alto de la generación 2011-2016.
 
 `2008-2011`
-**El Bachillerato Internacional (IBO)**. El diploma IBO.
+**El Bachillerato Internacional (IBO)**. Diploma IBO.
 
 ### Cursos y Talleres
 
@@ -94,7 +94,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ### Visitas
 
 `2025`
-**University of British Columbia - Forest Sciences Center**. Anfitrión: Thomas Booker. Cambios en la dirección de la hibridación debido al reforzamiento por incompatibilidades de Bateson-Dobzhansky-Müller incompatibilities heredadas de forma unidireccional: evaluación de condiciones y consistencia mediante simulaciones computacionales.
+**University of British Columbia - Forest Sciences Center**. Anfitrión: Thomas Booker. Cambios en la dirección de la hibridación debido al reforzamiento por incompatibilidades de Bateson-Dobzhansky-Müller heredadas de forma unidireccional: evaluación de condiciones y consistencia mediante simulaciones computacionales.
 
 `2018`
 **University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Anfitrión: John Carlos Garza. Innovaciones tecnológicas para la conservación y reproducción de especies de peces marinos, con énfasis en la totoaba (*Totoaba macdonaldi*).
