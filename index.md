@@ -91,13 +91,13 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 **University of British Columbia - Forest Sciences Center**. Anfitrión: Thomas Booker. Cambios en la dirección de la hibridación debido al reforzamiento por incompatibilidades de Bateson-Dobzhansky-Müller heredadas de forma unidireccional: evaluación de condiciones y consistencia mediante simulaciones computacionales. [*link*](https://drive.google.com/file/d/1vGGC-vfIFhLpjtdJlvuB3iP2swMDRvzs/view?usp=drive_link)
 
 `2018`
-**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Anfitrión: John Carlos Garza. Innovaciones tecnológicas para la conservación y reproducción de especies de peces marinos, con énfasis en la totoaba (*Totoaba macdonaldi*). [*link*](https://drive.google.com/file/d/1mRJvos1gtREd97ELoJT8TUskb9egJI2y/view?usp=drive_link)
+**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Anfitrión: John Carlos Garza. Innovaciones tecnológicas para la conservación y reproducción de especies de peces marinos, con énfasis en la totoaba (Totoaba macdonaldi). [*link*](https://drive.google.com/file/d/1mRJvos1gtREd97ELoJT8TUskb9egJI2y/view?usp=drive_link)
 
 `2015`
-**Universidad Autónoma de Baja California**. Anfitrión: Luis Manuel Enríquez Paredes. Trazabilidad genética de Totoaba (*Totoaba macdonaldi*) en el cautiverio y en la población silvestre. [*link*](https://drive.google.com/file/d/1vbdspxmqGyy0CjtqukhQEq2JtEXD1E-o/view?usp=drive_link)
+**Universidad Autónoma de Baja California**. Anfitrión: Luis Manuel Enríquez Paredes. Trazabilidad genética de Totoaba (Totoaba macdonaldi) en el cautiverio y en la población silvestre. [*link*](https://drive.google.com/file/d/1vbdspxmqGyy0CjtqukhQEq2JtEXD1E-o/view?usp=drive_link)
 
 `2014`
-**Universidad Autónoma del Estado de Hidalgo**. Anfitrión: Pablo Octavio Aguilar. Flujo genético entre manchones de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. [*link*](https://drive.google.com/file/d/1b5XxnFZUWPjWnFG2j_ROrZzvhtEVg75e/view?usp=drive_link)
+**Universidad Autónoma del Estado de Hidalgo**. Anfitrión: Pablo Octavio Aguilar. Flujo genético entre manchones de Dichromanthus aurantiacus en el parque nacional El Chico, Hidalgo. [*link*](https://drive.google.com/file/d/1b5XxnFZUWPjWnFG2j_ROrZzvhtEVg75e/view?usp=drive_link)
 
 ### Revisión por pares
 
@@ -117,7 +117,7 @@ $ = Autor de correspondencia.
 `En revisión`
 **16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. Proceedings of the Royal Society B. [*link*](https://drive.google.com/file/d/1TGn9awUyp92ajvXTtSBZ_tb906fy7fK3/view?usp=drive_link)
 
-**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. Molecular Ecology. [*link*](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)
+**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. Local adaptation across expanding hybrid zones in the damselflies Ischnura elegans and I. graellsii. Molecular Ecology. [*link*](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)
 
 **14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females have a male-like diet?. Evolution. [*link*](https://drive.google.com/file/d/18rGN-bkZjzX2ie0pQgjIV9C20cbviMAi/view?usp=drive_link)
 
@@ -125,7 +125,7 @@ $ = Autor de correspondencia.
 
 **12.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. Journal of Evolutionary Biology. [*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)
 
-**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. Circular Economy and Sustainability. [*link*](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)
+**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. Circular Economy and Sustainability. [*link*](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)
 
 **10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones]. Heredity. [*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)
 
@@ -143,7 +143,7 @@ $ = Autor de correspondencia.
 **5.** **Arce-Valdés, L. R.$** Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone. Journal of Evolutionary Biology. [*https://doi.org/10.1093/jeb/voae124*](https://doi.org/10.1093/jeb/voae124)
 
 `2023`
-**4.** **Arce-Valdés, L. R.**, Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae). Fisheries Research. [*https://doi.org/10.1016/j.fishres.2023.106608*](https://doi.org/10.1016/j.fishres.2023.106608)
+**4.** **Arce-Valdés, L. R.**, Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, Cynoscion othonopterus (Perciformes: Sciaenidae). Fisheries Research. [*https://doi.org/10.1016/j.fishres.2023.106608*](https://doi.org/10.1016/j.fishres.2023.106608)
 
 `2022`
 **3.** Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2022). First evidence of multiple paternity in the blue shark (Prionace glauca). Journal of Fish Biology. [*https://doi.org/10.1111/jfb.15272*](https://doi.org/10.1111/jfb.15272)
@@ -159,9 +159,9 @@ $ = Autor de correspondencia.
 **3.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). Interspecific hybridization in insects in times of climate change. En D. González-Tokman & W. Dáttilo (Eds.), Effects of climate change on insects, Oxford University Press. [*https://doi.org/10.1093/oso/9780192864161.003.0008*](https://doi.org/10.1093/oso/9780192864161.003.0008)
 
 `2023`
-**2.** Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). Estado Actual de Conservación del Recurso Genético *T. macdonaldi*. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación, Universidad Autónoma de Baja California. [*link*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)
+**2.** Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). Estado Actual de Conservación del Recurso Genético T. macdonaldi. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación, Universidad Autónoma de Baja California. [*link*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)
 
-**1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). Protocolos Para la Caracterización Genética en *T. macdonaldi*. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación, Universidad Autónoma de Baja California. [*link*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)
+**1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). Protocolos Para la Caracterización Genética en T. macdonaldi. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación, Universidad Autónoma de Baja California. [*link*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)
 
 ### Presentaciones
 
@@ -190,10 +190,10 @@ $ = Autor de correspondencia.
 **3.** Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2020). Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California. Virtual Annual Meeting of the American Fisheries Society 2020. [*link*](https://drive.google.com/file/d/12R4BkETwxKH7sePTDDtvxK7181rEwXzB/view?usp=drive_link)
 
 `2018`
-**2.** **Arce-Valdés, L. R.**, Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (*Cynoscion othonopterus*) Highlights Its Vulnerable Conservation Status. 148th Annual Meeting of the American Fisheries Society. [*link*](https://drive.google.com/file/d/1sCv3Hr2vtygEX1on1UITJWGVuBcHb7Hp/view?usp=drive_link)
+**2.** **Arce-Valdés, L. R.**, Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (Cynoscion othonopterus) Highlights Its Vulnerable Conservation Status. 148th Annual Meeting of the American Fisheries Society. [*link*](https://drive.google.com/file/d/1sCv3Hr2vtygEX1on1UITJWGVuBcHb7Hp/view?usp=drive_link)
 
 `2014`
-**1.** **Arce-Valdés, L. R.**, Islas-Tello, L. A. & Octavio-Aguilar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico. [*link*](https://drive.google.com/file/d/10PCSiUg9u0YChrKAT-kZiRb2s37Mad_k/view?usp=drive_link)
+**1.** **Arce-Valdés, L. R.**, Islas-Tello, L. A. & Octavio-Aguilar, P. (2014). Flujo génico entre manchones poblacionales de Dichromanthus aurantiacus en el parque nacional El Chico, Hidalgo. Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico. [*link*](https://drive.google.com/file/d/10PCSiUg9u0YChrKAT-kZiRb2s37Mad_k/view?usp=drive_link)
 
 ### Pósters
 
@@ -246,11 +246,11 @@ Experiencia en modelado matemático utilizando aprendizaje automático, modelos 
 
 ## Cría de insectos para investigación experimental
 
-Libélulas (*Ischnura*).
+Libélulas (Ischnura).
 
-Mosca soldado negra (*Hermetia illucens*).
+Mosca soldado negra (Hermetia illucens).
 
-Moscas *Drosophila*.
+Moscas Drosophila.
 
 ## Habilidades y software
 
@@ -291,12 +291,12 @@ Capacidad de comunicación.
 ### Tésis de doctorado
 
 `En progreso`
-Pulido-Rios, L. El papel de la hibridación en la especiación del género *Ischnura* (Odonata: Coenagrionidae). Doctorado en Ciencias. Instituto de Ecología A. C. [*link*](https://drive.google.com/file/d/1YPlHPb8LhzbQD7O-mr-b-1TECzAP0eME/view?usp=drive_link)
+Pulido-Rios, L. El papel de la hibridación en la especiación del género Ischnura (Odonata: Coenagrionidae). Doctorado en Ciencias. Instituto de Ecología A. C. [*link*](https://drive.google.com/file/d/1YPlHPb8LhzbQD7O-mr-b-1TECzAP0eME/view?usp=drive_link)
 
 ### Tésis de maestría
 
 `2021`
-Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería](https://drive.google.com/file/d/1WXPKwFcyXmlbx5USYxDVatAzw6a_wHb3/view). Maestría en ciencias en oceanografía costera. Universidad Autónoma de Baja California. [*link*](https://drive.google.com/file/d/1iC63xOr5zn10dt39XcaQTbMgX3m1sdDD/view?usp=drive_link)
+Soto-González, E. M. (2021). Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería. Maestría en ciencias en oceanografía costera. Universidad Autónoma de Baja California. [*link*](https://drive.google.com/file/d/1iC63xOr5zn10dt39XcaQTbMgX3m1sdDD/view?usp=drive_link)
 
 ### Tésis de licenciatura
 
@@ -397,7 +397,7 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 ### Otros
 
 `2020`
-Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020). Conociendo a las libélulas. Instituto de Ecología, A. C. [**video**](https://www.youtube.com/watch?v=CkjWeTuxL1Q)
+Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020). Conociendo a las libélulas. Instituto de Ecología, A. C. [*video*](https://www.youtube.com/watch?v=CkjWeTuxL1Q)
 
 ## Premios
 
@@ -412,7 +412,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 `2010`
 **Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2do lugar estatal en el Estado de México. [*link*](https://drive.google.com/file/d/1xRN-9uYNIZTb_VsgtnT_VQmKTjzDlzaT/view?usp=drive_link)
 
-**Banco de México**. Premio Contacto Banxico. 1er Lugar Nacional. MXN 100,000. [*link*](https://drive.google.com/file/d/1ZCZn1vN11YZibXWri4gzezd7F09ws127/view?usp=drive_link) [Video](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)
+**Banco de México**. Premio Contacto Banxico. 1er Lugar Nacional. MXN 100,000. [*link*](https://drive.google.com/file/d/1ZCZn1vN11YZibXWri4gzezd7F09ws127/view?usp=drive_link) [*video*](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)
 
 **Universidad Iberoamericana**. 6to Concurso Nacional de Ensayos Fiolsóficos Preuniversitarios: Dilemas éticos contemporaneos. Mención honorífica. [*link*](https://drive.google.com/file/d/1-GcMR1NUxNr1GuZJ3ZCUuduyZhBjErte/view?usp=drive_link)
 
