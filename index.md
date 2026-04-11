@@ -22,9 +22,7 @@ title: Arce-Valdés
 
 <a>+1 438-365-7133</a><br>
 
-<a> Idiomas: Español (L1), English (C1~C2), Français (B2~C1)</a><br>
-
-<a>*La mayoría de los títulos son hipervínculos a los documentos referenciados.*</a>
+<a> Idiomas: Español (L1), </a><a href="https://drive.google.com/file/d/1YuQpPAS_abhe5JcsNK_8JW89GDCiuFq_/view?usp=drive_link">English (C1~C2), </a><a href="https://drive.google.com/file/d/1Xt_A98MhfOM4m0GKU4ycGg-h_q7PwoZm/view?usp=drive_link">Français (B2~C1)</a><br>
 
 </div>
 
@@ -36,20 +34,20 @@ Estoy interesado en la aplicación de análisis genéticos y genómicos para el 
 ## Actividad Actual
 
 `2023 - 2026`
-Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra.
+Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [**<link>**](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)
 
 ## Educación
 
 ### Trayectoría Académica
 
 `2019 - 2023`
-**Instituto de Ecología A.C.** Doctor en Ciencias. Supervisor: Rosa Ana Sánchez Guillén. Tésis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone).[Evaluado por el World Education Services (WES)](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca).
+**Instituto de Ecología A.C.** Doctor en Ciencias. Supervisor: Rosa Ana Sánchez Guillén. Tésis: The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone. Doctorado evaluado por el World Education Services (WES). [**<link1>**](https://drive.google.com/file/d/1k9O8aMuiGE9Cj25SurbfWiqEaU6bU591/view?usp=drive_link) [**<link2>**](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone) [**<link3>**](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca)
 
 `2016 - 2018`
-**Centro de Investigación Científica y de Educación Superior de Ensenada**. Maestría en Ciencias en Biología Ambiental. Cosupervisores: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Tésis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
+**Centro de Investigación Científica y de Educación Superior de Ensenada**. Maestría en Ciencias en Biología Ambiental. Cosupervisores: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Tésis: Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional. [**<link1>**](https://drive.google.com/file/d/1BwcS62oTVm_Ms-crNPRe8IUwsLaKEei6/view?usp=drive_link) [**<link2>**](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2016`
-**Universidad Autónoma del Estado de México**. Licenciatura en Biología. Grado obtenido por desempeño académico. Promedio académico más alto de la generación 2011-2016.
+**Universidad Autónoma del Estado de México**. Licenciatura en Biología. Grado obtenido por desempeño académico. Promedio académico más alto de la generación 2011-2016. [**<link>**](https://drive.google.com/file/d/1075uZpSdcqqE0I5jPoL0f135M6ViDTq-/view?usp=drive_link)
 
 `2008-2011`
 **El Bachillerato Internacional (IBO)**. Diploma IBO.
@@ -57,20 +55,20 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ### Cursos y Talleres
 
 `2026`
-**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos en Concordia.
+**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos en Concordia. [**<link>**](https://drive.google.com/file/d/1WlLM_7TuuAtX0-1UxARBMNhAioURh7iI/view?usp=drive_link)
 
-**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos para el personal de laboratorio.
+**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos para el personal de laboratorio. [**<link>**](https://drive.google.com/file/d/1GckgILLucJAAdq4-tX_fMaiCVrE-n7g8/view?usp=drive_link)
 
-**Concordia University - Environmental Health and Safety**. WHMIS para el personal de laboratorio.
+**Concordia University - Environmental Health and Safety**. WHMIS para el personal de laboratorio. [**<link>**](https://drive.google.com/file/d/1jNcTPIPr_yZbL1WcaI2bKr34XGJRWLK6/view?usp=drive_link)
 
 `2021`
-**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Ensamblaje y anotación de genómas y metagenómas.
+**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Ensamblaje y anotación de genómas y metagenómas. [**<link>**](https://drive.google.com/file/d/1fOsNRVogCS0_cvmZI3-dy83fEINCz-ix/view?usp=drive_link)
 
 `2020`
-**Physalia-courses & the Free University of Berlin**. Genómica de la Adaptación.
+**Physalia-courses & the Free University of Berlin**. Genómica de la Adaptación. [**<link>**](https://drive.google.com/file/d/1LGC8L4wEHFO7W63UtDlL-MuGnYufimDd/view?usp=drive_link)
 
 `2019`
-**Universidad del Medio Ambiente**. Manejo Integral de Resíduos Solídos Urbanos. 
+**Universidad del Medio Ambiente**. Manejo Integral de Resíduos Solídos Urbanos. [**<link>**]() 
 
 `2018`
 **American Fisheries Society**. El ciclo de vida de la comunicación científica: presentación, redacción, revisión y uso de redes sociales para diversos públicos.
