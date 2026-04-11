@@ -68,36 +68,36 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 **Physalia-courses & the Free University of Berlin**. Genómica de la Adaptación. [**link**](https://drive.google.com/file/d/1LGC8L4wEHFO7W63UtDlL-MuGnYufimDd/view?usp=drive_link)
 
 `2019`
-**Universidad del Medio Ambiente**. Manejo Integral de Resíduos Solídos Urbanos. [**link**]() 
+**Universidad del Medio Ambiente**. Taller de Gestión Integral de Residuos Sólidos Urbanos. [**link**](https://drive.google.com/file/d/1Ia8TXzSKxqt8id9H8z3yGnDq8s2yYTZJ/view?usp=drive_link) 
 
 `2018`
-**American Fisheries Society**. El ciclo de vida de la comunicación científica: presentación, redacción, revisión y uso de redes sociales para diversos públicos.
+**American Fisheries Society**. El ciclo de vida de la comunicación científica: presentación, redacción, revisión y uso de redes sociales para diversos públicos. [**link**](https://drive.google.com/file/d/1PsiBnitSklFAaAHtfmRgaVvE8ItqMYEw/view?usp=drive_link)
 
 ## Experiencia
 
 ### Estancia postdoctoral
 
 `2023-2026`
-**Concordia University**. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra.
+**Concordia University**. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [**link**](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)
 
 ### Asistencia de investigación
 
 `2020 - 2023`
-**Instituto de Ecología A. C.** Anfitrión: Mario Enrique Favila Castillo. Sistemática molécular de *Canthon cyanellus* usando microsatélites.
+**Instituto de Ecología A. C.** Anfitrión: Mario Enrique Favila Castillo. Sistemática molécular de *Canthon cyanellus* usando microsatélites. [**link**](https://drive.google.com/file/d/1tUC7X4ttA1XCew9mzAJVF2xcospNym-m/view?usp=drive_link)
 
 ### Visitas
 
 `2025`
-**University of British Columbia - Forest Sciences Center**. Anfitrión: Thomas Booker. Cambios en la dirección de la hibridación debido al reforzamiento por incompatibilidades de Bateson-Dobzhansky-Müller heredadas de forma unidireccional: evaluación de condiciones y consistencia mediante simulaciones computacionales.
+**University of British Columbia - Forest Sciences Center**. Anfitrión: Thomas Booker. Cambios en la dirección de la hibridación debido al reforzamiento por incompatibilidades de Bateson-Dobzhansky-Müller heredadas de forma unidireccional: evaluación de condiciones y consistencia mediante simulaciones computacionales. [**link**](https://drive.google.com/file/d/1vGGC-vfIFhLpjtdJlvuB3iP2swMDRvzs/view?usp=drive_link)
 
 `2018`
-**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Anfitrión: John Carlos Garza. Innovaciones tecnológicas para la conservación y reproducción de especies de peces marinos, con énfasis en la totoaba (*Totoaba macdonaldi*).
+**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Anfitrión: John Carlos Garza. Innovaciones tecnológicas para la conservación y reproducción de especies de peces marinos, con énfasis en la totoaba (*Totoaba macdonaldi*). [**link**](https://drive.google.com/file/d/1mRJvos1gtREd97ELoJT8TUskb9egJI2y/view?usp=drive_link)
 
 `2015`
-**Universidad Autónoma de Baja California**. Anfitrión: Luis Manuel Enríquez Paredes. Trazabilidad genética de Totoaba (*Totoaba macdonaldi*) en el cautiverio y en la población silvestre.
+**Universidad Autónoma de Baja California**. Anfitrión: Luis Manuel Enríquez Paredes. Trazabilidad genética de Totoaba (*Totoaba macdonaldi*) en el cautiverio y en la población silvestre. [**link**](https://drive.google.com/file/d/1vbdspxmqGyy0CjtqukhQEq2JtEXD1E-o/view?usp=drive_link)
 
 `2014`
-**Universidad Autónoma del Estado de Hidalgo**. Anfitrión: Pablo Octavio Aguilar. Flujo genético entre manchones de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo.
+**Universidad Autónoma del Estado de Hidalgo**. Anfitrión: Pablo Octavio Aguilar. Flujo genético entre manchones de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. [**link**](https://drive.google.com/file/d/1b5XxnFZUWPjWnFG2j_ROrZzvhtEVg75e/view?usp=drive_link)
 
 ### Revisión por pares
 
@@ -115,54 +115,54 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 $ = Autor de correspondencia.
 
 `En revisión`
-**16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. **Proceedings of the Royal Society B**.
+**16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. **Proceedings of the Royal Society B**. [**link**](https://drive.google.com/file/d/1TGn9awUyp92ajvXTtSBZ_tb906fy7fK3/view?usp=drive_link)
 
-**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. **Molecular Ecology**.
+**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. **Molecular Ecology**. [**link**](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)
 
-**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females have a male-like diet?. **Evolution**.
+**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females have a male-like diet?. **Evolution**. [**link**](https://drive.google.com/file/d/18rGN-bkZjzX2ie0pQgjIV9C20cbviMAi/view?usp=drive_link)
 
-**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. [Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly](https://doi.org/10.21203/rs.3.rs-8253644/v1). **Entomologia experimentalis et applicata**. [https://doi.org/10.21203/rs.3.rs-8253644/v1](https://doi.org/10.21203/rs.3.rs-8253644/v1)
+**13.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly. **Entomologia experimentalis et applicata**. [**https://doi.org/10.21203/rs.3.rs-8253644/v1**](https://doi.org/10.21203/rs.3.rs-8253644/v1)
 
-**12.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Journal of Evolutionary Biology**.
+**12.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. **Journal of Evolutionary Biology**. [**link**](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)
 
-**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. 
+**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (*Hermetia illucens*) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. **Circular Economy and Sustainability**. [**link**](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)
 
-**10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones](https://doi.org/10.64898/2025.12.23.696213). **Heredity**. [https://doi.org/10.64898/2025.12.23.696213](https://doi.org/10.64898/2025.12.23.696213)
+**10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones]. **Heredity**. [**https://doi.org/10.64898/2025.12.23.696213**](https://doi.org/10.64898/2025.12.23.696213)
 
 `2026`
-**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. [Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species](https://rdcu.be/fbKuE). **Heredity**. [https://doi.org/10.1038/s41437-026-00837-6](https://doi.org/10.1038/s41437-026-00837-6)
+**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2026). Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species. **Heredity**. [**https://doi.org/10.1038/s41437-026-00837-6**](https://doi.org/10.1038/s41437-026-00837-6)
 
-**8.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. [Using an insect for sustainable waste management of a superabundant bird](https://doi.org/10.1016/j.jenvman.2026.128919). **Journal of Environmental Management**. [https://doi.org/10.1016/j.jenvman.2026.128919](https://doi.org/10.1016/j.jenvman.2026.128919)
+**8.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. (2026). Using an insect for sustainable waste management of a superabundant bird. **Journal of Environmental Management**. [**https://doi.org/10.1016/j.jenvman.2026.128919**](https://doi.org/10.1016/j.jenvman.2026.128919)
 
 `2025`
-**7.** Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. (2025). [Black soldier fly as feed for aquatic insects](https://www.researchgate.net/publication/396894428_Black_soldier_fly_as_feed_for_aquatic_insects). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-bja10313](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-bja10313/article-10.1163-23524588-bja10313.xml?ebody=Abstract%2FExcerpt)
+**7.** Mahdjoub, H., **Arce-Valdés, L. R.$** & Khelifa, R. (2025). Black soldier fly as feed for aquatic insects. **Journal of Insects as Food and Feed**. [**https://doi.org/10.1163/23524588-bja10313**](https://doi.org/10.1163/23524588-bja10313)
 
-**6.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. (2025). [Testing an insect-plant circular system based on black soldier fly and duckweed.](https://www.researchgate.net/publication/389207072_Testing_an_insect-plant_circular_system_based_on_black_soldier_fly_and_duckweed). **Journal of Insects as Food and Feed**. [https://doi.org/10.1163/23524588-00001322](https://brill.com/view/journals/jiff/aop/article-10.1163-23524588-00001322/article-10.1163-23524588-00001322.xml)
+**6.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Bianco, L., Vilanova, J., Hafezi Bafti, N., Moncivais-Gómez, A. K. & Khelifa, R. (2025). Testing an insect-plant circular system based on black soldier fly and duckweed. **Journal of Insects as Food and Feed**. [**https://doi.org/10.1163/23524588-00001322**](https://doi.org/10.1163/23524588-00001322)
 
 `2024`
-**5.** **Arce-Valdés, L. R.$** Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). [Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone.](https://www.researchgate.net/publication/384366467_Testing_the_predictions_of_reinforcement_long-term_empirical_data_from_a_damselfly_mottled_hybrid_zone) **Journal of Evolutionary Biology**, 38(1), 10-27. [https://doi.org/10.1093/jeb/voae124](https://doi.org/10.1093/jeb/voae124)
+**5.** **Arce-Valdés, L. R.$** Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A.(2024). Testing the predictions of reinforcement: long-term empirical data from a damselfly mottled hybrid zone. **Journal of Evolutionary Biology**. [**https://doi.org/10.1093/jeb/voae124**](https://doi.org/10.1093/jeb/voae124)
 
 `2023`
-**4.** **Arce-Valdés, L. R.**, Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). [No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae)](https://www.researchgate.net/publication/367117217_No_effects_of_fishery_collapse_on_the_genetic_diversity_of_the_Gulf_of_California_Corvina_Cynoscion_othonopterus_Perciformes_Sciaenidae). **Fisheries Research**, 261, 106608. [https://doi.org/10.1016/j.fishres.2023.106608](https://doi.org/10.1016/j.fishres.2023.106608)
+**4.** **Arce-Valdés, L. R.**, Abadía-Cardoso, A., Arteaga, M. C., Peñaranda-Gonzalez, L. V., Ruiz-Campos, G. & Enríquez-Paredes, L. M. (2023). No effects of fishery collpase on the genetic diversity of the Gulf of California Corvina, *Cynoscion othonopterus* (Perciformes: Sciaenidae). **Fisheries Research**. [**https://doi.org/10.1016/j.fishres.2023.106608**](https://doi.org/10.1016/j.fishres.2023.106608)
 
 `2022`
-**3.** Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2022). [First evidence of multiple paternity in the blue shark (*Prionace glauca*)](https://www.researchgate.net/publication/365598572_First_evidence_of_multiple_paternity_in_the_blue_shark_Prionace_glauca). **Journal of Fish Biology**, 102(2), 528-531. [https://doi.org/10.1111/jfb.15272](https://doi.org/10.1111/jfb.15272)
+**3.** Armada-Tapia, S., Castillo-Geniz, J. L., Victoria-Cota, N., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2022). First evidence of multiple paternity in the blue shark (*Prionace glauca*). **Journal of Fish Biology**. [**https://doi.org/10.1111/jfb.15272**](https://doi.org/10.1111/jfb.15272)
 
-**2.** **Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2022). [The evolutionary outcomes of climate-change-induced hybridization in insect populations](https://www.researchgate.net/publication/363407075_The_evolutionary_outcomes_of_climate_change-induced_hybridization_in_insect_populations). **Current Opinion in Insect Science**, 54, 100966. [https://doi.org/10.1016/j.cois.2022.100966](https://doi.org/10.1016/j.cois.2022.100966)
+**2.** **Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2022). The evolutionary outcomes of climate-change-induced hybridization in insect populations. **Current Opinion in Insect Science**. [**https://doi.org/10.1016/j.cois.2022.100966**](https://doi.org/10.1016/j.cois.2022.100966)
 
 `2021`
-**1.** **Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). **Molecular Biology Reports**, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
+**1.** **Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae). **Molecular Biology Reports**. [**https://doi.org/10.1007/s11033-021-06761-8**](https://doi.org/10.1007/s11033-021-06761-8)
 
 ### Capítulos de libro
 
 `2024`
-**3.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). [Interspecific hybridization in insects in times of climate change](https://www.researchgate.net/publication/379160920_Interspecific_hybridization_in_insects_in_times_of_climate_change). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.[https://doi.org/10.1093/oso/9780192864161.003.0008
-](https://doi.org/10.1093/oso/9780192864161.003.0008)
+**3.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). Interspecific hybridization in insects in times of climate change. En D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**. [**https://doi.org/10.1093/oso/9780192864161.003.0008
+**](https://doi.org/10.1093/oso/9780192864161.003.0008)
 
 `2023`
-**2.** Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). [Estado Actual de Conservación del Recurso Genético *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
+**2.** Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). Estado Actual de Conservación del Recurso Genético *T. macdonaldi*. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**. [**link**](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)
 
-**1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
+**1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). Protocolos Para la Caracterización Genética en *T. macdonaldi*. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**. [**link**](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)
 
 ### Presentaciones
 
