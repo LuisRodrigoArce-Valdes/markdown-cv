@@ -217,7 +217,7 @@ $ = Autor de correspondencia.
 `2019`
 **1.** Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
-## Experiencia téncica
+## Experiencia ténica
 
 ### Técnicas de Biología Molecular
 
@@ -253,7 +253,7 @@ Capacidad para gestionar y visualizar grandes conjuntos de datos utilizando R y 
 
 Experiencia en modelado matemático utilizando aprendizaje automático, modelos lineales generalizados y modelos de efectos mixtos.
 
-### Cría de insectos para investigación experimental
+## Cría de insectos para investigación experimental
 
 Libélulas (*Ischnura*).
 
@@ -443,4 +443,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: April 2026 -->
+Last Update: Abril 2026 -->
