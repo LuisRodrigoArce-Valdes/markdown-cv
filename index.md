@@ -24,7 +24,7 @@ title: Arce-Valdés
 
 <a> Idiomas: Español (L1), </a><a href="https://drive.google.com/file/d/1YuQpPAS_abhe5JcsNK_8JW89GDCiuFq_/view?usp=drive_link">English (C1~C2), </a><a href="https://drive.google.com/file/d/1Xt_A98MhfOM4m0GKU4ycGg-h_q7PwoZm/view?usp=drive_link">Français (B2~C1)</a><br>
 
-<a>[*link*]: Hipervínculos a documentos probatorios.</a><br>
+<a>[link]: Hipervínculos a documentos probatorios.</a><br>
 
 </div>
 
