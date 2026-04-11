@@ -34,7 +34,7 @@ Estoy interesado en la aplicación de análisis genéticos y genómicos para el 
 ## Actividad Actual
 
 `2023 - 2026`
-Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)
+Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
 
 ## Educación
 
@@ -127,7 +127,7 @@ $ = Autor de correspondencia.
 
 **11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. Circular Economy and Sustainability. [*link*](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)
 
-**10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. [Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones]. Heredity. [*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)
+**10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)
 
 `2026`
 **9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2026). Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species. Heredity. [*https://doi.org/10.1038/s41437-026-00837-6*](https://doi.org/10.1038/s41437-026-00837-6)
