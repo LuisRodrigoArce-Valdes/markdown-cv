@@ -130,7 +130,7 @@ $ = Autor de correspondencia.
 **10.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)]
 
 `2026`
-**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2026). Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two *Ischnura* damselfly species. Heredity. [[*https://doi.org/10.1038/s41437-026-00837-6*](https://doi.org/10.1038/s41437-026-00837-6)]
+**9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2026). Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two Ischnura damselfly species. Heredity. [[*https://doi.org/10.1038/s41437-026-00837-6*](https://doi.org/10.1038/s41437-026-00837-6)]
 
 **8.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. (2026). Using an insect for sustainable waste management of a superabundant bird. Journal of Environmental Management. [[*https://doi.org/10.1016/j.jenvman.2026.128919*](https://doi.org/10.1016/j.jenvman.2026.128919)]
 
@@ -412,7 +412,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 `2010`
 **Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2do lugar estatal en el Estado de México. [[*link*](https://drive.google.com/file/d/1xRN-9uYNIZTb_VsgtnT_VQmKTjzDlzaT/view?usp=drive_link)]
 
-**Banco de México**. Premio Contacto Banxico. 1er Lugar Nacional. MXN 100,000. [[*link*](https://drive.google.com/file/d/1ZCZn1vN11YZibXWri4gzezd7F09ws127/view?usp=drive_link) [*video*](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)]
+**Banco de México**. Premio Contacto Banxico. 1er Lugar Nacional. MXN 100,000. [[*link*](https://drive.google.com/file/d/1ZCZn1vN11YZibXWri4gzezd7F09ws127/view?usp=drive_link)] [[*video*](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)]
 
 **Universidad Iberoamericana**. 6to Concurso Nacional de Ensayos Fiolsóficos Preuniversitarios: Dilemas éticos contemporaneos. Mención honorífica. [[*link*](https://drive.google.com/file/d/1-GcMR1NUxNr1GuZJ3ZCUuduyZhBjErte/view?usp=drive_link)]
 
