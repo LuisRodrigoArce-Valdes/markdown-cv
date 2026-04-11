@@ -8,7 +8,7 @@ title: Arce-Valdés
 
 <a>22/07/1993</a><br>
 
-<a href="https://luisarcevaldes.weebly.com">Personal webpage</a><br>
+<a href="https://luisarcevaldes.weebly.com">Sitio web personal</a><br>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
 
@@ -26,86 +26,86 @@ title: Arce-Valdés
 
 <a>Montreal, QC, Canada</a><br>
 
-<a> Languages: Español (L1), English (C1~C2), Français (B2~C1)</a><br>
+<a> Idiomas: Español (L1), English (C1~C2), Français (B2~C1)</a><br>
 
-<a>*Most titles are hyperlinks to the referenced documents.*</a>
+<a>*La mayoría de los títulos son hipervínculos a los documentos referenciados.*</a>
 
 </div>
 
 
-## Presentation
+## Presentación
 
-I am interested in the application of genetic and genomic analyses for the study of evolution, ecology and conservation. During my studies and my postdoc I have been developing my main lines of research mainly focusing in conservation, speciation and sustainability. I think that research objectives and budget should guide experimental design implemented methods. The optimum use of budget should be achieved without risking the quality of results. Choosing between genetic and genomic tools helps to achieve this. By having developed a deep knowledge in both genetic and genomics tools I am well able to design, implement and report results based on research questions and objectives. I employ insects as my main study model.
+Estoy interesado en la aplicación de análisis genéticos y genómicos para el estudio de la evolución, la ecología y la conservación. Durante mis estudios y mi posdoctorado, he desarrollado mis principales líneas de investigación, enfocándome principalmente en la conservación, la especiación y la sostenibilidad. Considero que los objetivos de investigación y el presupuesto deben guiar el diseño experimental y los métodos implementados. El uso óptimo del presupuesto debe lograrse sin poner en riesgo la calidad de los resultados. Elegir entre herramientas genéticas y genómicas ayuda a alcanzar este objetivo. Al haber desarrollado un conocimiento profundo tanto en herramientas genéticas como genómicas, estoy bien capacitado para diseñar, implementar y reportar resultados basados en las preguntas y objetivos de investigación. Utilizo insectos como mi principal modelo de estudio.
 
-## Current Activity
+## Actividad Actual
 
 `2023 - 2026`
-Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelifa. Projects: Uncovering patterns in odonate trophic ecology and insect monitoring using eDNA metabarcoding / Towards the development of sustainable solutions of waste management and food security using the Black Soldier Fly.
+Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra.
 
-## Education
+## Educación
 
-### Academic Trajectory
+### Trayectoría Académica
 
 `2019 - 2023`
-**Instituto de Ecología A.C.** PhD. Supervisor: Rosa Ana Sánchez Guillén. Thesis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone).[World Education Services (WES) evaluated](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca).
+**Instituto de Ecología A.C.** Doctor en Ciencias. Supervisor: Rosa Ana Sánchez Guillén. Tésis: [The evolution of reproductive isolation in sympatric insect populations with emphasis on a damselfly hybrid zone](https://www.researchgate.net/publication/380911800_The_evolution_of_reproductive_isolation_in_sympatric_insect_populations_with_emphasis_on_a_damselfly_hybrid_zone).[World Education Services (WES) evaluated](https://badges.wes.org/Evidence?i=6c87c4b9-fa98-4c51-aff5-8896b6bdbc25&type=ca).
 
 `2016 - 2018`
-**Centro de Investigación Científica y de Educación Superior de Ensenada**. M. S. Environmental Biology. Co-Supervisors: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Thesis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
+**Centro de Investigación Científica y de Educación Superior de Ensenada**. Maestría en Ciencias en Biología Ambiental. Cosupervisores: Luis Manuel Enríquez Paredes, Alicia Abadía Cardoso & María Clara Arteaga Uribe. Tésis: [Estado de conservación e historia demográfica de *Cynoscion othonopterus* a través de la estimación de su tamaño efectivo poblacional.](https://cicese.repositorioinstitucional.mx/jspui/bitstream/1007/2509/1/tesis_Arce%20Vald%c3%a9s_Luis%20Rodrigo_05_oct_2018.pdf)
 
 `2011 - 2016`
-**Universidad Autónoma del Estado de México**. B. Sc. Biology. Degree earned by academic performance. Highest grade average of the generation 2011-2016.
+**Universidad Autónoma del Estado de México**. Licenciatura en Biología. Grado obtenido por desempeño académico. Promedio académico más alto de la generación 2011-2016.
 
 `2008-2011`
-**The International Baccalaureate (IB)**. The IB Diploma.
+**El Bachillerato Internacional (IBO)**. El diploma IBO.
 
-### Courses & Workshops
+### Cursos y Talleres
 
 `2026`
-**Concordia University - Environmental Health and Safety**. Hazardous Waste Disposal at Concordia.
+**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos en Concordia.
 
-**Concordia University - Environmental Health and Safety**. Hazardous Waste Disposal for Laboratory Personnel.
+**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos para el personal de laboratorio.
 
-**Concordia University - Environmental Health and Safety**. WHMIS for Laboratory Personnel.
+**Concordia University - Environmental Health and Safety**. WHMIS para el personal de laboratorio.
 
 `2021`
-**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Assembly and Annotation of Genomes and Metagenomes .
+**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Ensamblaje y anotación de genómas y metagenómas.
 
 `2020`
-**Physalia-courses & the Free University of Berlin**. Adaptation Genomics.
+**Physalia-courses & the Free University of Berlin**. Genómica de la Adaptación.
 
 `2019`
-**Universidad del Medio Ambiente**. Integrated Urban Solid Waste Management. 
+**Universidad del Medio Ambiente**. Manejo Integral de Resíduos Solídos Urbanos. 
 
 `2018`
-**American Fisheries Society**. A Life Cycle of Scientific Communication: Presenting, Writing, Reviewing, and Using Social Media for a Variety of Audiences.
+**American Fisheries Society**. El ciclo de vida de la comunicación científica: presentación, redacción, revisión y uso de redes sociales para diversos públicos.
 
-## Experience
+## Experiencia
 
-### Postdoctoral Fellowships
+### Estancia postdoctoral
 
 `2023-2026`
-**Concordia University**. Supervisor: Rassim Khelifa. Horizon Postdoctoral Fellowship. Uncovering patterns in odonate trophic ecology and insect monitoring using eDNA metabarcoding / Towards the development of sustainable solutions of waste management and food security using the Black Soldier Fly.
+**Concordia University**. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra.
 
-### Research Assistance
+### Asistencia de investigación
 
 `2020 - 2023`
-**Instituto de Ecología A. C.** Host: Mario Enrique Favila Castillo. Molecular systematics of *Canthon cyanellus* using microsatellites.
+**Instituto de Ecología A. C.** Anfitrión: Mario Enrique Favila Castillo. Sistemática molécular de *Canthon cyanellus* usando microsatélites.
 
-### Visits
+### Visitas
 
 `2025`
-**University of British Columbia - Forest Sciences Center**. Host: Thomas Booker. Shifts in hybridization directions due to reinforcement by unidirectionally inherited Bateson-Dobzhansky-Müller incompatibilities: testing conditions and consistency using computational simulations.
+**University of British Columbia - Forest Sciences Center**. Anfitrión: Thomas Booker. Cambios en la dirección de la hibridación debido al reforzamiento por incompatibilidades de Bateson-Dobzhansky-Müller incompatibilities heredadas de forma unidireccional: evaluación de condiciones y consistencia mediante simulaciones computacionales.
 
 `2018`
-**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Host: John Carlos Garza. Technological innovations for the conservation and reproduction of marine fish species with emphasis on Totoaba (*Totoaba macdonaldi*).
+**University of California Santa Cruz - NOAA Southwest Fisheries Science Center**. Anfitrión: John Carlos Garza. Innovaciones tecnológicas para la conservación y reproducción de especies de peces marinos, con énfasis en la totoaba (*Totoaba macdonaldi*).
 
 `2015`
-**Universidad Autónoma de Baja California**. Host: Luis Manuel Enríquez Paredes. Totoaba (*Totoaba macdonaldi*) genetic traceability in captivity and in the wild population.
+**Universidad Autónoma de Baja California**. Anfitrión: Luis Manuel Enríquez Paredes. Trazabilidad genética de Totoaba (*Totoaba macdonaldi*) en el cautiverio y en la población silvestre.
 
 `2014`
-**Universidad Autónoma del Estado de Hidalgo**. Host: Pablo Octavio Aguilar. Genetic flow between *Dichromanthus aurantiacus* patches in El Chico national park, Hidalgo.
+**Universidad Autónoma del Estado de Hidalgo**. Anfitrión: Pablo Octavio Aguilar. Flujo genético entre manchones de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo.
 
-### Peer reviewing
+### Revisión por pares
 
 [**Applied Entomology and Zoology**](https://link.springer.com/journal/13355) - 1.
 
@@ -115,12 +115,12 @@ Horizon Postdoctoral Fellow. **Concordia University**. Supervisor: Rassim Khelif
 
 [**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista) - 1.
 
-## Scientific Publications
+## Publicaciones científicas
 
-### Peer Reviewed Articles
-$ = Corresponding author.
+### Artículos científicos
+$ = Autor de correspondencia.
 
-`Under Review`
+`En revisión`
 **16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. **Proceedings of the Royal Society B**.
 
 **15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. **Molecular Ecology**.
@@ -159,7 +159,7 @@ $ = Corresponding author.
 `2021`
 **1.** **Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J., & Favila, M. E. (2021). [Next-generation sequencing, isolation and characterization of 14 microsatellite loci of *Canthon cyanellus* (Coleoptera: Scarabaeidae)](https://www.researchgate.net/publication/355200942_Next-generation_sequencing_isolation_and_characterization_of_14_microsatellite_loci_of_Canthon_cyanellus_Coleoptera_Scarabaeidae). **Molecular Biology Reports**, 48(11), 7433–7441. [https://doi.org/10.1007/s11033-021-06761-8](https://link.springer.com/article/10.1007%2Fs11033-021-06761-8)
 
-### Book chapters
+### Capítulos de libro
 
 `2024`
 **3.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Ordaz-Morales, J. & Stand-Pérez M. (2024). [Interspecific hybridization in insects in times of climate change](https://www.researchgate.net/publication/379160920_Interspecific_hybridization_in_insects_in_times_of_climate_change). In D. González-Tokman & W. Dáttilo (Eds.), *Effects of climate change on insects*, **Oxford University Press**.[https://doi.org/10.1093/oso/9780192864161.003.0008
@@ -170,7 +170,7 @@ $ = Corresponding author.
 
 **1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). [Protocolos Para la Caracterización Genética en *T. macdonaldi*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933). In L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), *Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación*,**Universidad Autónoma de Baja California**.
 
-### Presentations
+### Presentaciones
 
 `2026`
 **12.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. **Colloque 2026 du Centre de la Science de la Biodiversité du Québec**. *Volunteer as abstract reviewer and poster evaluator.*
@@ -204,7 +204,7 @@ $ = Corresponding author.
 `2014`
 **1.** **Arce-Valdés, L. R.**, Islas-Tello, L. A. & Octavio-Aguilar, P. (2014). Flujo génico entre manchones poblacionales de *Dichromanthus aurantiacus* en el parque nacional El Chico, Hidalgo. **Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico**.
 
-### Posters
+### Pósters
 
 `2025`
 **4.** **Arce-Valdés, L. R.**, Booker, T. R, Irwin, D., Sánchez-Guillén, R. A. & Khelifa, R. (2025). [Changements aux directions d'hybridation à cause du renforcement par incompatibilités Bateson-Dobzhansky-Müller (BDM) unidirectionnellement héritées](https://www.researchgate.net/publication/389501146_Changements_aux_directions_d'hybridation_a_cause_du_renforcement_par_incompatibilites_Bateson-Dobzhansky-Muller_BDM_unidirectionnellement_heritees). **Colloque 2025 du Centre de la Science de la Biodiversité du Québec**.
@@ -217,55 +217,55 @@ $ = Corresponding author.
 `2019`
 **1.** Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). [Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management](https://www.researchgate.net/publication/337655970_Low_mitochondrial_genetic_diversity_in_the_Gulf_Corvina_and_its_implications_on_fishery_management). **100th Annual Western Society of Naturalists Meeting**.
 
-## Technical Expertise
+## Experiencia téncica
 
-### Molecular Biology Techniques
+### Técnicas de Biología Molecular
 
-**DNA Extraction and Purification**: Proficiency in extracting high quality genomic DNA both from animal tissues and environmental samples.
+**Extracción y purificación de ADN**: Dominio en la extracción de ADN genómico de alta calidad tanto de tejidos animales como de muestras ambientales.
 
-**DNA quality and quantity assessments**: Experience in genomic DNA quality evaluation using gel electrophoresis, bioanalyzer fragment analysis and quantification using spectrophotometry (Nanodrop) and fluorometry (Qubit).
+**Evaluación de calidad y cantidad de ADN**: Experiencia en la evaluación de la calidad del ADN genómico mediante electroforesis en gel, análisis de fragmentos con bioanalizador y cuantificación utilizando espectrofotometría (Nanodrop) y fluorometría (Qubit).
 
-**PCR (Polymerase Chain Reaction)**: Experience in standardization of PCR protocols for DNA amplification.
+**PCR (Reacción en Cadena de la Polimerasa)**: Experiencia en la estandarización de protocolos de PCR para la amplificación de ADN.
 
-**DNA sequencing**: Familiarity with Sanger and Illumina sequencing platforms.
+**Secuenciación de ADN**: Familiaridad con plataformas de secuenciación Sanger e Illumina.
 
-**DNA fragmentation**: Experience using enzymatic digestion and sonication for DNA fragmentation for next generation sequencing.
+**Fragmentación de ADN**: Experiencia en el uso de digestión enzimática y sonicación para la fragmentación de ADN en secuenciación de nueva generación.
 
-**High throughput sequencing libraries**: Experience building and standardizing RADseq, ddRADseq and metabarcoding libraries for next generation sequencing.
+**Bibliotecas de secuenciación de alto rendimiento**: Experiencia en la construcción y estandarización de bibliotecas RADseq, ddRADseq y de metabarcoding para secuenciación de nueva generación.
 
-### Bioinformatics
+### Bioinformática
 
-**Sanger haplotypes**: Electropherogram evaluation, alignments and analysis for population genetics, forensic genetics, DNA barcoding and phylogenetics.
+**Haplotipos Sanger**: Evaluación de electroferogramas, alineamientos y análisis para genética de poblaciones, genética forense, código de barras de ADN y filogenética.
 
-**Microsatellites**: Fragment genotyping, quality filtering and analysis for population genetics, parental assignment and DNA fingerprinting.
+**Microsatélites**: Genotipado de fragmentos, filtrado de calidad y análisis para genética de poblaciones, asignación de parentesco e identificación genética.
 
-**RADseq**: Alignment and SNP variant calling, quality filtering and analysis for population genomics.
+**RADseq**: Alineamiento y detección de variantes SNP, filtrado de calidad y análisis para genómica de poblaciones.
 
-**Metabarcoding**: Quality filtering, denoising and taxonomic assignment for biodiversity assessments.
+**Metabarcoding**: Filtrado de calidad, eliminación de ruido (denoising) y asignación taxonómica para evaluaciones de biodiversidad.
 
-**Whole genome sequencing**: De novo and reference-based assembly and annotation. Variant calling and analysis for population genomics.
+**Secuenciación de genoma completo**: Ensamblaje de novo y basado en referencia, así como anotación. Detección de variantes y análisis para genómica de poblaciones.
 
-**Computational simulations**: Using the SLIM software for genetically explicit simulations to test evolutionary or ecological processes.
+**Simulaciones computacionales**: Uso del software SLiM para simulaciones genéticamente explícitas orientadas a evaluar procesos evolutivos o ecológicos.
 
-### Data Visualization and Analysis
+## Visualización y análisis de datos
 
-Ability to manage and visualize large datasets using R and the Tidyverse package (ggplot2).
+Capacidad para gestionar y visualizar grandes conjuntos de datos utilizando R y el paquete Tidyverse (ggplot2).
 
-Experience with mathematical modeling using machine learning, generalized linear models and mixed effects models.
+Experiencia en modelado matemático utilizando aprendizaje automático, modelos lineales generalizados y modelos de efectos mixtos.
 
-### Insect Rearing for Experimental Research
+### Cría de insectos para investigación experimental
 
-Damselflies (*Ischnura*).
+Libélulas (*Ischnura*).
 
-Black soldier fly (*Hermetia illucens*).
+Mosca soldado negra (*Hermetia illucens*).
 
-*Drosophila* flies.
+Moscas *Drosophila*.
 
-## Skills & software
+## Habilidades y software
 
-### Main Software
+### Software
 
-R and Rstudio
+R y Rstudio
 
 Tidyverse
 
@@ -273,62 +273,62 @@ UNIX-Bash
 
 Python
 
-Git & GitHub
+Git y GitHub
 
 SLURM
 
 QGIS
 
-### Soft Skills
+### Habilidades blandas
 
-Efficient management of economical resources in the laboratory.
+Gestión eficiente de los recursos económicos en el laboratorio.
 
-Motivation.
+Motivación.
 
-Problem solving skills.
+Habilidades para la resolución de problemas.
 
-Self-discipline.
+Autodisciplina.
 
-Team work.
+Trabajo en equipo.
 
-Stress resistance.
+Resistencia al estrés.
 
-Ability to communicate.
+Capacidad de comunicación.
 
-## Supervised theses
+## Supervisión de tésis
 
-### PhD theses
+### Tésis de doctorado
 
-`In progress`
-Pulido-Rios, L. El papel de la hibridación en la especiación del género *Ischnura* (Odonata: Coenagrionidae). PhD. **Instituto de Ecología A. C.**
+`En progreso`
+Pulido-Rios, L. El papel de la hibridación en la especiación del género *Ischnura* (Odonata: Coenagrionidae). Doctorado en Ciencias. **Instituto de Ecología A. C.**
 
-### Master's theses
+### Tésis de maestría
 
 `2021`
-Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería](https://drive.google.com/file/d/1WXPKwFcyXmlbx5USYxDVatAzw6a_wHb3/view). M. S. Coastal Oceanography. **Universidad Autónoma de Baja California**.
+Soto-González, E. M. (2021). [Diversidad genética mitocondrial de la curvina golfina y sus implicaciones en el manejo de la pesquería](https://drive.google.com/file/d/1WXPKwFcyXmlbx5USYxDVatAzw6a_wHb3/view). Maestría en ciencias en oceanografía costera. **Universidad Autónoma de Baja California**.
 
-### Bachelor's theses
+### Tésis de licenciatura
 
-`In progress`
+`En progreso`
 Henderson, M. Dragonfly services and disservices in agroecosystems. B. Sc. Biology. **Concordia University**.
 
-### Dissertation jury member
+### Miembro de jurado de tésis
 
 `2026`
 Juárez-Jiménez, A. L. (2026). Dinámica temporal y efectos indirectos del reforzamiento del aislamiento reproductivo en dos
-especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Universidad Autónoma de Puebla**.
+especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas. **Benemérita Universidad Autónoma de Puebla**.
 
-## Teaching
+## Docencia
 
-### Graduate courses
+### Cursos de posgrado
 
 `2022 - 2025`
-**Instituto de Ecología A. C.** M.S. & PhD. Speciation and Evolutionary Consequences of the Hybridization.
+**Instituto de Ecología A. C.** Maestría y doctorado. Especiación y consecuencias evolutivas de la hibridación.
 
 `2020`
-**Universidad Autónoma de Baja California**. M. S. Coastal Ocenography. Directed Research: Bioinformatic tools for population analyses using mitochondrial haplotypes.
+**Universidad Autónoma de Baja California**. Maestría en ciencias en oceanografía costera. Investigación dirigida: Herramientas bioinformáticas para análisis poblacionales de secuencias de haplotipos Sanger.
 
-### Undergraduate courses
+### Cursos de licenciatura
 
 `2025`
 **Concordia University**. BSc in Biology. BIOL 225: Form and Function of Organisms. Animal Behavior.
@@ -336,55 +336,55 @@ especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Univ
 **Concordia University**. BSc in Biology. BIOL 498: Introduction to Scientific Communication. Literature Search and Citation.
 
 `2018`
-**Universidad Autónoma de Baja California**. B. S. Biotechnology in aquaculture. Aquaculture Genetics.
+**Universidad Autónoma de Baja California**. Licenciatura en biotecnología de la acuículutra. Genética acuícola.
 
-### High school courses
+### Cursos de bachillerato
 
 `2016`
-**Academia Mexicana de Ciencias**. XXV National Biology Olympics. Genetics.
+**Academia Mexicana de Ciencias**. XXV Olimpiada Nacional de Biología. Genética.
 
 `2015`
-**Academia Mexicana de Ciencias**. XXIV National Biology Olympics. Virus and Bacteria.
+**Academia Mexicana de Ciencias**. XXIV Olimpíad Nacional de Biología. Virus y Bacterias.
 
 
-## Scholarships and Funding
+## Becas y Financiamiento
 
-### Fellowships
+### Financiamiento
 
 `2023 - 2026`
-**Concordia University**. Horizon Postdoctoral Fellowships. Postdoc Fellowship. CAD 150,000.
+**Concordia University**. Horizon Postdoctoral Fellowships. Financiamiento postdoctoral. CAD 150,000.
 
-### Scholarships
+### Becas
 
 `2019 - 2023`
-**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. PhD scholarship. MXN 806,412.
+**Consejo Nacional de Ciencia y Tecnología**. Becas nacionales CONACyT. Beca doctoral. MXN 806,412.
 
 `2016 - 2018`
-**Consejo Nacional de Ciencia y Tecnología**. CONACyT national graduate studies scholarship. Masters scholarship. MXN 249,241.
+**Consejo Nacional de Ciencia y Tecnología**. Becas nacionales CONACyT. Beca de maestría. MXN 249,241.
 
-### Grants
+### Premios
 
 `2026`
-**Centre de la Science de la Biodiversité du Québec**. Prix d'excellence -  Attend conferences to give an oral presentation. CAD 1,500.
+**Centre de la Science de la Biodiversité du Québec**. Prix d'excellence -  Asistencia a una conferncia. CAD 1,500.
 
 `2024`
-**Centre de la Science de la Biodiversité du Québec**. Prix d'excellence - Training in the field or lab. CAD 2,000.
+**Centre de la Science de la Biodiversité du Québec**. Prix d'excellence - Entrenamiento en laboratorio. CAD 2,000.
 
-**Concordia University**. Conference and exposition allowance. CAD 500.
+**Concordia University**. Financiamiento para conferencias. CAD 500.
 
 `2023`
-**Instituto de Ecología A. C**. INECOL 2023-1 supplement for student mobility. MXN 20,000.
+**Instituto de Ecología A. C**. INECOL 2023-1 beca de movilidad. MXN 20,000.
 
 `2015`
-**Academia Mexicana de Ciencias**. Travel grant. 25th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C.  MXN 9,000.
+**Academia Mexicana de Ciencias**. Beca de movilidad. 25 Verano Científico de la Academia Mexicana de Ciencias A.C.  MXN 9,000.
 
 `2014`
-**Academia Mexicana de Ciencias**. Travel grant. 24th Summer of Scientific Research of the Academia Mexicana de Ciencias A.C. MXN 7,000.
+**Academia Mexicana de Ciencias**. Beca de movilidad. 24 Verano Científico de la Academia Mexicana de Ciencias A.C. MXN 7,000.
 
 
-## Science Communication
+## Comunicación Científica
 
-### Articles
+### Artículos
 
 `2026`
 **6.** Nolasco-Soto, J., **Arce-Valdés, L. R.**, Pulido-Rios, L. (2026). [Descifrando los secretos del ADN](https://www.cronica.com.mx/academia/2026/03/11/descifrando-los-secretos-del-adn/). **La crónica de Hoy**.
@@ -403,34 +403,34 @@ especies de caballitos del diablo. M. S. Biological sciences. **Benemérita Univ
 `2019`
 **1.** **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019) [Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina](https://web.archive.org/web/20220217221426/http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf). **Espíritu Científico en Acción**. 15 (29): 3-13.
 
-### Other
+### Otros
 
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020) [Conociendo a las libélulas](https://www.youtube.com/watch?v=CkjWeTuxL1Q). **Instituto de Ecología, A. C.**.
 
-## Awards
+## Premios
 
 `2021`
 **American Museum of Natural History**. Student Conference on Conservation Science. Best Poster: Best Use of Quantitative Methods in Conservation Research: Testing the consistency of hybridization outcomes between two damselflies in Spain.
 
 `2011` 
-**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 3rd place in Mexico's national competition.
+**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 3er lugar nacional en México.
 
-**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 1st place in the State of Mexico state competition.
+**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Excel 2007), San Diego 2011. 1er lugar estatal en el Estado de México.
  
 `2010`
-**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2nd place in the State of Mexico state competition.
+**Microsoft**. Worldwide Competition on Microsoft Office (Microsoft Office Word 2007), Utah 2010. 2do lugar estatal en el Estado de México.
 
-**Banco de México**.Prize Contact Banxico. 1st National Place. MXN 100,000. [Video](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)
+**Banco de México**. Premio Contacto Banxico. 1er Lugar Nacional. MXN 100,000. [Video](https://www.youtube.com/watch?v=WPjOjos4Q8Y&t=8s)
 
-**Universidad Iberoamericana**. 6° National Contest on pre-university assay: Contemporary ethical dilemmas. Honorific mention.
+**Universidad Iberoamericana**. 6to Concurso Nacional de Ensayos Fiolsóficos Preuniversitarios: Dilemas éticos contemporaneos. Mención honorífica.
 
-**Universidad Autónoma del Estado de México**. XX Biology Olympics of the State of Mexico. 2nd place.
+**Universidad Autónoma del Estado de México**. XX Olimpiada Estatal de Biología del Estado de México. 2do Lugar.
 
 `2009` 
-**Universidad Autónoma del Estado de México**. XIX Biology Olympics of the State of Mexico. 1st place.
+**Universidad Autónoma del Estado de México**. XIX Olimpiada Estatal de Biología del Estado de México. 1er Lugar.
 
-## Memberships
+## Membresías
 
 **Centre de la Science de la Biodiversité du Québec**
 
