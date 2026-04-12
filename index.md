@@ -116,7 +116,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 $ = Autor de correspondencia.
 
 `En revisión`
-**16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. Proceedings of the Royal Society B. [[*link*](https://drive.google.com/file/d/1TGn9awUyp92ajvXTtSBZ_tb906fy7fK3/view?usp=drive_link)]
+**16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. Proceedings of the Royal Society B. [[*https://doi.org/10.64898/2026.04.09.717498*](https://doi.org/10.64898/2026.04.09.717498)]
 
 **15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. Local adaptation across expanding hybrid zones in the damselflies Ischnura elegans and I. graellsii. Molecular Ecology. [[*link*](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)]
 
