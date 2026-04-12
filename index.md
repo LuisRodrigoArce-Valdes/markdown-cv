@@ -56,14 +56,14 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ### Cursos y Talleres
 
 `2026`
-**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos en Concordia. [[*link*](https://drive.google.com/file/d/1WlLM_7TuuAtX0-1UxARBMNhAioURh7iI/view?usp=drive_link)]
+**Concordia University - Environmental Health and Safety**. Disposición de residuos peligrosos en Concordia. [[*link*](https://drive.google.com/file/d/1WlLM_7TuuAtX0-1UxARBMNhAioURh7iI/view?usp=drive_link)]
 
-**Concordia University - Environmental Health and Safety**. Disposición de resíduos peligrosos para el personal de laboratorio. [[*link*](https://drive.google.com/file/d/1GckgILLucJAAdq4-tX_fMaiCVrE-n7g8/view?usp=drive_link)]
+**Concordia University - Environmental Health and Safety**. Disposición de residuos peligrosos para el personal de laboratorio. [[*link*](https://drive.google.com/file/d/1GckgILLucJAAdq4-tX_fMaiCVrE-n7g8/view?usp=drive_link)]
 
 **Concordia University - Environmental Health and Safety**. WHMIS para el personal de laboratorio. [[*link*](https://drive.google.com/file/d/1jNcTPIPr_yZbL1WcaI2bKr34XGJRWLK6/view?usp=drive_link)]
 
 `2021`
-**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Ensamblaje y anotación de genómas y metagenómas. [[*link*](https://drive.google.com/file/d/1fOsNRVogCS0_cvmZI3-dy83fEINCz-ix/view?usp=drive_link)]
+**Nodo Nacional de Bioinformática UNAM & Comunidad de Desarrolladores de Software en Bioinformática**. Ensamblaje y anotación de genomas y metagenomas. [[*link*](https://drive.google.com/file/d/1fOsNRVogCS0_cvmZI3-dy83fEINCz-ix/view?usp=drive_link)]
 
 `2020`
 **Physalia-courses & the Free University of Berlin**. Genómica de la Adaptación. [[*link*](https://drive.google.com/file/d/1LGC8L4wEHFO7W63UtDlL-MuGnYufimDd/view?usp=drive_link)]
@@ -79,7 +79,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ### Estancia postdoctoral
 
 `2023-2026`
-**Concordia University**. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
+**Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
 
 ### Asistencia de investigación
 
