@@ -51,7 +51,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 **Universidad Autónoma del Estado de México**. Licenciatura en Biología. Grado obtenido por desempeño académico. Promedio académico más alto de la generación 2011-2016. [[*link*](https://drive.google.com/file/d/1075uZpSdcqqE0I5jPoL0f135M6ViDTq-/view?usp=drive_link)]
 
 `2008-2011`
-**El Bachillerato Internacional (IBO)**. Diploma IBO.
+**El Bachillerato Internacional (IBO)**. Diploma IBO. [[*link*](https://drive.google.com/file/d/1_DXYiaW7yTh4dm4h3SllvUamnI9cbjk1/view?usp=drive_link)]
 
 ### Cursos y Talleres
 
@@ -428,7 +428,7 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 **Universidad Autónoma del Estado de México**. XX Olimpiada Estatal de Biología del Estado de México. 2do Lugar. [[*link*](https://drive.google.com/file/d/1UxdKCRT7bI-8DMcTl8pM7ZkWidVmP21I/view?usp=drive_link)]
 
 `2009` 
-**Universidad Autónoma del Estado de México**. XIX Olimpiada Estatal de Biología del Estado de México. 1er Lugar.
+**Universidad Autónoma del Estado de México**. XIX Olimpiada Estatal de Biología del Estado de México. 1er Lugar. [[*link*](https://drive.google.com/file/d/1Qd_2V5_Qjbsb8fNmTsNUhGRZmdJRz8yM/view?usp=drive_link)]
 
 ## Membresías
 
