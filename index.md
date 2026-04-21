@@ -358,7 +358,7 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 ### Premios
 
 `2026`
-**Concordia University**. Financiamiento para conferencias. CAD 750. [[*link*](https://drive.google.com/file/d/1AQz4yFLWZmd1yido-7aCimNPAR0imxZo/view?usp=drive_link)]
+**Concordia University**. Financiamiento para conferencias. CAD 750. [[*link*](https://drive.google.com/file/d/1JwzBGzCKX2VO7ivly6WBAvsmaGM2AC3i/view?usp=drive_link)]
 
 **Centre de la Science de la Biodiversité du Québec**. Prix d'excellence -  Asistencia a una conferncia. CAD 1,500. [[*link*](https://drive.google.com/file/d/15atJiPo0ffKZb8w_EmfxUBD4i9jP3m3C/view?usp=drive_link)]
 
