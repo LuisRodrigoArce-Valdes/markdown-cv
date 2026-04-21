@@ -30,7 +30,7 @@ title: Arce-Valdés
 
 ## Presentación
 
-Estoy interesado en la aplicación de análisis genéticos y genómicos para el estudio de la evolución, la ecología y la conservación. Durante mis estudios y mi posdoctorado, he desarrollado mis principales líneas de investigación, enfocándome principalmente en la conservación de la diversidad genética, evaluación de procesos de especiación en odonatos, monitoreo de comunidades con ADN ambiental y desarrollo de tecnologías de la sustentabilidad. Considero que el diseño experimental y los métodos aplicados deben fundamentarse en los objetivos de investigación y los presupuestos económicos disponibles de cada proyecto. El uso óptimo de los presupuestos debe lograrse sin poner en riesgo la cálidad de los resultados. Elegir entre herramientas genéticas y genómicas ayuda a alcanzar este objetivo. Al haber desarrollado un conocimiento profundo tanto en herramientas genéticas como genómicas, estoy bien capacitado para diseñar, implementar y reportar resultados basados en preguntas y objetivos de investigación. Utilizo insectos como mi principal modelo de estudio.
+En mi investigación reuno muestreos de campo, diseños experimentales, análisis de biología molecular, bioinformáticos y simulaciones comutacionales para entender procesos evolutivos, ecológicos y con énfoque a conservación de especies. Investigo las respuestas ecológicas y evolutivas de la biodiversidad al cambio climático y otras presiones antropogénicas.
 
 ## Actividad Actual
 
@@ -114,6 +114,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 
 ### Artículos científicos
 $ = Autor de correspondencia.
+
 `Pronto a someter`
 **18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference.
 
