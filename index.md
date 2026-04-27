@@ -133,10 +133,9 @@ $ = Autor de correspondencia.
 
 **11.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
 
-`Aceptados`
-**10.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly. Entomologia experimentalis et applicata. [[*https://doi.org/10.21203/rs.3.rs-8253644/v1*](https://doi.org/10.21203/rs.3.rs-8253644/v1)] [[*link*](https://drive.google.com/file/d/1kshgWhNg8oFMq5-_dpWSuG8xCxRwq7MG/view?usp=drive_link)]
-
 `2026`
+**10.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Plastic protandry supports the incidental evolution of sexual bimaturism in black soldier fly. Entomologia experimentalis et applicata. [[*https://doi.org/10.1111/eea.70113*](https://doi.org/10.1111/eea.70113)] [[*link*](https://drive.google.com/file/d/1kshgWhNg8oFMq5-_dpWSuG8xCxRwq7MG/view?usp=drive_link)]
+
 **9.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Boasso, O., Rajan, N., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2026). Alternative reproductive strategies explain asymmetric reinforcement of reproductive isolation in two Ischnura damselfly species. Heredity. [[*https://doi.org/10.1038/s41437-026-00837-6*](https://doi.org/10.1038/s41437-026-00837-6)] [[*link*](https://drive.google.com/file/d/1-_zODAyy7VFYUWkC4tWkLZfAAuxaf94s/view?usp=drive_link)]
 
 **8.** López-Manzano, C., Mahdjoub, H., **Arce-Valdés, L. R.** & Khelifa, R. (2026). Using an insect for sustainable waste management of a superabundant bird. Journal of Environmental Management. [[*https://doi.org/10.1016/j.jenvman.2026.128919*](https://doi.org/10.1016/j.jenvman.2026.128919)] [[*link*](https://drive.google.com/file/d/1lD8Ln2iwYhZZuYPm9aNWWrUhMfZ5LyKa/view?usp=drive_link)]
