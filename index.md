@@ -118,9 +118,9 @@ $ = Autor de correspondencia.
 `Pronto a someter`
 **18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference.
 
-**17.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA.
-
 `En revisión`
+**17.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA. Methods in Ecology and Evolution. [[*https://doi.org/10.32942/X2ZD4Z*](https://doi.org/10.32942/X2ZD4Z)] [[*link*](https://drive.google.com/file/d/1_IlOHoJGLY0reUoRt8b5moPRv7GnjsQG/view?usp=drive_link)]
+
 **16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. Proceedings of the Royal Society B. [[*https://doi.org/10.64898/2026.04.09.717498*](https://doi.org/10.64898/2026.04.09.717498)] [[*link*](https://drive.google.com/file/d/1m0Z6Ldh6Wi3bddHEx8e5aSGZr6uwFXLF/view?usp=drive_link)]
 
 **15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. Local adaptation across expanding hybrid zones in the damselflies Ischnura elegans and I. graellsii. Molecular Ecology. [[*link*](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)]
