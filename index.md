@@ -106,7 +106,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 
 [**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 2.
 
-[**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 3.
+[**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 3. [[*link*](https://drive.google.com/file/d/1tiNKjpyGAnDh2fcTJJS4SQeo-F91yBfZ/view?usp=drive_link)]
 
 [**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista) - 1.
 
