@@ -250,7 +250,7 @@ $ = Autor de correspondencia.
 
 Capacidad para gestionar y visualizar grandes conjuntos de datos utilizando R y el paquete Tidyverse (ggplot2).
 
-Experiencia en modelado matemático utilizando aprendizaje automático, modelos lineales generalizados y modelos de efectos mixtos.
+Experiencia en modelado matemático utilizando aprendizaje computacional, modelos lineales generalizados, modelos de efectos mixtos e inferencia Bayesiana.
 
 ## Cría de insectos para investigación experimental
 
