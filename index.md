@@ -116,6 +116,8 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 $ = Autor de correspondencia.
 
 `Pronto a someter`
+**19.** Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Enríquez-Paredes, L. M., Valenzuela-Quiñones, F., García-de-León, F. J., Barshis, D., Clemento, A. J. & Garza, J. C. Enhanced parentage inference and genetic traceability in Totoaba macdonaldi using SNP and microhaplotype markers.
+
 **18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference.
 
 `En revisión`
