@@ -174,6 +174,8 @@ $ = Autor de correspondencia.
 ### Presentaciones
 
 `2026`
+**12.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. (2026). Ladies First… or Gentlemen? Environmental stress drives plasticity in sexual bimaturism in the black soldier fly. 2026 Annual Conference of the Canadian Society for Ecology and Evolution. [[*link*](https://drive.google.com/file/d/132JWyLvSbWWpWUyT4KqQovSNccOAN1cF/view?usp=drive_link)]
+
 **11.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. Colloque 2026 du Centre de la Science de la Biodiversité du Québec. Voluntario como juez de resúmenes y de pósters. [[*link*](https://drive.google.com/file/d/1fDJ2l6UbnUp7Jd3w8Cmn5clYbFNaQ4xC/view?usp=drive_link)]
 
 `2025`
