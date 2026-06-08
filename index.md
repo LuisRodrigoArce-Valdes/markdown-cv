@@ -102,6 +102,8 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 
 ### Revisión por pares
 
+[**FACETS**](https://www.facetsjournal.com/) - 1.
+
 [**Applied Entomology and Zoology**](https://link.springer.com/journal/13355) - 1.
 
 [**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 2.
