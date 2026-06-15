@@ -120,9 +120,9 @@ $ = Autor de correspondencia.
 `Pronto a someter`
 **19.** Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Enríquez-Paredes, L. M., Valenzuela-Quiñones, F., García-de-León, F. J., Barshis, D., Clemento, A. J. & Garza, J. C. Enhanced parentage inference and genetic traceability in Totoaba macdonaldi using SNP and microhaplotype markers.
 
-**18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference.
-
 `En revisión`
+**18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference. Biological Reviews. [[*link*](https://drive.google.com/file/d/18L3xGT0bIUBsoTHYtoqBimfO8r-RYGq5/view?usp=drive_link)]
+
 **17.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA. Methods in Ecology and Evolution. [[*https://doi.org/10.32942/X2ZD4Z*](https://doi.org/10.32942/X2ZD4Z)] [[*link*](https://drive.google.com/file/d/1_IlOHoJGLY0reUoRt8b5moPRv7GnjsQG/view?usp=drive_link)]
 
 **16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. Proceedings of the Royal Society B. [[*https://doi.org/10.64898/2026.04.09.717498*](https://doi.org/10.64898/2026.04.09.717498)] [[*link*](https://drive.google.com/file/d/1m0Z6Ldh6Wi3bddHEx8e5aSGZr6uwFXLF/view?usp=drive_link)]
@@ -131,7 +131,7 @@ $ = Autor de correspondencia.
 
 **14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females have a male-like diet?. Evolution. [[*link*](https://drive.google.com/file/d/18rGN-bkZjzX2ie0pQgjIV9C20cbviMAi/view?usp=drive_link)]
 
-**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Sexual selection drives rapid evolution of reproductive structures in a damselfly hybrid system: A phylogenetic comparative analysis. Journal of Evolutionary Biology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
+**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. Journal of Evolutionary Biology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
 
 **12.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. Circular Economy and Sustainability. [[*link*](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)]
 
