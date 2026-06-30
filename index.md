@@ -102,6 +102,8 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 
 ### Revisión por pares
 
+[**International Journal of Odonatology**](https://www.worlddragonfly.org/ijo) - 1.
+
 [**FACETS**](https://www.facetsjournal.com/) - 1.
 
 [**Applied Entomology and Zoology**](https://link.springer.com/journal/13355) - 1.
