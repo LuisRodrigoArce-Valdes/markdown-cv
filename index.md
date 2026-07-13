@@ -102,7 +102,7 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 
 ### Revisión por pares
 
-[**International Journal of Odonatology**](https://www.worlddragonfly.org/ijo) - 1.
+[**International Journal of Odonatology**](https://www.worlddragonfly.org/ijo) - 2.
 
 [**FACETS**](https://www.facetsjournal.com/) - 1.
 
@@ -119,25 +119,25 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ### Artículos científicos
 $ = Autor de correspondencia.
 
-`Pronto a someter`
-**19.** Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Enríquez-Paredes, L. M., Valenzuela-Quiñones, F., García-de-León, F. J., Barshis, D., Clemento, A. J. & Garza, J. C. Enhanced parentage inference and genetic traceability in Totoaba macdonaldi using SNP and microhaplotype markers.
-
 `En revisión`
-**18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference. Biological Reviews. [[*link*](https://drive.google.com/file/d/18L3xGT0bIUBsoTHYtoqBimfO8r-RYGq5/view?usp=drive_link)]
+**19.** Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Enríquez-Paredes, L. M., Valenzuela-Quiñones, F., García-de-León, F. J., Barshis, D., Clemento, A. J. & Garza, J. C. Enhanced parentage inference and genetic traceability in Totoaba macdonaldi using SNP and microhaplotype markers. Ecology and Evolution.
 
-**17.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA. Methods in Ecology and Evolution. [[*https://doi.org/10.32942/X2ZD4Z*](https://doi.org/10.32942/X2ZD4Z)] [[*link*](https://drive.google.com/file/d/1_IlOHoJGLY0reUoRt8b5moPRv7GnjsQG/view?usp=drive_link)]
+**18.** **Arce-Valdés, L. R.$**, Vilanova, J. & Khelifa, R. Airborne eDNA and insects: A reciprocal framework for biomonitoring and ecological inference. Insect Conservation and Diversity. [[*link*](https://drive.google.com/file/d/18L3xGT0bIUBsoTHYtoqBimfO8r-RYGq5/view?usp=drive_link)]
+
+**17.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA. Environmental DNA. [[*https://doi.org/10.32942/X2ZD4Z*](https://doi.org/10.32942/X2ZD4Z)] [[*link*](https://drive.google.com/file/d/1_IlOHoJGLY0reUoRt8b5moPRv7GnjsQG/view?usp=drive_link)]
 
 **16.** Stand-Pérez, M., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E., Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B., Baena-Díaz, F. & Sánchez-Guillén, R. A. From divergence to contact: Demographic history and genomic context shape introgression across independent damselfly hybrid zones. Proceedings of the Royal Society B. [[*https://doi.org/10.64898/2026.04.09.717498*](https://doi.org/10.64898/2026.04.09.717498)] [[*link*](https://drive.google.com/file/d/1m0Z6Ldh6Wi3bddHEx8e5aSGZr6uwFXLF/view?usp=drive_link)]
 
-**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. Local adaptation across expanding hybrid zones in the damselflies Ischnura elegans and I. graellsii. Molecular Ecology. [[*link*](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)]
+**15.** Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Swaegers, J., Hansson, B., Sánchez-Guillén, R. A. & Gutiérrez-Rodríguez, C. Local adaptation across expanding hybrid zones in the damselflies Ischnura elegans and I. graellsii. Heredity. [[*link*](https://drive.google.com/file/d/11yPSPkCFG--MqGCbJmkaAxi5iWeGYU4r/view?usp=drive_link)]
 
-**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet composition across inter-sexual mimicry morphs: Do male-like females have a male-like diet?. Evolution. [[*link*](https://drive.google.com/file/d/18rGN-bkZjzX2ie0pQgjIV9C20cbviMAi/view?usp=drive_link)]
+**14.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet diversity and composition in two odonate species with female-limited color variation. Ecology and Evolution. [[*link*](https://drive.google.com/file/d/18rGN-bkZjzX2ie0pQgjIV9C20cbviMAi/view?usp=drive_link)]
 
-**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. Journal of Evolutionary Biology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
+**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. International Journal of Odonatology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
 
-**12.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as a decomposer of Drosophila media waste: implications for fly lab sustainability. Circular Economy and Sustainability. [[*link*](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)]
+**12.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
 
-**11.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
+`In press`
+**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as bioconverters of spent Drosophila media. Circular Economy and Sustainability. [[*link*](https://drive.google.com/file/d/1Yxrxn1aqDfeirtSF_UDlpXfo2EQ1Quwj/view?usp=drive_link)]
 
 `2026`
 **10.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Environmental Stress Drives Plasticity in Sexual Bimaturism in the Black Soldier Fly (Hermetia illucens Linnaeus, 1758). Entomologia experimentalis et applicata. [[*https://doi.org/10.1111/eea.70113*](https://doi.org/10.1111/eea.70113)] [[*link*](https://drive.google.com/file/d/1kshgWhNg8oFMq5-_dpWSuG8xCxRwq7MG/view?usp=drive_link)]
