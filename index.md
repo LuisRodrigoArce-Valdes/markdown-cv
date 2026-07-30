@@ -137,7 +137,7 @@ $ = Autor de correspondencia.
 **12.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
 
 `2026`
-**11.** Hafezi, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as bioconverters of spent Drosophila media. Circular Economy and Sustainability.[[*https://doi.org/10.1007/s43615-026-01076-x*](https://doi.org/10.1007/s43615-026-01076-x)] [[*link*](https://drive.google.com/file/d/1wPpXs-pw7rdgj5G7fY8NCMP8X1BBs6Vg/view?usp=drive_link)]
+**11.** Hafezi Bafti, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. Black soldier fly (Hermetia illucens) larvae as bioconverters of spent Drosophila media. Circular Economy and Sustainability.[[*https://doi.org/10.1007/s43615-026-01076-x*](https://doi.org/10.1007/s43615-026-01076-x)] [[*link*](https://drive.google.com/file/d/1wPpXs-pw7rdgj5G7fY8NCMP8X1BBs6Vg/view?usp=drive_link)]
 
 **10.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. Environmental Stress Drives Plasticity in Sexual Bimaturism in the Black Soldier Fly (Hermetia illucens Linnaeus, 1758). Entomologia experimentalis et applicata. [[*https://doi.org/10.1111/eea.70113*](https://doi.org/10.1111/eea.70113)] [[*link*](https://drive.google.com/file/d/1kshgWhNg8oFMq5-_dpWSuG8xCxRwq7MG/view?usp=drive_link)]
 
