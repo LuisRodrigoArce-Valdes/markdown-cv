@@ -20,7 +20,7 @@ title: Arce-Valdés
 
 <a href="https://osf.io/kec9h/">OSF</a><br>
 
-<a>+1 438-365-7133</a><br>
+<a>+52 729-973-8782</a><br>
 
 <a> Idiomas: Español (L1), </a><a href="https://drive.google.com/file/d/1YuQpPAS_abhe5JcsNK_8JW89GDCiuFq_/view?usp=drive_link">English (C1~C2), </a><a href="https://drive.google.com/file/d/1Xt_A98MhfOM4m0GKU4ycGg-h_q7PwoZm/view?usp=drive_link">Français (B2~C1)</a><br>
 
@@ -34,8 +34,8 @@ En mi investigación reuno muestreos de campo, diseños experimentales, análisi
 
 ## Actividad Actual
 
-`2023 - 2026`
-Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
+`2026 - 2028`
+Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. Supervisor: Antonio Hernández López. Projecto: Mejoramiento de la adecuación de Agave bajo manejo intensivo mediante restauración del microbioma del suelo a través de trasplantes parciales y enmiendas orgánicas de mosca soldado-negra. [[*link*](https://drive.google.com/file/d/1f3Da99qZspC-dXdVGXV1W86yPTQ3VE9_/view?usp=drive_link)]
 
 ## Educación
 
@@ -77,6 +77,9 @@ Investigador Postdoctoral Horizon. **Concordia University**. Supervisor: Rassim 
 ## Experiencia
 
 ### Estancia postdoctoral
+
+`2026 - 2028`
+Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. Supervisor: Antonio Hernández López. Projecto: Mejoramiento de la adecuación de Agave bajo manejo intensivo mediante restauración del microbioma del suelo a través de trasplantes parciales y enmiendas orgánicas de mosca soldado-negra. [[*link*](https://drive.google.com/file/d/1f3Da99qZspC-dXdVGXV1W86yPTQ3VE9_/view?usp=drive_link)]
 
 `2023-2026`
 **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
