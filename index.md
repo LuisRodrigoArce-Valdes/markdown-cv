@@ -358,6 +358,9 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 
 ### Financiamiento
 
+`2026 - 2027`
+**Universidad Nacional Autónoma de México**. Programa de Becas Posdoctorales en la UNAM - DGAPA. Financiamiento postdoctoral. MXN 420,000. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
+
 `2023 - 2026`
 **Concordia University**. Horizon Postdoctoral Fellowships. Financiamiento postdoctoral. CAD 150,000. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
 
