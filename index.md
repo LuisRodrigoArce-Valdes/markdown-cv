@@ -359,6 +359,8 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 ## Becas y Financiamiento
 
 ### Financiamiento
+`2027 - 2030`
+**Secretaría de Ciencia, Humanidades, Tecnología e Innovación**. Sistema Nacional de Investigadoras e Investigadores. Nivel Candidato. MXN 684,672. [[**link**](https://drive.google.com/file/d/1LEXlAENrrd5RlJ7ZRBAXxtNZcyGXbM38/view?usp=drive_link)]
 
 `2026 - 2027`
 **Universidad Nacional Autónoma de México**. Programa de Becas Posdoctorales en la UNAM - DGAPA. Financiamiento postdoctoral. MXN 420,000. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
@@ -422,7 +424,7 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 `2020`
 Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020). Conociendo a las libélulas. Instituto de Ecología, A. C. [[*video*](https://www.youtube.com/watch?v=CkjWeTuxL1Q)]
 
-## Premios
+## Distinciones
 
 `2021`
 **American Museum of Natural History**. Student Conference on Conservation Science. Best Poster: Best Use of Quantitative Methods in Conservation Research: Testing the consistency of hybridization outcomes between two damselflies in Spain. [[*link*](https://drive.google.com/file/d/1eh_qDa-CrIssbfNmW6IY3uPG5F1neh49/view?usp=drive_link)]
