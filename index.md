@@ -6,6 +6,8 @@ title: Arce-Valdés
 
 <div id="webaddress">
 
+<a href="https://drive.google.com/file/d/1LEXlAENrrd5RlJ7ZRBAXxtNZcyGXbM38/view?usp=drive_link">Investigador SNII Candidato</a><br>
+
 <a href="https://luisarcevaldes.weebly.com">Sitio web personal</a><br>
 
 <a href="mailto:bio.l.rodrigo.arce@gmail.com" title="click to email">bio.l.rodrigo.arce@gmail.com</a><br>
