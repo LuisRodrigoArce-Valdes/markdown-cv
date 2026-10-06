@@ -30,9 +30,9 @@ title: Arce-Valdés
 
 </div>
 
-## Presentación
+## Resumén de trayectoria
 
-En mi investigación reuno muestreos de campo, diseños experimentales, análisis de biología molecular, bioinformáticos y simulaciones comutacionales para entender procesos evolutivos, ecológicos y con énfoque a conservación de especies. Investigo las respuestas ecológicas y evolutivas de la biodiversidad al cambio climático y otras presiones antropogénicas.
+Soy un ecólogo molecular con interés en la aplicación de herramientas genéticas y genómicas para entender procesos evolutivos y ecológicos; así como para realizar ciencia aplicada a la conservación y la sustentabilidad. En mi investigación integro trabajo de campo, diseños experimentales, técnicas de biología molecular, bioinformática y simulaciones computacionales. Realicé una licenciatura en biología por la UAEMÉX titulándome por rendimiento académico. Posteriormente, estudié una maestría en el CICESE en Ensenada, Baja California bajo la codirección de los doctores María Clara Arteaga Uribe, Alicia Abadía Cardoso y Luis Manuel Enríquez Paredes. En mi trabajo de tesis evalué la diversidad genética y el estado de conservación de pesquerías del Golfo de California. También participé en realizar análisis de genética forense de decomisos de tráfico ilegal de especies. Mis estudios doctorales los realicé en el INECOL A. C. en Xalapa, Veracruz bajo la supervisión de la doctora Rosa Ana Sánchez Guillén. Ahí realicé análisis genómicos, bioinformáticos y cruzas experimentales en laboratorio para estudiar las consecuencias evolutivas de la hibridación en insectos. Al terminar mi doctorado fui contratado como investigador postdoctoral Horizon en Concordia University, Montreal, Canadá. Bajo la supervisión del doctor Rassim Khelifa, trabajé en múltiples proyectos que probaron tecnologías novedosas de manejo de residuos orgánicos con la mosca soldado-negra y el uso del ADN ambiental como un método para el monitoreo de la diversidad de especies en comunidades naturales de insectos. Finalmente, regresé a México como investigador postdoctoral DGAPA en la ENES, Unidad León de la UNAM. En colaboración con el doctor Antonio Hernández López me encuentro realizando un proyecto que busca evaluar la acción conjunta de trasplantes de suelos y aplicación de enmiendas orgánicas de mosca soldado-negra como método de restauración del microbioma del suelo en campos agrícolas de agave tequilero.
 
 ## Actividad Actual
 
@@ -80,9 +80,6 @@ Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. 
 
 ### Estancia postdoctoral
 
-`2026 - 2028`
-Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. Supervisor: Antonio Hernández López. Projecto: Mejoramiento de la adecuación de Agave bajo manejo intensivo mediante restauración del microbioma del suelo a través de trasplantes parciales y enmiendas orgánicas de mosca soldado-negra. [[*link*](https://drive.google.com/file/d/1f3Da99qZspC-dXdVGXV1W86yPTQ3VE9_/view?usp=drive_link)]
-
 `2023-2026`
 **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
 
@@ -115,7 +112,7 @@ Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. 
 
 [**Journal of Insects as Food and Feed**](https://brill.com/view/journals/jiff/jiff-overview.xml) - 2.
 
-[**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 3. [[*link*](https://drive.google.com/file/d/1tiNKjpyGAnDh2fcTJJS4SQeo-F91yBfZ/view?usp=drive_link)]
+[**Journal of Insect Conservation**](https://link.springer.com/journal/10841) - 4. [[*link*](https://drive.google.com/file/d/1tiNKjpyGAnDh2fcTJJS4SQeo-F91yBfZ/view?usp=drive_link)]
 
 [**Ciencia y Tecnología Agropecuaria**](https://revistacta.agrosavia.co/index.php/revista) - 1.
 
@@ -135,9 +132,10 @@ $ = Autor de correspondencia.
 
 **15.** **Arce-Valdés, L. R.$**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. Diet diversity and composition in two odonate species with female-limited color variation. Ecology and Evolution. [[*link*](https://drive.google.com/file/d/18rGN-bkZjzX2ie0pQgjIV9C20cbviMAi/view?usp=drive_link)]
 
-**14.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. International Journal of Odonatology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
+**14.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
 
-**13.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
+`In press`
+**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. International Journal of Odonatology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
 
 `2026`
 **12.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. (2026). Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA. Environmental DNA. [[*https://doi.org/10.1002/edn3.70355*](https://doi.org/10.1002/edn3.70355)] [[*link*](https://drive.google.com/file/d/1TV8e4HWZB4e0osEYpD2gaOReZGs_JfUp/view?usp=drive_link)]
@@ -226,84 +224,6 @@ $ = Autor de correspondencia.
 `2019`
 **1.** Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management. 100th Annual Western Society of Naturalists Meeting. [[*link*](https://drive.google.com/file/d/1Y2Jif7AQKoNtORve5keFzbmaRD-gDE6A/view?usp=drive_link)]
 
-## Experiencia ténica
-
-### Técnicas de Biología Molecular
-
-**Extracción y purificación de ADN**: Dominio en la extracción de ADN genómico de alta calidad tanto de tejidos animales como de muestras ambientales.
-
-**Evaluación de calidad y cantidad de ADN**: Experiencia en la evaluación de la calidad del ADN genómico mediante electroforesis en gel, análisis de fragmentos con bioanalizador y cuantificación utilizando espectrofotometría (Nanodrop) y fluorometría (Qubit).
-
-**PCR (Reacción en Cadena de la Polimerasa)**: Experiencia en la estandarización de protocolos de PCR para la amplificación de ADN.
-
-**Secuenciación de ADN**: Familiaridad con plataformas de secuenciación Sanger e Illumina.
-
-**Fragmentación de ADN**: Experiencia en el uso de digestión enzimática y sonicación para la fragmentación de ADN en secuenciación de nueva generación.
-
-**Bibliotecas de secuenciación de alto rendimiento**: Experiencia en la construcción y estandarización de bibliotecas RADseq, ddRADseq y de metabarcoding para secuenciación de nueva generación.
-
-### Bioinformática
-
-**Haplotipos Sanger**: Evaluación de electroferogramas, alineamientos y análisis para genética de poblaciones, genética forense, código de barras de ADN y filogenética.
-
-**Microsatélites**: Genotipado de fragmentos, filtrado de calidad y análisis para genética de poblaciones, asignación de parentesco e identificación genética.
-
-**RADseq**: Alineamiento y detección de variantes SNP, filtrado de calidad y análisis para genómica de poblaciones.
-
-**Metabarcoding**: Filtrado de calidad, eliminación de ruido (denoising) y asignación taxonómica para evaluaciones de biodiversidad.
-
-**Secuenciación de genoma completo**: Ensamblaje de novo y basado en referencia, así como anotación. Detección de variantes y análisis para genómica de poblaciones.
-
-**Simulaciones computacionales**: Uso del software SLiM para simulaciones genéticamente explícitas orientadas a evaluar procesos evolutivos o ecológicos.
-
-## Visualización y análisis de datos
-
-Capacidad para gestionar y visualizar grandes conjuntos de datos utilizando R y el paquete Tidyverse (ggplot2).
-
-Experiencia en modelado matemático utilizando aprendizaje computacional, modelos lineales generalizados, modelos de efectos mixtos e inferencia Bayesiana.
-
-## Cría de insectos para investigación experimental
-
-Libélulas (Ischnura).
-
-Mosca soldado negra (Hermetia illucens).
-
-Moscas Drosophila.
-
-## Habilidades y software
-
-### Software
-
-R y Rstudio
-
-Tidyverse
-
-UNIX-Bash
-
-Python
-
-Git y GitHub
-
-SLURM
-
-QGIS
-
-### Habilidades blandas
-
-Gestión eficiente de los recursos económicos en el laboratorio.
-
-Motivación.
-
-Habilidades para la resolución de problemas.
-
-Autodisciplina.
-
-Trabajo en equipo.
-
-Resistencia al estrés.
-
-Capacidad de comunicación.
-
 ## Supervisión de tésis
 
 ### Tésis de doctorado
@@ -338,6 +258,11 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 **Universidad Autónoma de Baja California**. Maestría en ciencias en oceanografía costera. Investigación dirigida: Herramientas bioinformáticas para análisis poblacionales de secuencias de haplotipos Sanger. [[*link*](https://drive.google.com/file/d/1FGq7NDUvzI0hKBKI4o-HLf9IK3tTyUgC/view?usp=drive_link)]
 
 ### Cursos de licenciatura
+
+`2026`
+**Universidad Nacional Autónoma de México**. Licenciatura en Ciencias Agrogenómicas. Genómica Comparativa.
+
+**Universidad Nacional Autónoma de México**. Licenciatura en Ciencias Agrogenómicas. Agroecología y Sustentabilidad.
 
 `2025`
 **Concordia University**. BSc in Biology. BIOL 225: Form and Function of Organisms. Animal Behavior. [[*link*](https://drive.google.com/file/d/1TTtHUybEEgMp4ipBPAbtL7tjj1_xf_8w/view?usp=drive_link)]
@@ -397,33 +322,6 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 `2014`
 **Academia Mexicana de Ciencias**. Beca de movilidad. 24 Verano Científico de la Academia Mexicana de Ciencias A.C. MXN 7,000. [[*link*](https://drive.google.com/file/d/1b5XxnFZUWPjWnFG2j_ROrZzvhtEVg75e/view?usp=drive_link)]
 
-
-## Comunicación Científica
-
-### Artículos
-
-`2026`
-**6.** Nolasco-Soto, J., **Arce-Valdés, L. R.**, Pulido-Rios, L. (2026). Descifrando los secretos del ADN. La crónica de Hoy. [[*link*](https://www.cronica.com.mx/academia/2026/03/11/descifrando-los-secretos-del-adn/)]
-
-**5.** **Arce-Valdés, L. R.** (2026). Réflexions académiques et personnelles grâce aux libellules *Ischnura*. Centre de la science de la biodiversité du Québec. Le Beagle [[*link*](https://lebeagle.qcbs.ca/blog/reflexions-academiques-et-personnelles-grace-aux-libellules-ischnura/)]
-
-`2023`
-**4.** **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2023). La teoría del reforzamiento: ¿Pueden originarse nuevas especies habitando juntas?. Eco-Lógico. [[*link*](https://www.flipsnack.com/deblith/hd-volumen-4-n-mero-3-oto-o-2023/full-view.html)]
-
-`2022`
-**3.** Stand-Pérez, M. A., Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Ayala-Sánchez, D., Ballén-Guapacha, A. V., Ordaz-Morales, J. E., Pulido-Ríos, L., Ríos-Olaya, K. J. & Sánchez-Guillén, R. A. (2022). Hibridación: como estudiar la evolución a través de la reproducción. CRÓNICA. [[*link*](https://www.cronica.com.mx/academia/hibridacion-estudiar-evolucion-traves-reproduccion.html?fbclid=IwAR22iZrb8b0_4xBO_sRG-TJPZ-iXQm7RcGZGDUP8EYIKPw2Op9cEA9nj9qs)]
-
-`2021`
-**2.** **Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J. & Favila, M. E. (2021). Microsatélites: secretos evolutivos del ADN. Portal. Comunicación Veracruzana. [[*link*](https://web.archive.org/web/20221001172855/https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/)]
-
-`2019`
-**1.** **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina. Espíritu Científico en Acción. [[*link*](https://web.archive.org/web/20220217221426/http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf)]
-
-### Otros
-
-`2020`
-Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020). Conociendo a las libélulas. Instituto de Ecología, A. C. [[*video*](https://www.youtube.com/watch?v=CkjWeTuxL1Q)]
-
 ## Distinciones
 
 `2021`
@@ -459,4 +357,4 @@ Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Vald
 
 <!-- ### Footer
 
-Last Update: Abril 2026 -->
+Last Update: Octubre 2026 -->
