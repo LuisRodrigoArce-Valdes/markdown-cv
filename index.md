@@ -134,10 +134,9 @@ $ = Autor de correspondencia.
 
 **14.** **Arce-Valdés, L. R.**, Swaegers, J., Ballén-Guapacha, A. V., Chávez-Rios, J. R., Chauhan, P., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. Hybridization outcomes reflect context-dependent reproductive isolation in two damselfly hybrid zones. Heredity. [[*https://doi.org/10.64898/2025.12.23.696213*](https://doi.org/10.64898/2025.12.23.696213)] [[*link*](https://drive.google.com/file/d/1XDOfJ4Tra4uMiAMe56gPrGkc33B5UmDk/view?usp=drive_link)]
 
-`In press`
-**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. International Journal of Odonatology. [[*link*](https://drive.google.com/file/d/1Y09stkbdo1kZxRd9DdKZSl2-PcUEFRrG/view?usp=drive_link)]
-
 `2026`
+**13.** Stand-Pérez, M.,  **Arce-Valdés, L. R.**,  Ballén-Guapacha, A. V., Baena-Díaz, F. & Sánchez-Guillén, R. A. Contrasting evolutionary dynamics of reproductive and non-reproductive traits in hybridizing damselflies. International Journal of Odonatology.[[*https://doi.org/10.48156/1388.2026.1917415*](https://www.worlddragonfly.org/article/tijo20-v029-a20-stand-perez?rq=Contrasting%20evolutionary%20dynamics%20of%20reproductive%20and%20non-reproductive%20traits%20in%20hybridizing%20damselflies)] [[*link*](https://drive.google.com/file/d/1q_0N3j5htEFvN22MptXKaIY8-FfXCfaQ/view?usp=drive_link)]
+
 **12.** Vilanova, J., **Arce-Valdés, L. R.**, Zhang, X., Mlynarek, J. J. & Khelifa, R. (2026). Toward repurposing global passive air sampling networks for insect monitoring: promises and pitfalls of airborne eDNA. Environmental DNA. [[*https://doi.org/10.1002/edn3.70355*](https://doi.org/10.1002/edn3.70355)] [[*link*](https://drive.google.com/file/d/1TV8e4HWZB4e0osEYpD2gaOReZGs_JfUp/view?usp=drive_link)]
 
 **11.** Hafezi Bafti, N., **Arce-Valdés, L. R.$**, Mahdjoub, H. & Khelifa, R. (2026). Black soldier fly (Hermetia illucens) larvae as bioconverters of spent Drosophila media. Circular Economy and Sustainability.[[*https://doi.org/10.1007/s43615-026-01076-x*](https://doi.org/10.1007/s43615-026-01076-x)] [[*link*](https://drive.google.com/file/d/1wPpXs-pw7rdgj5G7fY8NCMP8X1BBs6Vg/view?usp=drive_link)]
