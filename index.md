@@ -30,9 +30,9 @@ title: Arce-Valdés
 
 </div>
 
-## Resumen de trayectoria
+## Presentación
 
-Soy un ecólogo molecular con interés en la aplicación de herramientas genéticas y genómicas para entender procesos evolutivos y ecológicos; así como para realizar ciencia aplicada a la conservación y la sustentabilidad. En mi investigación integro trabajo de campo, diseños experimentales, técnicas de biología molecular, bioinformática y simulaciones computacionales. Realicé una licenciatura en biología por la UAEMÉX titulándome por rendimiento académico. Posteriormente, estudié una maestría en el CICESE en Ensenada, Baja California bajo la codirección de los doctores María Clara Arteaga Uribe, Alicia Abadía Cardoso y Luis Manuel Enríquez Paredes. En mi trabajo de tesis evalué la diversidad genética y el estado de conservación de pesquerías del Golfo de California. También participé en realizar análisis de genética forense de decomisos de tráfico ilegal de especies. Mis estudios doctorales los realicé en el INECOL A. C. en Xalapa, Veracruz bajo la supervisión de la doctora Rosa Ana Sánchez Guillén. Ahí realicé análisis genómicos, bioinformáticos y cruzas experimentales en laboratorio para estudiar las consecuencias evolutivas de la hibridación en insectos. Al terminar mi doctorado fui contratado como investigador postdoctoral Horizon en Concordia University, Montreal, Canadá. Bajo la supervisión del doctor Rassim Khelifa, trabajé en múltiples proyectos que probaron tecnologías novedosas de manejo de residuos orgánicos con la mosca soldado-negra y el uso del ADN ambiental como un método para el monitoreo de la diversidad de especies en comunidades naturales de insectos. Finalmente, regresé a México como investigador postdoctoral DGAPA en la ENES, Unidad León de la UNAM. En colaboración con el doctor Antonio Hernández López me encuentro realizando un proyecto que busca evaluar la acción conjunta de trasplantes de suelos y aplicación de enmiendas orgánicas de mosca soldado-negra como método de restauración del microbioma del suelo en campos agrícolas de agave tequilero.
+Soy un ecólogo molecular con interés en la aplicación de herramientas genéticas y genómicas para entender procesos evolutivos y ecológicos; así como para realizar ciencia aplicada a la conservación y la sustentabilidad. En mi investigación integro trabajo de campo, diseños experimentales, técnicas de biología molecular, bioinformática y simulaciones computacionales.
 
 ## Actividad Actual
 
@@ -79,6 +79,9 @@ Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. 
 ## Experiencia
 
 ### Estancia postdoctoral
+
+`2026 - 2028`
+Investigador Postdoctoral DGAPA. **Universidad Nacional Autónoma de México**. Supervisor: Antonio Hernández López. Projecto: Mejoramiento de la adecuación de Agave bajo manejo intensivo mediante restauración del microbioma del suelo a través de trasplantes parciales y enmiendas orgánicas de mosca soldado-negra. [[*link*](https://drive.google.com/file/d/1f3Da99qZspC-dXdVGXV1W86yPTQ3VE9_/view?usp=drive_link)]
 
 `2023-2026`
 **Concordia University**. Supervisor: Rassim Khelifa. Projecto: Revelando patrones en la ecología trófica de odonatos y el monitoreo de insectos mediante metabarcoding de ADN ambiental (eDNA) / Hacia el desarrollo de soluciones sostenibles para la gestión de residuos y la seguridad alimentaria utilizando la mosca soldado negra. [[*link*](https://drive.google.com/file/d/1W_11mvADXPKAeGriSYd_PazKGlvDEIJW/view?usp=drive_link)]
@@ -175,6 +178,131 @@ $ = Autor de correspondencia.
 **2.** Enríquez-Paredes, L. M., Victoria-Cota, N. L., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Burnham-Curtis, M. & Garza, J. C. (2023). Estado Actual de Conservación del Recurso Genético T. macdonaldi. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación, Universidad Autónoma de Baja California. [[*link1*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)] [[*link2*](https://drive.google.com/file/d/1KVhTyvRARakckB3JZZ0cVNSNRgAVK2-i/view?usp=drive_link)]
 
 **1.** Enríquez-Paredes, L. M., Abadía-Cardoso, A., **Arce-Valdés, L. R.**, Victoria-Cota N. L., Burnham-Curtis, M. Garza, J. C., Valenzuela-Quiñones, F., García de León, F. J. & De Anda-Montañez, J. A. (2023). Protocolos Para la Caracterización Genética en T. macdonaldi. En L. M. Enríquez-Paredes & N. L. Victoria-Cota (Coords.), Manejo Genético de la Producción de Totoaba macdonaldi en Cautiverio con Fines Comerciales y de Conservación, Universidad Autónoma de Baja California. [[*link*](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=410933)] [[*link2*](https://drive.google.com/file/d/1Ki9B22NLBwdga9iYjOom3uptRjlHkgk8/view?usp=drive_link)]
+
+### Presentaciones
+
+`2026`
+**12.** **Arce-Valdés, L. R.$**, Mahdjoub, H., Vilanova, J. & Khelifa, R. (2026). Ladies First… or Gentlemen? Environmental stress drives plasticity in sexual bimaturism in the black soldier fly. 2026 Annual Conference of the Canadian Society for Ecology and Evolution. [[*link*](https://drive.google.com/file/d/132JWyLvSbWWpWUyT4KqQovSNccOAN1cF/view?usp=drive_link)]
+
+**11.** **Arce-Valdés, L. R.**, Vilanova, J., Mahdjoub, H., Melanson, J. B., Kremen, C., Mlynarek, J. J. & Khelifa, R. (2026). Les femelles andromorphes se nourrissent-elles comme les mâles ? Une évaluation utilisant deux espèces d’odonates polymorphes. Colloque 2026 du Centre de la Science de la Biodiversité du Québec. Voluntario como juez de resúmenes y de pósters. [[*link*](https://drive.google.com/file/d/1fDJ2l6UbnUp7Jd3w8Cmn5clYbFNaQ4xC/view?usp=drive_link)]
+
+`2025`
+**10.** Ordaz-Morales, J. E., Juárez-Jiménez, A. L., Stand-Pérez, M., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2025). Reforzamiento en especies polimórficas de caballitos de diablo (Zygoptera: Coenagrionidae): Ischnura elegans e I. graellsii. IV Congreso de la Asociación Mexicana de Sistemática de Artrópodos. [[*link*](https://drive.google.com/file/d/1RnbQZa6ekfz184ubv8o8hJyCHyczvKuc/view?usp=drive_link)]
+
+`2024`
+**9.** Ordaz-Morales, J. E., **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Chávez-Ríos, J. R., Sanmartin, I., Cordero-Rivera, A. & Sánchez-Guillén, R. A. (2024). Cambios en la frecuencia de los morfotipos de color femenino a partir de un proceso de hibridación. IX Congreso Mexicano de Ecología. El Colegio de la Frontera Sur - Sociedad Científica Mexicana de Ecología- [[*link*](https://drive.google.com/file/d/10u_LzxC7MeJUdSX-wQKwTVkYJP_fbHkb/view?usp=drive_link)]
+
+**8.** **Arce-Valdés, L. R.**, Swaegers, J., Chávez-Ríos, J. R., Gutiérrez-Rodríguez, C., Ibarra-Laclette, E., Hansson, B. & Sánchez-Guillén, R. A. (2024). Divergent genomic patterns of introgression across regions in a complex mottled hybrid zone of damselflies. 3rd Joint Congress on Evolutionary Biology. American Society of Naturalists - European Society for Evolutionary Biology - Society of Systematic Biologists - Society for the Study of Evolution. [[*link*](https://drive.google.com/file/d/1qgXBJilRmi8FgU-Xqhc8g4P_T2V4Im5n/view?usp=drive_link)] [[*video*](https://youtu.be/8poagAbYSts?list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&t=2446)]
+
+`2023`
+**7.** **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V., Rivas-Torres, A., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Testing the predictions of reinforcement: long-term empirical data from a damselfly mosaic hybrid zone. EVOLUTION 2023. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists. [[*link*](https://drive.google.com/file/d/1F2TNcLDBzfRKbSiMRsoU-4zotH7Ixhl2/view?usp=drive_link)] [[*video*](https://www.youtube.com/watch?v=E6b5oFFfZRA&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=43)]
+
+**6.** **Arce-Valdés, L. R.**, Swaegers, J., Chauhan, P., Chávez-Ríos, J. R., Wellenreuther, M., Hansson, B. & Sánchez-Guillén, R. A. (2023). Patrones genómicos variables de hibridación entre dos zonas híbridas independientes de caballitos del diablo. EVOLUTION 2023 - VIRTUAL. Society of Systematic Biologists - Society for the Study of Evolution - American Society of Naturalists. [[*link*](https://drive.google.com/file/d/1FaPKwz_rJ6fji-PsiUYaPX53k-bcoG7C/view?usp=drive_link)] [[*video*](https://www.youtube.com/watch?v=2uh771xcwss&list=PLnl_pi1g6UveUBQ63SaajGgRfEHsHkz7c&index=16)]
+
+**5.** **Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2023). Patrones genómicos variables en dos zonas híbridas independientes de caballitos del diablo. 1er Coloquio de Biología y Ecología Computacional. Instituto de Ecología A.C. [[*link*](https://drive.google.com/file/d/1XaxLri8n2CynHxKEJFRLSUH19jOkYfYP/view?usp=drive_link)] [[*video*](https://www.facebook.com/inecolxalapa/videos/primer-coloquio-de-biolog%C3%ADa-y-ecolog%C3%ADa-computacional-la-computaci%C3%B3n-de-alto-rend/6146702552033755)]
+
+`2022`
+**4.** **Arce-Valdés, L. R.** & Sánchez-Guillén, R. A. (2022). The evolutionary outcomes of climate-change-induced hybridization in insects: testing predictions. Climate change genomics: vulnerabilities, adaptations and applications. British Ecological Society. [[*link*](https://drive.google.com/file/d/1lL-073Bn61WR5Nbxb0rqDAAdhhDF8r_Q/view?usp=drive_link)]
+
+`2020`
+**3.** Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2020). Genetic assessment on the conservation status of the Gulf Corvina in the face of the U.S. embargo to all gill-net fisheries in the Upper Gulf of California. Virtual Annual Meeting of the American Fisheries Society 2020. [[*link*](https://drive.google.com/file/d/12R4BkETwxKH7sePTDDtvxK7181rEwXzB/view?usp=drive_link)]
+
+`2018`
+**2.** **Arce-Valdés, L. R.**, Arteaga-Uribe, M. C., Abadía-Cardoso, A. & Enríquez-Paredes, L. M. (2018). Genetic Diversity and Effective Population Size of the Gulf Corvina (Cynoscion othonopterus) Highlights Its Vulnerable Conservation Status. 148th Annual Meeting of the American Fisheries Society. [[*link*](https://drive.google.com/file/d/1sCv3Hr2vtygEX1on1UITJWGVuBcHb7Hp/view?usp=drive_link)]
+
+`2014`
+**1.** **Arce-Valdés, L. R.**, Islas-Tello, L. A. & Octavio-Aguilar, P. (2014). Flujo génico entre manchones poblacionales de Dichromanthus aurantiacus en el parque nacional El Chico, Hidalgo. Congreso Nacional del XIX Verano de la Investigación Científica y Tecnológica del Pacífico. [[*link*](https://drive.google.com/file/d/10PCSiUg9u0YChrKAT-kZiRb2s37Mad_k/view?usp=drive_link)]
+
+### Pósters
+
+`2025`
+**4.** **Arce-Valdés, L. R.**, Booker, T. R, Irwin, D., Sánchez-Guillén, R. A. & Khelifa, R. (2025). Changements aux directions d'hybridation à cause du renforcement par incompatibilités Bateson-Dobzhansky-Müller (BDM) unidirectionnellement héritées. Colloque 2025 du Centre de la Science de la Biodiversité du Québec. [[*link*](https://drive.google.com/file/d/1yAB-2reUV5Pkrtp1URvxOiUKsTxSRv0W/view?usp=drive_link)]
+
+`2021`
+**3.** **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2021). Reforzamiento rápido del aislamiento reproductivo precigótico en una región híbrida de caballitos del diablo. 1er Congreso Latinoamericano de Evolución. CLEVOL [[*link*](https://drive.google.com/file/d/1yOFw1gP40D0Z1twwACjlAcNNOByb8qAD/view?usp=drive_link)]
+
+**2.** Sánchez-Guillén, R. A., **Arce-Valdés, L. R.**, Swaegers, J., Wellenreuther, M. & Hansson, B. (2021). Testing the consistency of hybridization outcomes between two damselflies in Spain. Student Conference on Conservation Science. Center for Biodiversity and Conservation, American Museum of Natural History. [[*link*](https://drive.google.com/file/d/1TZRrZJLf_ELOnor_h0LKssXH6mmYJmIr/view?usp=drive_link)]
+
+`2019`
+**1.** Soto-González, M. E., **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). Low mitochondrial genetic diversity in the Gulf Corvina and its implications on fishery management. 100th Annual Western Society of Naturalists Meeting. [[*link*](https://drive.google.com/file/d/1Y2Jif7AQKoNtORve5keFzbmaRD-gDE6A/view?usp=drive_link)]
+
+## Experiencia ténica
+
+### Técnicas de Biología Molecular
+
+**Extracción y purificación de ADN**: Dominio en la extracción de ADN genómico de alta calidad tanto de tejidos animales como de muestras ambientales.
+
+**Evaluación de calidad y cantidad de ADN**: Experiencia en la evaluación de la calidad del ADN genómico mediante electroforesis en gel, análisis de fragmentos con bioanalizador y cuantificación utilizando espectrofotometría (Nanodrop) y fluorometría (Qubit).
+
+**PCR (Reacción en Cadena de la Polimerasa)**: Experiencia en la estandarización de protocolos de PCR para la amplificación de ADN.
+
+**Secuenciación de ADN**: Familiaridad con plataformas de secuenciación Sanger e Illumina.
+
+**Fragmentación de ADN**: Experiencia en el uso de digestión enzimática y sonicación para la fragmentación de ADN en secuenciación de nueva generación.
+
+**Bibliotecas de secuenciación de alto rendimiento**: Experiencia en la construcción y estandarización de bibliotecas RADseq, ddRADseq y de metabarcoding para secuenciación de nueva generación.
+
+### Bioinformática
+
+**Haplotipos Sanger**: Evaluación de electroferogramas, alineamientos y análisis para genética de poblaciones, genética forense, código de barras de ADN y filogenética.
+
+**Microsatélites**: Genotipado de fragmentos, filtrado de calidad y análisis para genética de poblaciones, asignación de parentesco e identificación genética.
+
+**RADseq**: Alineamiento y detección de variantes SNP, filtrado de calidad y análisis para genómica de poblaciones.
+
+**Metabarcoding**: Filtrado de calidad, eliminación de ruido (denoising) y asignación taxonómica para evaluaciones de biodiversidad.
+
+**Secuenciación de genoma completo**: Ensamblaje de novo y basado en referencia, así como anotación. Detección de variantes y análisis para genómica de poblaciones.
+
+**Simulaciones computacionales**: Uso del software SLiM para simulaciones genéticamente explícitas orientadas a evaluar procesos evolutivos o ecológicos.
+
+## Visualización y análisis de datos
+
+Capacidad para gestionar y visualizar grandes conjuntos de datos utilizando R y el paquete Tidyverse (ggplot2).
+
+Experiencia en modelado matemático utilizando aprendizaje computacional, modelos lineales generalizados, modelos de efectos mixtos e inferencia Bayesiana.
+
+## Cría de insectos para investigación experimental
+
+Libélulas (Ischnura).
+
+Mosca soldado negra (Hermetia illucens).
+
+Moscas Drosophila.
+
+## Habilidades y software
+
+### Software
+
+R y Rstudio
+
+Tidyverse
+
+UNIX-Bash
+
+Python
+
+Git y GitHub
+
+SLURM
+
+QGIS
+
+### Habilidades blandas
+
+Gestión eficiente de los recursos económicos en el laboratorio.
+
+Motivación.
+
+Habilidades para la resolución de problemas.
+
+Autodisciplina.
+
+Trabajo en equipo.
+
+Resistencia al estrés.
+
+Capacidad de comunicación.
 
 ## Supervisión de tésis
 
@@ -273,6 +401,33 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 
 `2014`
 **Academia Mexicana de Ciencias**. Beca de movilidad. 24 Verano Científico de la Academia Mexicana de Ciencias A.C. MXN 7,000. [[*link*](https://drive.google.com/file/d/1b5XxnFZUWPjWnFG2j_ROrZzvhtEVg75e/view?usp=drive_link)]
+
+
+## Comunicación Científica
+
+### Artículos
+
+`2026`
+**6.** Nolasco-Soto, J., **Arce-Valdés, L. R.**, Pulido-Rios, L. (2026). Descifrando los secretos del ADN. La crónica de Hoy. [[*link*](https://www.cronica.com.mx/academia/2026/03/11/descifrando-los-secretos-del-adn/)]
+
+**5.** **Arce-Valdés, L. R.** (2026). Réflexions académiques et personnelles grâce aux libellules *Ischnura*. Centre de la science de la biodiversité du Québec. Le Beagle [[*link*](https://lebeagle.qcbs.ca/blog/reflexions-academiques-et-personnelles-grace-aux-libellules-ischnura/)]
+
+`2023`
+**4.** **Arce-Valdés, L. R.**, Ballén-Guapacha, A. V. & Sánchez-Guillén, R. A. (2023). La teoría del reforzamiento: ¿Pueden originarse nuevas especies habitando juntas?. Eco-Lógico. [[*link*](https://www.flipsnack.com/deblith/hd-volumen-4-n-mero-3-oto-o-2023/full-view.html)]
+
+`2022`
+**3.** Stand-Pérez, M. A., Aguirre-Pérez, I. A., **Arce-Valdés, L. R.**, Ayala-Sánchez, D., Ballén-Guapacha, A. V., Ordaz-Morales, J. E., Pulido-Ríos, L., Ríos-Olaya, K. J. & Sánchez-Guillén, R. A. (2022). Hibridación: como estudiar la evolución a través de la reproducción. CRÓNICA. [[*link*](https://www.cronica.com.mx/academia/hibridacion-estudiar-evolucion-traves-reproduccion.html?fbclid=IwAR22iZrb8b0_4xBO_sRG-TJPZ-iXQm7RcGZGDUP8EYIKPw2Op9cEA9nj9qs)]
+
+`2021`
+**2.** **Arce-Valdés, L. R.**, Sánchez-Guillén, R. A., Nolasco-Soto, J. & Favila, M. E. (2021). Microsatélites: secretos evolutivos del ADN. Portal. Comunicación Veracruzana. [[*link*](https://web.archive.org/web/20221001172855/https://elportal.mx/princ/microsatelites-secretos-evolutivos-del-adn/)]
+
+`2019`
+**1.** **Arce-Valdés, L. R.** & Enríquez-Paredes, L. M. (2019). Monitoreo de la diversidad genética como indicador de la sustentabilidad pesquera de la curvina golfina. Espíritu Científico en Acción. [[*link*](https://web.archive.org/web/20220217221426/http://www.educacionbc.edu.mx/departamentos/investigacion/publicaciones/espirituaccion/Archivos/29/REVISTA%20ECA%20No%2029%20WEB%20Septiembre%206%202pm.pdf)]
+
+### Otros
+
+`2020`
+Ballén-Guapacha, A. V., Sánchez-Guillén, R. A., Nolasco-Soto, J., **Arce-Valdés, L. R.**, Ordaz-Morales, J. E. & Stand-Pérez, M. A. (2020). Conociendo a las libélulas. Instituto de Ecología, A. C. [[*video*](https://www.youtube.com/watch?v=CkjWeTuxL1Q)]
 
 ## Distinciones
 
