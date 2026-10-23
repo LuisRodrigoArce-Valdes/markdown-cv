@@ -364,6 +364,7 @@ especies de caballitos del diablo. Maestría en ciencias en ciencias biológicas
 ## Becas y Financiamiento
 
 ### Financiamiento
+
 `2027 - 2030`
 **Secretaría de Ciencia, Humanidades, Tecnología e Innovación**. Sistema Nacional de Investigadoras e Investigadores. Nivel Candidato. MXN 684,672. [[**link**](https://drive.google.com/file/d/1LEXlAENrrd5RlJ7ZRBAXxtNZcyGXbM38/view?usp=drive_link)]
 
